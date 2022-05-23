@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>http://michaelacheong.com/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <image>
+      <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Mon, 23 May 2022 16:44:01 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>now</title>
+      <link>http://michaelacheong.com/tags/now/</link>
+      <pubDate>Mon, 23 May 2022 16:44:01 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/now/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://michaelacheong.com/tags/first/</link>
+      <pubDate>Mon, 23 May 2022 15:34:05 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about-me</title>
+      <link>http://michaelacheong.com/tags/about-me/</link>
+      <pubDate>Mon, 23 May 2022 15:05:04 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/about-me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>identity</title>
+      <link>http://michaelacheong.com/tags/identity/</link>
+      <pubDate>Mon, 23 May 2022 15:05:04 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/identity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coding</title>
+      <link>http://michaelacheong.com/tags/coding/</link>
+      <pubDate>Mon, 23 May 2022 15:04:53 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>http://michaelacheong.com/tags/hugo/</link>
+      <pubDate>Mon, 23 May 2022 15:04:53 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>http://michaelacheong.com/tags/technology/</link>
+      <pubDate>Mon, 23 May 2022 15:04:53 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>website</title>
+      <link>http://michaelacheong.com/tags/website/</link>
+      <pubDate>Mon, 23 May 2022 15:04:53 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>digital-garden</title>
+      <link>http://michaelacheong.com/tags/digital-garden/</link>
+      <pubDate>Mon, 23 May 2022 15:04:46 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/digital-garden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learning</title>
+      <link>http://michaelacheong.com/tags/learning/</link>
+      <pubDate>Mon, 23 May 2022 15:04:46 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal-knowledge-management</title>
+      <link>http://michaelacheong.com/tags/personal-knowledge-management/</link>
+      <pubDate>Mon, 23 May 2022 15:04:46 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/personal-knowledge-management/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
