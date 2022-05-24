@@ -1,31 +1,166 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on Michaela Cheong</title>
     <link>http://michaelacheong.com/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on Michaela Cheong</description>
     <image>
       <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Mon, 23 May 2022 16:44:01 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 May 2022 12:07:51 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>untagged</title>
+      <link>http://michaelacheong.com/tags/untagged/</link>
+      <pubDate>Tue, 24 May 2022 12:07:51 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1-corinthians</title>
+      <link>http://michaelacheong.com/tags/1-corinthians/</link>
+      <pubDate>Tue, 24 May 2022 09:25:28 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/1-corinthians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bible</title>
+      <link>http://michaelacheong.com/tags/bible/</link>
+      <pubDate>Tue, 24 May 2022 09:25:28 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/bible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marriage</title>
+      <link>http://michaelacheong.com/tags/marriage/</link>
+      <pubDate>Tue, 24 May 2022 09:25:28 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/marriage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>http://michaelacheong.com/tags/personal/</link>
+      <pubDate>Tue, 24 May 2022 09:25:28 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1-john</title>
+      <link>http://michaelacheong.com/tags/1-john/</link>
+      <pubDate>Tue, 24 May 2022 09:23:39 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/1-john/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>church</title>
+      <link>http://michaelacheong.com/tags/church/</link>
+      <pubDate>Tue, 24 May 2022 09:23:39 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/church/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>corrie-ten-boom</title>
+      <link>http://michaelacheong.com/tags/corrie-ten-boom/</link>
+      <pubDate>Tue, 24 May 2022 09:23:39 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/corrie-ten-boom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>God</title>
+      <link>http://michaelacheong.com/tags/god/</link>
+      <pubDate>Tue, 24 May 2022 09:23:39 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/god/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>possessions</title>
+      <link>http://michaelacheong.com/tags/possessions/</link>
+      <pubDate>Tue, 24 May 2022 09:23:39 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/possessions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>time</title>
+      <link>http://michaelacheong.com/tags/time/</link>
+      <pubDate>Tue, 24 May 2022 09:23:39 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>http://michaelacheong.com/tags/css/</link>
+      <pubDate>Mon, 23 May 2022 21:54:05 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>http://michaelacheong.com/tags/technology/</link>
+      <pubDate>Mon, 23 May 2022 21:54:05 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>website</title>
+      <link>http://michaelacheong.com/tags/website/</link>
+      <pubDate>Mon, 23 May 2022 21:54:05 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/website/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>now</title>
       <link>http://michaelacheong.com/tags/now/</link>
-      <pubDate>Mon, 23 May 2022 16:44:01 +1000</pubDate>
+      <pubDate>Mon, 23 May 2022 18:28:20 +1000</pubDate>
       
       <guid>http://michaelacheong.com/tags/now/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>first</title>
-      <link>http://michaelacheong.com/tags/first/</link>
+      <title>coding</title>
+      <link>http://michaelacheong.com/tags/coding/</link>
       <pubDate>Mon, 23 May 2022 15:34:05 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/tags/first/</guid>
+      <guid>http://michaelacheong.com/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>http://michaelacheong.com/tags/github/</link>
+      <pubDate>Mon, 23 May 2022 15:34:05 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/github/</guid>
       <description></description>
     </item>
     
@@ -48,38 +183,11 @@
     </item>
     
     <item>
-      <title>coding</title>
-      <link>http://michaelacheong.com/tags/coding/</link>
-      <pubDate>Mon, 23 May 2022 15:04:53 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/tags/coding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>hugo</title>
       <link>http://michaelacheong.com/tags/hugo/</link>
       <pubDate>Mon, 23 May 2022 15:04:53 +1000</pubDate>
       
       <guid>http://michaelacheong.com/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>technology</title>
-      <link>http://michaelacheong.com/tags/technology/</link>
-      <pubDate>Mon, 23 May 2022 15:04:53 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/tags/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>website</title>
-      <link>http://michaelacheong.com/tags/website/</link>
-      <pubDate>Mon, 23 May 2022 15:04:53 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/tags/website/</guid>
       <description></description>
     </item>
     
@@ -107,6 +215,15 @@
       <pubDate>Mon, 23 May 2022 15:04:46 +1000</pubDate>
       
       <guid>http://michaelacheong.com/tags/personal-knowledge-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://michaelacheong.com/tags/first/</link>
+      <pubDate>Mon, 23 May 2022 15:04:25 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/first/</guid>
       <description></description>
     </item>
     

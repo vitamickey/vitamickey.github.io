@@ -1,23 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>coding on My New Hugo Site</title>
+    <title>coding on Michaela Cheong</title>
     <link>http://michaelacheong.com/tags/coding/</link>
-    <description>Recent content in coding on My New Hugo Site</description>
+    <description>Recent content in coding on Michaela Cheong</description>
     <image>
       <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Mon, 23 May 2022 15:04:53 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 May 2022 15:34:05 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github</title>
+      <link>http://michaelacheong.com/posts/github/</link>
+      <pubDate>Mon, 23 May 2022 15:34:05 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/posts/github/</guid>
+      <description>I am an absolute Github noob, but like, I&amp;rsquo;m trying my best.
+When I created this website, I didn&amp;rsquo;t realise I should have created the hugo new site in a cloned repository that was already on my computer, so, I am using the second answer of this stack overflow question to do it. https://stackoverflow.com/questions/3311774/how-to-convert-existing-non-empty-directory-into-a-git-working-directory-and-pus
+After some finicking, I now have my Hugo site version control being managed in Git. I think.</description>
+    </item>
+    
     <item>
       <title>Hugo</title>
       <link>http://michaelacheong.com/posts/hugo/</link>
       <pubDate>Mon, 23 May 2022 15:04:53 +1000</pubDate>
       
       <guid>http://michaelacheong.com/posts/hugo/</guid>
-      <description>Desc Text.</description>
+      <description>I already have broken my website.
+I started with hugo new post/so-it-began.md to create my first post, and then tried to change the folder &amp;ldquo;post&amp;rdquo; to &amp;ldquo;posts&amp;rdquo;, added a second file with hugo new posts/digital-garden.md, and now it&amp;rsquo;s not showing up on my website. lol.
+Thanks to this video for the setup guide tho https://www.youtube.com/watch?v=LIFvgrRxdt4
+I am a bit unnerved by the fact that he doesn&amp;rsquo;t merge to the main branch via a pull request and instead commits straight to the main branch.</description>
     </item>
     
   </channel>
