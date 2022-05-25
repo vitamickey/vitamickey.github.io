@@ -4,44 +4,69 @@
     <title>technology on Michaela Cheong</title>
     <link>http://michaelacheong.com/tags/technology/</link>
     <description>Recent content in technology on Michaela Cheong</description>
-    <image>
-      <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <lastBuildDate>Mon, 23 May 2022 21:54:05 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CSS</title>
-      <link>http://michaelacheong.com/posts/css/</link>
+      <link>http://michaelacheong.com/css/</link>
       <pubDate>Mon, 23 May 2022 21:54:05 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/posts/css/</guid>
+      <guid>http://michaelacheong.com/css/</guid>
       <description>I only slightly want to claw my eyes out. May I please just have pretty fonts?
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts https://discourse.gohugo.io/t/how-to-load-assets-from-the-static-folder-in-a-css-file/21005 Need to fix theme-vars.css with my actual desired fonts lol</description>
+      <content:encoded><![CDATA[<p>I only slightly want to claw my eyes out. May I please just have pretty fonts?</p>
+<p><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts">https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts</a>
+<a href="https://discourse.gohugo.io/t/how-to-load-assets-from-the-static-folder-in-a-css-file/21005">https://discourse.gohugo.io/t/how-to-load-assets-from-the-static-folder-in-a-css-file/21005</a>
+Need to fix theme-vars.css with my actual desired fonts lol</p>
+]]></content:encoded>
     </item>
     
     <item>
       <title>Github</title>
-      <link>http://michaelacheong.com/posts/github/</link>
+      <link>http://michaelacheong.com/github/</link>
       <pubDate>Mon, 23 May 2022 15:34:05 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/posts/github/</guid>
+      <guid>http://michaelacheong.com/github/</guid>
       <description>I am an absolute Github noob, but like, I&amp;rsquo;m trying my best.
 When I created this website, I didn&amp;rsquo;t realise I should have created the hugo new site in a cloned repository that was already on my computer, so, I am using the second answer of this stack overflow question to do it. https://stackoverflow.com/questions/3311774/how-to-convert-existing-non-empty-directory-into-a-git-working-directory-and-pus
 After some finicking, I now have my Hugo site version control being managed in Git. I think.</description>
+      <content:encoded><![CDATA[<p>I am an absolute Github noob, but like, I&rsquo;m trying my best.</p>
+<p>When I created this website, I didn&rsquo;t realise I should have created the <code>hugo new site</code> in a cloned repository that was already on my computer, so, I am using the second answer of this stack overflow question to do it. 
+<a href="https://stackoverflow.com/questions/3311774/how-to-convert-existing-non-empty-directory-into-a-git-working-directory-and-pus">https://stackoverflow.com/questions/3311774/how-to-convert-existing-non-empty-directory-into-a-git-working-directory-and-pus</a></p>
+<p>After some finicking, I now have my Hugo site version control being managed in Git. I think.</p>
+<p>My .gitignore file came from here
+<a href="https://github.com/github/gitignore/blob/main/community/Golang/Hugo.gitignore">https://github.com/github/gitignore/blob/main/community/Golang/Hugo.gitignore</a>
+I am only semi-confident in my .gitignore file for the website, but like, it&rsquo;s fine.</p>
+]]></content:encoded>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://michaelacheong.com/posts/hugo/</link>
+      <link>http://michaelacheong.com/hugo/</link>
       <pubDate>Mon, 23 May 2022 15:04:53 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/posts/hugo/</guid>
+      <guid>http://michaelacheong.com/hugo/</guid>
       <description>I already have broken my website.
 I started with hugo new post/so-it-began.md to create my first post, and then tried to change the folder &amp;ldquo;post&amp;rdquo; to &amp;ldquo;posts&amp;rdquo;, added a second file with hugo new posts/digital-garden.md, and now it&amp;rsquo;s not showing up on my website. lol.
 Thanks to this video for the setup guide tho https://www.youtube.com/watch?v=LIFvgrRxdt4
 I am a bit unnerved by the fact that he doesn&amp;rsquo;t merge to the main branch via a pull request and instead commits straight to the main branch.</description>
+      <content:encoded><![CDATA[<p>I already have broken my website.</p>
+<p>I started with <code>hugo new post/so-it-began.md</code> to create my first post, and then tried to change the folder &ldquo;post&rdquo; to &ldquo;posts&rdquo;, added a second file with <code>hugo new posts/digital-garden.md</code>, and now it&rsquo;s not showing up on my website. lol.</p>
+<p>Thanks to this video for the setup guide tho
+<a href="https://www.youtube.com/watch?v=LIFvgrRxdt4">https://www.youtube.com/watch?v=LIFvgrRxdt4</a></p>
+<p>I am a bit unnerved by the fact that he doesn&rsquo;t merge to the main branch via a pull request and instead commits straight to the main branch. I am 99% sure that is bad git practice.</p>
+<p>To build my site, need to use <code>hugo -t PaperMod</code> (or instead of <code>PaperMod</code>, the current website theme).</p>
+<p>I need to</p>
+<ul>
+<li>add comments with Disqus <a href="https://gohugo.io/content-management/comments/">https://gohugo.io/content-management/comments/</a></li>
+<li>make a stubs page <a href="https://www.mtsolitary.com/stubs/">https://www.mtsolitary.com/stubs/</a> <a href="https://www.mtsolitary.com/20210329232300-mt-solitary-stack/">https://www.mtsolitary.com/20210329232300-mt-solitary-stack/</a></li>
+<li>backlinks??? lol I have a death wish <a href="https://www.mtsolitary.com/20210329232300-mt-solitary-stack/">https://www.mtsolitary.com/20210329232300-mt-solitary-stack/</a></li>
+<li>a search with filters like hugo tania would be cool</li>
+</ul>
+<p>To customise CSS and HTML of a theme, you should <strong>override</strong> these rather than edit the themes files directly. The PaperMod files of my website were downloaded onto my laptop and edited directly, which I shouldn&rsquo;t have done. For HTML, images, etc., you can create a new file in the folders of your actual site, rather than the theme&rsquo;s folders. For example, to overwrite <code>head.html</code> stored in <code>/my-site/themes/theme-name/layout/partials/</code> you can copy that file into something like <code>/my-site/layouts/partials/</code> and then the content of that file will overwrite the original file. This is especially important if you have cloned a repository (but that&rsquo;s kinda of obvious, right?). To do that but for CSS, I am referencing Banjo Code.</p>
+<p><a href="https://www.banjocode.com/post/hugo/custom-css/">https://www.banjocode.com/post/hugo/custom-css/</a></p>
+]]></content:encoded>
     </item>
     
   </channel>

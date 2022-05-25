@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>about on Michaela Cheong</title>
+    <link>http://michaelacheong.com/tags/about/</link>
+    <description>Recent content in about on Michaela Cheong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Wed, 25 May 2022 08:53:38 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Michaela&#39;s Digital Garden</title>
+      <link>http://michaelacheong.com/welcome/</link>
+      <pubDate>Wed, 25 May 2022 08:53:38 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/welcome/</guid>
+      <description>Welcome to my lil&amp;rsquo; digital garden! This is a place where I would like to learn and grow.
+Some places to start on this website would be my post about digital gardens.</description>
+      <content:encoded><![CDATA[<p>Welcome to my lil&rsquo; digital garden! This is a place where I would like to learn and grow.</p>
+<p>Some places to start on this website would be my post about <a href="/digital-garden/">digital gardens</a>.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

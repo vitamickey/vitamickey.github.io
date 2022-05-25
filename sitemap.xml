@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://michaelacheong.com/posts/so-it-began/</loc>
-    <lastmod>2022-05-24T10:16:25+10:00</lastmod>
+    <loc>http://michaelacheong.com/welcome/</loc>
+    <lastmod>2022-05-25T08:53:38+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/tags/about/</loc>
+    <lastmod>2022-05-25T08:53:38+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/</loc>
+    <lastmod>2022-05-25T08:53:38+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/posts/</loc>
+    <lastmod>2022-05-25T08:53:38+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/tags/</loc>
+    <lastmod>2022-05-25T08:53:38+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/dunning-kruger/</loc>
+    <lastmod>2022-05-25T08:40:16+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/tags/untagged/</loc>
+    <lastmod>2022-05-25T08:40:16+10:00</lastmod>
   </url><url>
     <loc>http://michaelacheong.com/tags/life/</loc>
     <lastmod>2022-05-24T12:07:51+10:00</lastmod>
   </url><url>
-    <loc>http://michaelacheong.com/</loc>
+    <loc>http://michaelacheong.com/moving-out/</loc>
     <lastmod>2022-05-24T12:07:51+10:00</lastmod>
   </url><url>
-    <loc>http://michaelacheong.com/posts/moving-out/</loc>
-    <lastmod>2022-05-24T12:07:51+10:00</lastmod>
-  </url><url>
-    <loc>http://michaelacheong.com/posts/</loc>
-    <lastmod>2022-05-24T12:07:51+10:00</lastmod>
-  </url><url>
-    <loc>http://michaelacheong.com/tags/</loc>
-    <lastmod>2022-05-24T12:07:51+10:00</lastmod>
-  </url><url>
-    <loc>http://michaelacheong.com/posts/existential-dread/</loc>
+    <loc>http://michaelacheong.com/existential-dread/</loc>
     <lastmod>2022-05-24T12:07:21+10:00</lastmod>
   </url><url>
     <loc>http://michaelacheong.com/tags/mental-health/</loc>
@@ -35,7 +44,7 @@
     <loc>http://michaelacheong.com/tags/bible/</loc>
     <lastmod>2022-05-24T09:25:28+10:00</lastmod>
   </url><url>
-    <loc>http://michaelacheong.com/posts/better-to-marry/</loc>
+    <loc>http://michaelacheong.com/better-to-marry/</loc>
     <lastmod>2022-05-24T09:25:28+10:00</lastmod>
   </url><url>
     <loc>http://michaelacheong.com/tags/marriage/</loc>
@@ -56,7 +65,7 @@
     <loc>http://michaelacheong.com/tags/god/</loc>
     <lastmod>2022-05-24T09:23:39+10:00</lastmod>
   </url><url>
-    <loc>http://michaelacheong.com/posts/hold-loosely/</loc>
+    <loc>http://michaelacheong.com/hold-loosely/</loc>
     <lastmod>2022-05-24T09:23:39+10:00</lastmod>
   </url><url>
     <loc>http://michaelacheong.com/tags/possessions/</loc>
@@ -65,10 +74,10 @@
     <loc>http://michaelacheong.com/tags/time/</loc>
     <lastmod>2022-05-24T09:23:39+10:00</lastmod>
   </url><url>
-    <loc>http://michaelacheong.com/posts/css/</loc>
+    <loc>http://michaelacheong.com/tags/css/</loc>
     <lastmod>2022-05-23T21:54:05+10:00</lastmod>
   </url><url>
-    <loc>http://michaelacheong.com/tags/css/</loc>
+    <loc>http://michaelacheong.com/css/</loc>
     <lastmod>2022-05-23T21:54:05+10:00</lastmod>
   </url><url>
     <loc>http://michaelacheong.com/tags/technology/</loc>
@@ -77,22 +86,22 @@
     <loc>http://michaelacheong.com/tags/website/</loc>
     <lastmod>2022-05-23T21:54:05+10:00</lastmod>
   </url><url>
-    <loc>http://michaelacheong.com/posts/now/</loc>
-    <lastmod>2022-05-23T18:28:20+10:00</lastmod>
-  </url><url>
     <loc>http://michaelacheong.com/tags/now/</loc>
     <lastmod>2022-05-23T23:44:01+10:00</lastmod>
   </url><url>
-    <loc>http://michaelacheong.com/posts/to-write/</loc>
+    <loc>http://michaelacheong.com/now/</loc>
+    <lastmod>2022-05-23T18:28:20+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/to-write/</loc>
     <lastmod>2022-05-23T23:44:01+10:00</lastmod>
   </url><url>
     <loc>http://michaelacheong.com/tags/coding/</loc>
     <lastmod>2022-05-23T15:34:05+10:00</lastmod>
   </url><url>
-    <loc>http://michaelacheong.com/posts/github/</loc>
+    <loc>http://michaelacheong.com/tags/github/</loc>
     <lastmod>2022-05-23T15:34:05+10:00</lastmod>
   </url><url>
-    <loc>http://michaelacheong.com/tags/github/</loc>
+    <loc>http://michaelacheong.com/github/</loc>
     <lastmod>2022-05-23T15:34:05+10:00</lastmod>
   </url><url>
     <loc>http://michaelacheong.com/tags/about-me/</loc>
@@ -101,16 +110,16 @@
     <loc>http://michaelacheong.com/tags/identity/</loc>
     <lastmod>2022-05-23T15:05:04+10:00</lastmod>
   </url><url>
-    <loc>http://michaelacheong.com/posts/who-is-michaela/</loc>
+    <loc>http://michaelacheong.com/who-is-michaela/</loc>
     <lastmod>2022-05-23T15:05:04+10:00</lastmod>
-  </url><url>
-    <loc>http://michaelacheong.com/posts/hugo/</loc>
-    <lastmod>2022-05-23T15:12:53+10:00</lastmod>
   </url><url>
     <loc>http://michaelacheong.com/tags/hugo/</loc>
     <lastmod>2022-05-23T15:12:53+10:00</lastmod>
   </url><url>
-    <loc>http://michaelacheong.com/posts/digital-garden/</loc>
+    <loc>http://michaelacheong.com/hugo/</loc>
+    <lastmod>2022-05-23T15:12:53+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/digital-garden/</loc>
     <lastmod>2022-05-23T15:04:46+10:00</lastmod>
   </url><url>
     <loc>http://michaelacheong.com/tags/digital-garden/</loc>
@@ -123,6 +132,9 @@
     <lastmod>2022-05-23T15:04:46+10:00</lastmod>
   </url><url>
     <loc>http://michaelacheong.com/tags/first/</loc>
+    <lastmod>2022-05-24T10:16:25+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/so-it-began/</loc>
     <lastmod>2022-05-24T10:16:25+10:00</lastmod>
   </url><url>
     <loc>http://michaelacheong.com/archives/</loc>

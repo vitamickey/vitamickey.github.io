@@ -4,21 +4,22 @@
     <title>css on Michaela Cheong</title>
     <link>http://michaelacheong.com/tags/css/</link>
     <description>Recent content in css on Michaela Cheong</description>
-    <image>
-      <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <lastBuildDate>Mon, 23 May 2022 21:54:05 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CSS</title>
-      <link>http://michaelacheong.com/posts/css/</link>
+      <link>http://michaelacheong.com/css/</link>
       <pubDate>Mon, 23 May 2022 21:54:05 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/posts/css/</guid>
+      <guid>http://michaelacheong.com/css/</guid>
       <description>I only slightly want to claw my eyes out. May I please just have pretty fonts?
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts https://discourse.gohugo.io/t/how-to-load-assets-from-the-static-folder-in-a-css-file/21005 Need to fix theme-vars.css with my actual desired fonts lol</description>
+      <content:encoded><![CDATA[<p>I only slightly want to claw my eyes out. May I please just have pretty fonts?</p>
+<p><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts">https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts</a>
+<a href="https://discourse.gohugo.io/t/how-to-load-assets-from-the-static-folder-in-a-css-file/21005">https://discourse.gohugo.io/t/how-to-load-assets-from-the-static-folder-in-a-css-file/21005</a>
+Need to fix theme-vars.css with my actual desired fonts lol</p>
+]]></content:encoded>
     </item>
     
   </channel>
