@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Michaela Cheong</title>
+    <title>Posts on Michaela</title>
     <link>http://michaelacheong.com/posts/</link>
-    <description>Recent content in Posts on Michaela Cheong</description>
+    <description>Recent content in Posts on Michaela</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-au</language>
     <lastBuildDate>Wed, 25 May 2022 08:53:38 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Michaela&#39;s Digital Garden</title>
@@ -13,8 +12,7 @@
       <pubDate>Wed, 25 May 2022 08:53:38 +1000</pubDate>
       
       <guid>http://michaelacheong.com/welcome/</guid>
-      <description>Welcome to my lil&amp;rsquo; digital garden! This is a place where I would like to learn and grow.
-Some places to start on this website would be my post about digital gardens.</description>
+      <description>Start here.</description>
       <content:encoded><![CDATA[<p>Welcome to my lil&rsquo; digital garden! This is a place where I would like to learn and grow.</p>
 <p>Some places to start on this website would be my post about <a href="/digital-garden/">digital gardens</a>.</p>
 ]]></content:encoded>
@@ -38,9 +36,20 @@ Some places to start on this website would be my post about digital gardens.</de
       
       <guid>http://michaelacheong.com/moving-out/</guid>
       <description>I am moving out soon. Here are some helpful resources:
-[to add]</description>
+ Queensland, Australia-based organisations &amp;ndash; Residential Tenancies Authority | Students https://www.rta.qld.gov.au/before-renting/choosing-a-rental-property/students &amp;ndash; Queensland Youth Housing Coalition | First Time Renter: A step by step guide to getting a rental property https://www.qyhc.org.au/first-time-renter/ &amp;ndash; QLD Govt | Moving out of home https://www.qld.gov.au/youth/life-skills-turning-18/moving-out-of-home &amp;ndash; Legal Aid | Moving out https://www.legalaid.qld.gov.au/Find-legal-information/Relationships-and-children/Children-and-parenting/Moving-out Australian resources &amp;ndash; MoneySmart | Moving out of home https://moneysmart.gov.au/student-life-and-money/moving-out-of-home &amp;ndash; Zoom Removals | Epic House Moving Checklist https://www.</description>
       <content:encoded><![CDATA[<p>I am moving out soon. Here are some helpful resources:</p>
-<p>[to add]</p>
+<ul>
+<li>Queensland, Australia-based organisations
+&ndash; Residential Tenancies Authority | Students <a href="https://www.rta.qld.gov.au/before-renting/choosing-a-rental-property/students">https://www.rta.qld.gov.au/before-renting/choosing-a-rental-property/students</a>
+&ndash; Queensland Youth Housing Coalition | First Time Renter: A step by step guide to getting a rental property <a href="https://www.qyhc.org.au/first-time-renter/">https://www.qyhc.org.au/first-time-renter/</a>
+&ndash; QLD Govt | Moving out of home <a href="https://www.qld.gov.au/youth/life-skills-turning-18/moving-out-of-home">https://www.qld.gov.au/youth/life-skills-turning-18/moving-out-of-home</a>
+&ndash; Legal Aid | Moving out <a href="https://www.legalaid.qld.gov.au/Find-legal-information/Relationships-and-children/Children-and-parenting/Moving-out">https://www.legalaid.qld.gov.au/Find-legal-information/Relationships-and-children/Children-and-parenting/Moving-out</a></li>
+<li>Australian resources
+&ndash; MoneySmart | Moving out of home <a href="https://moneysmart.gov.au/student-life-and-money/moving-out-of-home">https://moneysmart.gov.au/student-life-and-money/moving-out-of-home</a>
+&ndash; Zoom Removals | Epic House Moving Checklist <a href="https://www.zoomremovals.com.au/epic-moving-checklist/">https://www.zoomremovals.com.au/epic-moving-checklist/</a> (I am using this as a template)
+&ndash; Canstar | Moving house checklist: key considerations when moving <a href="https://www.canstar.com.au/home-loans/moving-house-checklist/">https://www.canstar.com.au/home-loans/moving-house-checklist/</a>
+&ndash; Luxo Living | Moving Out of the Family Home: The Ultimate Checklist <a href="https://www.luxoliving.com.au/blog/moving-out-of-the-family-home-the-ultimate-checklist">https://www.luxoliving.com.au/blog/moving-out-of-the-family-home-the-ultimate-checklist</a></li>
+</ul>
 ]]></content:encoded>
     </item>
     
@@ -135,9 +144,13 @@ Need to fix theme-vars.css with my actual desired fonts lol</p>
       <pubDate>Mon, 23 May 2022 16:44:01 +1000</pubDate>
       
       <guid>http://michaelacheong.com/to-write/</guid>
-      <description> Lots and lots of collecting all of my God-related thoughts that are randomly scribbled on paper which, while nice, are not easy to look back on sometimes Fonts, typography, favourite fonts Mathematics, subjects I&amp;rsquo;m taking, transfer statistics stuff onto digital garden maybe?? High school, reflections, why it sucked Music, instruments Crochet, yarn and hook stuff Anything from Notion that I sort of don&amp;rsquo;t want in Notion anymore (I am a bit sick of Notion) A rant about Notion Anki setup The difficultiy I have in sticking to systems Bullet journalling (Ryder Carroll basics) Stationery  </description>
+      <description> Lots and lots of collecting all of my God-related thoughts that are randomly scribbled on paper which, while nice, are not easy to look back on sometimes How I came to understand God&amp;rsquo;s grace The Gospel for beginners The Bible for beginners Quiet times?? Fonts, typography, favourite fonts Mathematics, subjects I&amp;rsquo;m taking, transfer statistics stuff onto digital garden maybe?? High school, reflections, why it sucked Music, instruments Crochet, yarn and hook stuff Anything from Notion that I sort of don&amp;rsquo;t want in Notion anymore (I am a bit sick of Notion) A rant about Notion Anki setup The difficultiy I have in sticking to systems Bullet journalling (Ryder Carroll basics) Stationery  </description>
       <content:encoded><![CDATA[<ul>
 <li>Lots and lots of collecting all of my God-related thoughts that are randomly scribbled on paper which, while nice, are not easy to look back on sometimes</li>
+<li>How I came to understand God&rsquo;s grace</li>
+<li>The Gospel for beginners</li>
+<li>The Bible for beginners</li>
+<li>Quiet times??</li>
 <li>Fonts, typography, favourite fonts</li>
 <li>Mathematics, subjects I&rsquo;m taking, transfer statistics stuff onto digital garden maybe??</li>
 <li>High school, reflections, why it sucked</li>
@@ -154,15 +167,15 @@ Need to fix theme-vars.css with my actual desired fonts lol</p>
     </item>
     
     <item>
-      <title>Github</title>
+      <title>GitHub</title>
       <link>http://michaelacheong.com/github/</link>
       <pubDate>Mon, 23 May 2022 15:34:05 +1000</pubDate>
       
       <guid>http://michaelacheong.com/github/</guid>
-      <description>I am an absolute Github noob, but like, I&amp;rsquo;m trying my best.
+      <description>I am an absolute GitHub noob, but like, I&amp;rsquo;m trying my best.
 When I created this website, I didn&amp;rsquo;t realise I should have created the hugo new site in a cloned repository that was already on my computer, so, I am using the second answer of this stack overflow question to do it. https://stackoverflow.com/questions/3311774/how-to-convert-existing-non-empty-directory-into-a-git-working-directory-and-pus
 After some finicking, I now have my Hugo site version control being managed in Git. I think.</description>
-      <content:encoded><![CDATA[<p>I am an absolute Github noob, but like, I&rsquo;m trying my best.</p>
+      <content:encoded><![CDATA[<p>I am an absolute GitHub noob, but like, I&rsquo;m trying my best.</p>
 <p>When I created this website, I didn&rsquo;t realise I should have created the <code>hugo new site</code> in a cloned repository that was already on my computer, so, I am using the second answer of this stack overflow question to do it. 
 <a href="https://stackoverflow.com/questions/3311774/how-to-convert-existing-non-empty-directory-into-a-git-working-directory-and-pus">https://stackoverflow.com/questions/3311774/how-to-convert-existing-non-empty-directory-into-a-git-working-directory-and-pus</a></p>
 <p>After some finicking, I now have my Hugo site version control being managed in Git. I think.</p>
@@ -213,9 +226,13 @@ I am a bit unnerved by the fact that he doesn&amp;rsquo;t merge to the main bran
 <p>I need to</p>
 <ul>
 <li>add comments with Disqus <a href="https://gohugo.io/content-management/comments/">https://gohugo.io/content-management/comments/</a></li>
-<li>make a stubs page <a href="https://www.mtsolitary.com/stubs/">https://www.mtsolitary.com/stubs/</a> <a href="https://www.mtsolitary.com/20210329232300-mt-solitary-stack/">https://www.mtsolitary.com/20210329232300-mt-solitary-stack/</a></li>
-<li>backlinks??? lol I have a death wish <a href="https://www.mtsolitary.com/20210329232300-mt-solitary-stack/">https://www.mtsolitary.com/20210329232300-mt-solitary-stack/</a></li>
-<li>a search with filters like hugo tania would be cool</li>
+<li>make a stubs page?? <a href="https://www.mtsolitary.com/stubs/">https://www.mtsolitary.com/stubs/</a> <a href="https://www.mtsolitary.com/20210329232300-mt-solitary-stack/">https://www.mtsolitary.com/20210329232300-mt-solitary-stack/</a></li>
+<li>BACKLINKS??? lol I have a death wish <a href="https://gabrielleearnshaw.medium.com/implementing-backlinks-in-a-hugo-website-e548d3d8f0e0">https://gabrielleearnshaw.medium.com/implementing-backlinks-in-a-hugo-website-e548d3d8f0e0</a> <a href="https://www.mtsolitary.com/20210329232300-mt-solitary-stack/">https://www.mtsolitary.com/20210329232300-mt-solitary-stack/</a></li>
+<li>a search with filters like hugo tania or Maggie Appleton&rsquo;s website would be cool
+&ndash; an option to see my posts related to any book of the bible, maybe</li>
+<li>ordering by last tended, not by date planted</li>
+<li>proper implementation of horticultural extended metaphor</li>
+<li></li>
 </ul>
 <p>To customise CSS and HTML of a theme, you should <strong>override</strong> these rather than edit the themes files directly. The PaperMod files of my website were downloaded onto my laptop and edited directly, which I shouldn&rsquo;t have done. For HTML, images, etc., you can create a new file in the folders of your actual site, rather than the theme&rsquo;s folders. For example, to overwrite <code>head.html</code> stored in <code>/my-site/themes/theme-name/layout/partials/</code> you can copy that file into something like <code>/my-site/layouts/partials/</code> and then the content of that file will overwrite the original file. This is especially important if you have cloned a repository (but that&rsquo;s kinda of obvious, right?). To do that but for CSS, I am referencing Banjo Code.</p>
 <p><a href="https://www.banjocode.com/post/hugo/custom-css/">https://www.banjocode.com/post/hugo/custom-css/</a></p>
