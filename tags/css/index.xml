@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>css on Michaela</title>
-    <link>http://michaelacheong.com/tags/css/</link>
+    <link>https://michaelacheong.com/tags/css/</link>
     <description>Recent content in css on Michaela</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 23 May 2022 21:54:05 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 May 2022 21:54:05 +1000</lastBuildDate><atom:link href="https://michaelacheong.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CSS</title>
-      <link>http://michaelacheong.com/css/</link>
+      <link>https://michaelacheong.com/css/</link>
       <pubDate>Mon, 23 May 2022 21:54:05 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/css/</guid>
+      <guid>https://michaelacheong.com/css/</guid>
       <description>I only slightly want to claw my eyes out. May I please just have pretty fonts?
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts https://discourse.gohugo.io/t/how-to-load-assets-from-the-static-folder-in-a-css-file/21005 Need to fix theme-vars.css with my actual desired fonts lol</description>
       <content:encoded><![CDATA[<p>I only slightly want to claw my eyes out. May I please just have pretty fonts?</p>

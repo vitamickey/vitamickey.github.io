@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>untagged on Michaela</title>
-    <link>http://michaelacheong.com/tags/untagged/</link>
+    <link>https://michaelacheong.com/tags/untagged/</link>
     <description>Recent content in untagged on Michaela</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 25 May 2022 08:40:16 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 May 2022 08:40:16 +1000</lastBuildDate><atom:link href="https://michaelacheong.com/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dunning-Kruger Effect</title>
-      <link>http://michaelacheong.com/dunning-kruger/</link>
+      <link>https://michaelacheong.com/dunning-kruger/</link>
       <pubDate>Wed, 25 May 2022 08:40:16 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/dunning-kruger/</guid>
+      <guid>https://michaelacheong.com/dunning-kruger/</guid>
       <description>The Dunning-Kruger Effect is the psychological phenomenon wherein people display a cognitive bias towards their own abilities: those with limited competence or knowledge will overestimate their abilities and demonstrate great confidence in themselves, whilst those with increasing or expert-level competence are reserved in self-confidence as they acknowledge the limitations of their knowledge.</description>
       <content:encoded><![CDATA[<p>The Dunning-Kruger Effect is the psychological phenomenon wherein people display a cognitive bias towards their own abilities: those with limited competence or knowledge will overestimate their abilities and demonstrate great confidence in themselves, whilst those with increasing or expert-level competence are reserved in self-confidence as they acknowledge the limitations of their knowledge.</p>
 ]]></content:encoded>
