@@ -213,10 +213,7 @@ A girl from my Youth group wrote this out on a card for me in nice hand-letterin
       <pubDate>Mon, 23 May 2022 15:04:53 +1000</pubDate>
       
       <guid>http://michaelacheong.com/hugo/</guid>
-      <description>I already have broken my website.
-I started with hugo new post/so-it-began.md to create my first post, and then tried to change the folder &amp;ldquo;post&amp;rdquo; to &amp;ldquo;posts&amp;rdquo;, added a second file with hugo new posts/digital-garden.md, and now it&amp;rsquo;s not showing up on my website. lol.
-Thanks to this video for the setup guide tho https://www.youtube.com/watch?v=LIFvgrRxdt4
-I am a bit unnerved by the fact that he doesn&amp;rsquo;t merge to the main branch via a pull request and instead commits straight to the main branch.</description>
+      <description>What I use to make my site.</description>
       <content:encoded><![CDATA[<p>I already have broken my website.</p>
 <p>I started with <code>hugo new post/so-it-began.md</code> to create my first post, and then tried to change the folder &ldquo;post&rdquo; to &ldquo;posts&rdquo;, added a second file with <code>hugo new posts/digital-garden.md</code>, and now it&rsquo;s not showing up on my website. lol.</p>
 <p>Thanks to this video for the setup guide tho
