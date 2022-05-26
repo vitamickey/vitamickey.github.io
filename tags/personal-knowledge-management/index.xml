@@ -4,10 +4,6 @@
     <title>personal-knowledge-management on Michaela Cheong</title>
     <link>https://michaelacheong.com/tags/personal-knowledge-management/</link>
     <description>Recent content in personal-knowledge-management on Michaela Cheong</description>
-    <image>
-      <url>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 23 May 2022 15:04:46 +1000</lastBuildDate><atom:link href="https://michaelacheong.com/tags/personal-knowledge-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -17,7 +13,12 @@
       
       <guid>https://michaelacheong.com/digital-garden/</guid>
       <description>A digital garden is a place for thoughts, knowledge and ideas to grow.
-I will not follow the original ethos to the T, but it&amp;rsquo;s a very nice read nonetheless.</description>
+The main reference for what a digital garden is comes from Maggie Appleton. I will not follow the original ethos to the T, but it&amp;rsquo;s a very nice read nonetheless.
+For me, the main pull towards maintaining a digital garden is that it&amp;rsquo;s not as intensive as a blog. As outlined in Maggie&amp;rsquo;s writing, a blog requires you to do all of this background research before eventually deciding to release a perfectly manicured opinion to the internet, exerting your intellectual authority onto all who pass through your site.</description>
+      <content:encoded><![CDATA[<p>A digital garden is a place for thoughts, knowledge and ideas to grow.</p>
+<p>The main reference for what a digital garden is comes from <a href="https://maggieappleton.com/garden-history">Maggie Appleton</a>. I will not follow the original ethos to the T, but it&rsquo;s a very nice read nonetheless.</p>
+<p>For me, the main pull towards maintaining a digital garden is that it&rsquo;s not as intensive as a blog. As outlined in Maggie&rsquo;s writing, a blog requires you to do all of this background research before eventually deciding to release a perfectly manicured opinion to the internet, exerting your intellectual authority onto all who pass through your site. A digital garden acknowledges that learning is ongoing, and that we will never know everything, or anything, in its entirety.</p>
+]]></content:encoded>
     </item>
     
   </channel>
