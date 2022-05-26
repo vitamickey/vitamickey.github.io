@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>now on Michaela</title>
+    <title>now on Michaela Cheong</title>
     <link>https://michaelacheong.com/tags/now/</link>
-    <description>Recent content in now on Michaela</description>
+    <description>Recent content in now on Michaela Cheong</description>
+    <image>
+      <url>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 23 May 2022 18:28:20 +1000</lastBuildDate><atom:link href="https://michaelacheong.com/tags/now/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,12 +18,6 @@
       <guid>https://michaelacheong.com/now/</guid>
       <description>This is a bucket of all of the things currently simmering away in my brain.
  Moving out University exams loom  </description>
-      <content:encoded><![CDATA[<p>This is a bucket of all of the things currently simmering away in my brain.</p>
-<ul>
-<li>Moving out</li>
-<li>University exams loom</li>
-</ul>
-]]></content:encoded>
     </item>
     
     <item>
@@ -29,25 +27,6 @@
       
       <guid>https://michaelacheong.com/to-write/</guid>
       <description> Lots and lots of collecting all of my God-related thoughts that are randomly scribbled on paper which, while nice, are not easy to look back on sometimes How I came to understand God&amp;rsquo;s grace The Gospel for beginners The Bible for beginners Quiet times?? Fonts, typography, favourite fonts Mathematics, subjects I&amp;rsquo;m taking, transfer statistics stuff onto digital garden maybe?? High school, reflections, why it sucked Music, instruments Crochet, yarn and hook stuff Anything from Notion that I sort of don&amp;rsquo;t want in Notion anymore (I am a bit sick of Notion) A rant about Notion Anki setup The difficultiy I have in sticking to systems Bullet journalling (Ryder Carroll basics) Stationery  </description>
-      <content:encoded><![CDATA[<ul>
-<li>Lots and lots of collecting all of my God-related thoughts that are randomly scribbled on paper which, while nice, are not easy to look back on sometimes</li>
-<li>How I came to understand God&rsquo;s grace</li>
-<li>The Gospel for beginners</li>
-<li>The Bible for beginners</li>
-<li>Quiet times??</li>
-<li>Fonts, typography, favourite fonts</li>
-<li>Mathematics, subjects I&rsquo;m taking, transfer statistics stuff onto digital garden maybe??</li>
-<li>High school, reflections, why it sucked</li>
-<li>Music, instruments</li>
-<li>Crochet, yarn and hook stuff</li>
-<li>Anything from Notion that I sort of don&rsquo;t want in Notion anymore (I am a bit sick of Notion)</li>
-<li>A rant about Notion</li>
-<li>Anki setup</li>
-<li>The difficultiy I have in sticking to systems</li>
-<li>Bullet journalling (Ryder Carroll basics)</li>
-<li>Stationery</li>
-</ul>
-]]></content:encoded>
     </item>
     
   </channel>

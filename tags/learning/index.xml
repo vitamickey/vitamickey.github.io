@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>learning on Michaela</title>
+    <title>learning on Michaela Cheong</title>
     <link>https://michaelacheong.com/tags/learning/</link>
-    <description>Recent content in learning on Michaela</description>
+    <description>Recent content in learning on Michaela Cheong</description>
+    <image>
+      <url>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 23 May 2022 15:04:46 +1000</lastBuildDate><atom:link href="https://michaelacheong.com/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,9 +18,6 @@
       <guid>https://michaelacheong.com/digital-garden/</guid>
       <description>A digital garden is a place for thoughts, knowledge and ideas to grow.
 I will not follow the original ethos to the T, but it&amp;rsquo;s a very nice read nonetheless.</description>
-      <content:encoded><![CDATA[<p>A digital garden is a place for thoughts, knowledge and ideas to grow.</p>
-<p>I will not follow the original ethos to the T, but it&rsquo;s a very nice read nonetheless.</p>
-]]></content:encoded>
     </item>
     
   </channel>
