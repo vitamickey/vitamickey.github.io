@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>first on Michaela Cheong</title>
-    <link>https://michaelacheong.com/tags/first/</link>
-    <description>Recent content in first on Michaela Cheong</description>
-    <image>
-      <url>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
+    <title>first on Michaela</title>
+    <link>http://michaelacheong.com/tags/first/</link>
+    <description>Recent content in first on Michaela</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 23 May 2022 15:04:25 +1000</lastBuildDate><atom:link href="https://michaelacheong.com/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 May 2022 15:04:25 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>So, it began</title>
-      <link>https://michaelacheong.com/so-it-began/</link>
+      <link>http://michaelacheong.com/so-it-began/</link>
       <pubDate>Mon, 23 May 2022 15:04:25 +1000</pubDate>
       
-      <guid>https://michaelacheong.com/so-it-began/</guid>
+      <guid>http://michaelacheong.com/so-it-began/</guid>
       <description>I was trying to figure out how to make this website and what exactly it would hold and communicate to the rest of the billions of people with an internet connection. Not that I expect an audience, but once things are out in the world, they stay there. A blog seemed limiting, and I got caught up in a lot of websites recommending I choose a niche and stick to it.</description>
+      <content:encoded><![CDATA[<p>I was trying to figure out how to make this website and what exactly it would hold and communicate to the rest of the billions of people with an internet connection. Not that I expect an audience, but once things are out in the world, they stay there. A blog seemed limiting, and I got caught up in a lot of websites recommending I choose a niche and stick to it.</p>
+<p>I did already know how I would want to run this website, thanks to my friend Tom who suggested I run my site with Hugo off of Github.</p>
+<p>Whilst combing through the Hugo themes on offer, I stumbled across a page about Hugo on Nikita Voloboev&rsquo;s old personal wiki, and then discovered her new wiki and the idea of a Digital Garden.</p>
+<p>I had read about all kinds of personal knowledge management systems (PKMs) and related software before. I have tried to stick with Notion for many years now (with wavering success), dipped my toes into Obsidian, maintained a Studyblr back in the mid-to-late 2010s, and read or listened to people talk about second brains, Zettelkastens and atomising information (mostly, SuperMemo&rsquo;s 20 rules of knowledge formation in the context of trying to use Anki, also only mildly successful given I found it difficult to implement in the study of tertiary-level mathematics).</p>
+<p>After reading Nikita&rsquo;s writing on digital gardens, and then Maggie Appleton&rsquo;s well-referenced article on their history and ethos, a digital garden seemed like the refreshing middle-ground I had been looking for in wanting to share learning with others in a orderly chaos without it being void of structure but also not strictly chronological. I also didn&rsquo;t want to publish content on something like a blog that made me seem like an authority on anything because, realistically, I am incredibly imperfect and constantly learning. The digital garden acknowledges growth and encourages collaboration. It excites me.</p>
+<p>And, quite frankly, the concept of a digital garden also tickled my fancy because it feels rather cute and cottagecore-esque.</p>
+<p>Here, there will be learning, messing up, growing up, falling over, brushing off, getting back up, and doing all of that a thousand times. Welcome to my little corner of the internet.</p>
+]]></content:encoded>
     </item>
     
   </channel>

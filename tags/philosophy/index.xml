@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>philosophy on Michaela Cheong</title>
-    <link>https://michaelacheong.com/tags/philosophy/</link>
-    <description>Recent content in philosophy on Michaela Cheong</description>
-    <image>
-      <url>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
+    <title>philosophy on Michaela</title>
+    <link>http://michaelacheong.com/tags/philosophy/</link>
+    <description>Recent content in philosophy on Michaela</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 24 May 2022 12:07:21 +1000</lastBuildDate><atom:link href="https://michaelacheong.com/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 May 2022 12:07:21 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Existential dread</title>
-      <link>https://michaelacheong.com/existential-dread/</link>
+      <link>http://michaelacheong.com/existential-dread/</link>
       <pubDate>Tue, 24 May 2022 12:07:21 +1000</pubDate>
       
-      <guid>https://michaelacheong.com/existential-dread/</guid>
+      <guid>http://michaelacheong.com/existential-dread/</guid>
       <description>Sometimes, I get this horrible feeling in my stomach. It&amp;rsquo;s happens in a moment where I sort of realise that I am an actual human on the earth. It&amp;rsquo;s a strange sensation. I feel this pit in my stomach, and the world seems a bit too real for a couple of seconds.</description>
+      <content:encoded><![CDATA[<p>Sometimes, I get this horrible feeling in my stomach. It&rsquo;s happens in a moment where I sort of realise that I am an actual human on the earth. It&rsquo;s a strange sensation. I feel this pit in my stomach, and the world seems a bit too real for a couple of seconds.</p>
+]]></content:encoded>
     </item>
     
   </channel>
