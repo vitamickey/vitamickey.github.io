@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>fashion on Michaela Cheong</title>
-    <link>https://michaelacheong.com/tags/fashion/</link>
-    <description>Recent content in fashion on Michaela Cheong</description>
+    <title>fashion on Michaela</title>
+    <link>http://michaelacheong.com/tags/fashion/</link>
+    <description>Recent content in fashion on Michaela</description>
+    <image>
+      <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 26 May 2022 15:17:46 +1000</lastBuildDate><atom:link href="https://michaelacheong.com/tags/fashion/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-au</language>
+    <lastBuildDate>Thu, 26 May 2022 15:17:46 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/fashion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ethical fashion</title>
-      <link>https://michaelacheong.com/ethical-fashion/</link>
+      <link>http://michaelacheong.com/ethical-fashion/</link>
       <pubDate>Thu, 26 May 2022 15:17:46 +1000</pubDate>
       
-      <guid>https://michaelacheong.com/ethical-fashion/</guid>
-      <description>To be honestly, this note was one of the main reasons I wanted to make a website: so I could easily link friends and family to resources about ethical fashion, without me necessarily dumping an entire essay into their DMs.
-What is ethical fashion? What is fast fashion? </description>
-      <content:encoded><![CDATA[<p>To be honestly, this note was one of the main reasons I wanted to make a website: so I could easily link friends and family to resources about ethical fashion, without me necessarily dumping an entire essay into their DMs.</p>
-<h1 id="what-is-ethical-fashion">What is ethical fashion?</h1>
-<h1 id="what-is-fast-fashion">What is fast fashion?</h1>
-]]></content:encoded>
+      <guid>http://michaelacheong.com/ethical-fashion/</guid>
+      <description>A topic as chunky as my Doc Marten soles.</description>
     </item>
     
   </channel>

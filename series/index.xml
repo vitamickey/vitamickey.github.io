@@ -4,6 +4,11 @@
     <title>Series on Michaela</title>
     <link>http://michaelacheong.com/series/</link>
     <description>Recent content in Series on Michaela</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://michaelacheong.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language><atom:link href="http://michaelacheong.com/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

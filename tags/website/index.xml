@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>website on Michaela Cheong</title>
-    <link>https://michaelacheong.com/tags/website/</link>
-    <description>Recent content in website on Michaela Cheong</description>
+    <title>website on Michaela</title>
+    <link>http://michaelacheong.com/tags/website/</link>
+    <description>Recent content in website on Michaela</description>
+    <image>
+      <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
     <lastBuildDate>Mon, 23 May 2022 21:54:05 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CSS</title>
@@ -14,11 +19,6 @@
       <guid>http://michaelacheong.com/css/</guid>
       <description>I only slightly want to claw my eyes out. May I please just have pretty fonts?
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts https://discourse.gohugo.io/t/how-to-load-assets-from-the-static-folder-in-a-css-file/21005 Need to fix theme-vars.css with my actual desired fonts lol</description>
-      <content:encoded><![CDATA[<p>I only slightly want to claw my eyes out. May I please just have pretty fonts?</p>
-<p><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts">https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts</a>
-<a href="https://discourse.gohugo.io/t/how-to-load-assets-from-the-static-folder-in-a-css-file/21005">https://discourse.gohugo.io/t/how-to-load-assets-from-the-static-folder-in-a-css-file/21005</a>
-Need to fix theme-vars.css with my actual desired fonts lol</p>
-]]></content:encoded>
     </item>
     
     <item>
@@ -27,30 +27,7 @@ Need to fix theme-vars.css with my actual desired fonts lol</p>
       <pubDate>Mon, 23 May 2022 15:04:53 +1000</pubDate>
       
       <guid>http://michaelacheong.com/hugo/</guid>
-      <description>I already have broken my website.
-I started with hugo new post/so-it-began.md to create my first post, and then tried to change the folder &amp;ldquo;post&amp;rdquo; to &amp;ldquo;posts&amp;rdquo;, added a second file with hugo new posts/digital-garden.md, and now it&amp;rsquo;s not showing up on my website. lol.
-Thanks to this video for the setup guide tho https://www.youtube.com/watch?v=LIFvgrRxdt4
-I am a bit unnerved by the fact that he doesn&amp;rsquo;t merge to the main branch via a pull request and instead commits straight to the main branch.</description>
-      <content:encoded><![CDATA[<p>I already have broken my website.</p>
-<p>I started with <code>hugo new post/so-it-began.md</code> to create my first post, and then tried to change the folder &ldquo;post&rdquo; to &ldquo;posts&rdquo;, added a second file with <code>hugo new posts/digital-garden.md</code>, and now it&rsquo;s not showing up on my website. lol.</p>
-<p>Thanks to this video for the setup guide tho
-<a href="https://www.youtube.com/watch?v=LIFvgrRxdt4">https://www.youtube.com/watch?v=LIFvgrRxdt4</a></p>
-<p>I am a bit unnerved by the fact that he doesn&rsquo;t merge to the main branch via a pull request and instead commits straight to the main branch. I am 99% sure that is bad git practice.</p>
-<p>To build my site, need to use <code>hugo -t PaperMod</code> (or instead of <code>PaperMod</code>, the current website theme).</p>
-<p>I need to</p>
-<ul>
-<li>add comments with Disqus <a href="https://gohugo.io/content-management/comments/">https://gohugo.io/content-management/comments/</a></li>
-<li>make a stubs page?? <a href="https://www.mtsolitary.com/stubs/">https://www.mtsolitary.com/stubs/</a> <a href="https://www.mtsolitary.com/20210329232300-mt-solitary-stack/">https://www.mtsolitary.com/20210329232300-mt-solitary-stack/</a></li>
-<li>BACKLINKS??? lol I have a death wish <a href="https://gabrielleearnshaw.medium.com/implementing-backlinks-in-a-hugo-website-e548d3d8f0e0">https://gabrielleearnshaw.medium.com/implementing-backlinks-in-a-hugo-website-e548d3d8f0e0</a> <a href="https://www.mtsolitary.com/20210329232300-mt-solitary-stack/">https://www.mtsolitary.com/20210329232300-mt-solitary-stack/</a></li>
-<li>a search with filters like hugo tania or Maggie Appleton&rsquo;s website would be cool
-&ndash; an option to see my posts related to any book of the bible, maybe</li>
-<li>ordering by last tended, not by date planted</li>
-<li>proper implementation of horticultural extended metaphor</li>
-<li></li>
-</ul>
-<p>To customise CSS and HTML of a theme, you should <strong>override</strong> these rather than edit the themes files directly. The PaperMod files of my website were downloaded onto my laptop and edited directly, which I shouldn&rsquo;t have done. For HTML, images, etc., you can create a new file in the folders of your actual site, rather than the theme&rsquo;s folders. For example, to overwrite <code>head.html</code> stored in <code>/my-site/themes/theme-name/layout/partials/</code> you can copy that file into something like <code>/my-site/layouts/partials/</code> and then the content of that file will overwrite the original file. This is especially important if you have cloned a repository (but that&rsquo;s kinda of obvious, right?). To do that but for CSS, I am referencing Banjo Code.</p>
-<p><a href="https://www.banjocode.com/post/hugo/custom-css/">https://www.banjocode.com/post/hugo/custom-css/</a></p>
-]]></content:encoded>
+      <description>What I use to make my site.</description>
     </item>
     
   </channel>
