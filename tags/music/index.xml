@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>music on Michaela</title>
+    <link>http://michaelacheong.com/tags/music/</link>
+    <description>Recent content in music on Michaela</description>
+    <image>
+      <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Sat, 28 May 2022 09:38:06 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Taking caution with my K-Pop</title>
+      <link>http://michaelacheong.com/kpop-caution/</link>
+      <pubDate>Sat, 28 May 2022 09:38:06 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/kpop-caution/</guid>
+      <description>I got into K-Pop quite a while ago, but since becoming more serious about my faith have often walked back from idolatry to just music enjoyment. I have also recently been thinking I should pay more attention to the meaning of the songs I listen to, even if they&amp;rsquo;re in a different language. That is going to take&amp;hellip; a lot of work. But I think it will start with filtering out the new songs that come into my sphere of attention and going through the entire discography of Red Velvet and LOONA to sort out the ones I should keep around vs the ones I could chuck.</description>
+    </item>
+    
+  </channel>
+</rss>
