@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Mon, 23 May 2022 21:54:05 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 May 2022 09:26:13 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VSCode</title>
+      <link>http://michaelacheong.com/vscode/</link>
+      <pubDate>Thu, 26 May 2022 09:26:13 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/vscode/</guid>
+      <description>I think you call this a stack, where you talk about applications you use and their setup. So, I am gonna write a university stack, or a general productivity stack, but this is my VSCode stack, which in essence is a list of extensions I use and my setup.
+ Colour Theme: Rouge  I like navy and the soft pink is really nice. -I also have used Horizon Bright by jolaleye if I ever want to use a light theme (so, not super often, but enough to say I like it as a theme).</description>
+    </item>
+    
     <item>
       <title>CSS</title>
       <link>http://michaelacheong.com/css/</link>
@@ -38,10 +48,7 @@ After some finicking, I now have my Hugo site version control being managed in G
       <pubDate>Mon, 23 May 2022 15:04:53 +1000</pubDate>
       
       <guid>http://michaelacheong.com/hugo/</guid>
-      <description>I already have broken my website.
-I started with hugo new post/so-it-began.md to create my first post, and then tried to change the folder &amp;ldquo;post&amp;rdquo; to &amp;ldquo;posts&amp;rdquo;, added a second file with hugo new posts/digital-garden.md, and now it&amp;rsquo;s not showing up on my website. lol.
-Thanks to this video for the setup guide tho https://www.youtube.com/watch?v=LIFvgrRxdt4
-I am a bit unnerved by the fact that he doesn&amp;rsquo;t merge to the main branch via a pull request and instead commits straight to the main branch.</description>
+      <description>What I use to make my site.</description>
     </item>
     
   </channel>
