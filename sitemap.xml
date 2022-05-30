@@ -4,9 +4,34 @@
   <url>
     <loc>http://michaelacheong.com/welcome/</loc>
     <lastmod>2022-05-27T16:08:38+10:00</lastmod>
+<<<<<<< HEAD
   </url><url>
     <loc>http://michaelacheong.com/complex-analysis/</loc>
     <lastmod>2022-05-30T16:01:37+10:00</lastmod>
+=======
+  </url><url>
+<<<<<<< HEAD
+    <loc>http://michaelacheong.com/complex-analysis/</loc>
+    <lastmod>2022-05-30T16:01:37+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/tags/mathematics/</loc>
+    <lastmod>2022-05-30T16:01:37+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/</loc>
+    <lastmod>2022-05-30T21:28:54+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/posts/</loc>
+    <lastmod>2022-05-30T21:28:54+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/tags/</loc>
+    <lastmod>2022-05-30T21:28:54+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/tags/mental-health/</loc>
+    <lastmod>2022-05-30T11:14:28+10:00</lastmod>
+=======
+    <loc>http://michaelacheong.com/ethical-fashion/</loc>
+    <lastmod>2022-05-26T21:32:46+10:00</lastmod>
+>>>>>>> d689277ea1d689aa3d91fcf6d467265e02888bd7
   </url><url>
     <loc>http://michaelacheong.com/tags/mathematics/</loc>
     <lastmod>2022-05-30T16:01:37+10:00</lastmod>
@@ -81,11 +106,79 @@
     <lastmod>2022-05-25T10:49:08+10:00</lastmod>
   </url><url>
     <loc>http://michaelacheong.com/tags/about/</loc>
+<<<<<<< HEAD
+    <lastmod>2022-05-27T16:08:38+10:00</lastmod>
+=======
+    <lastmod>2022-05-26T11:24:38+10:00</lastmod>
+>>>>>>> main
+>>>>>>> d689277ea1d689aa3d91fcf6d467265e02888bd7
+  </url><url>
+    <loc>http://michaelacheong.com/tags/psychology/</loc>
+    <lastmod>2022-05-30T11:14:28+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/trauma-olympics/</loc>
+    <lastmod>2022-05-30T11:14:28+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/tags/culture/</loc>
+    <lastmod>2022-05-30T10:44:06+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/tags/idolatry/</loc>
+    <lastmod>2022-05-30T10:44:06+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/tags/music/</loc>
+    <lastmod>2022-05-30T10:44:06+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/kpop-caution/</loc>
+    <lastmod>2022-05-30T10:44:06+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/crucifixion-connotations/</loc>
+    <lastmod>2022-05-28T09:33:07+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/tags/jesus/</loc>
+    <lastmod>2022-05-28T09:33:07+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/tags/1-corinthians/</loc>
+    <lastmod>2022-05-28T09:32:44+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/all-things-are-lawful/</loc>
+    <lastmod>2022-05-28T09:32:44+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/tags/bible/</loc>
+    <lastmod>2022-05-28T09:32:44+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/ethical-fashion/</loc>
+    <lastmod>2022-05-26T21:32:46+10:00</lastmod>
+  </url><url>
+<<<<<<< HEAD
+=======
+    <loc>http://michaelacheong.com/tags/fashion/</loc>
+    <lastmod>2022-05-26T21:32:46+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/tags/technology/</loc>
+    <lastmod>2022-05-26T10:01:05+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/tags/vscode/</loc>
+    <lastmod>2022-05-26T09:26:13+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/vscode/</loc>
+    <lastmod>2022-05-26T09:26:13+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/tags/linguistics/</loc>
+    <lastmod>2022-05-30T21:28:54+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/ozclo/</loc>
+    <lastmod>2022-05-30T21:28:54+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/linguistics/</loc>
+    <lastmod>2022-05-25T10:49:08+10:00</lastmod>
+  </url><url>
+    <loc>http://michaelacheong.com/tags/about/</loc>
     <lastmod>2022-05-27T16:08:38+10:00</lastmod>
   </url><url>
     <loc>http://michaelacheong.com/dunning-kruger/</loc>
     <lastmod>2022-05-25T08:40:16+10:00</lastmod>
   </url><url>
+>>>>>>> d689277ea1d689aa3d91fcf6d467265e02888bd7
     <loc>http://michaelacheong.com/tags/life/</loc>
     <lastmod>2022-05-26T10:10:51+10:00</lastmod>
   </url><url>
