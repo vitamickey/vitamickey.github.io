@@ -10,7 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Mon, 30 May 2022 16:01:37 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jun 2022 09:31:18 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Michaela&#39;s Digital Garden</title>
       <link>http://michaelacheong.com/welcome/</link>
@@ -21,15 +21,50 @@
     </item>
     
     <item>
+      <title>We pray out loud to build up others</title>
+      <link>http://michaelacheong.com/pray-to-build-up/</link>
+      <pubDate>Fri, 10 Jun 2022 09:31:18 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/pray-to-build-up/</guid>
+      <description>1 Corinthians 14 talks about prayers in tongues. If you pray in tongues, but it is not interpreted, then like, even though it&amp;rsquo;s fantastic to pray, it doesn&amp;rsquo;t serve to build others up in prayer since they don&amp;rsquo;t know what you prayed about. They cannot join in saying &amp;ldquo;Amen&amp;rdquo; to a prayer that is unknown.
+This is something that I&amp;rsquo;ve pondered a bit, when I notice people who are inclined to never praying out loud corporately, whether in a small group or in a large group.</description>
+    </item>
+    
+    <item>
+      <title>The Bible provides models for articualting responses to our situations</title>
+      <link>http://michaelacheong.com/bible-models-responses/</link>
+      <pubDate>Fri, 10 Jun 2022 09:26:13 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/bible-models-responses/</guid>
+      <description>I get the feeling that this is kind of obvious, but I am talking about instances where I have read a passage and gone, &amp;ldquo;Wow, the way that the author talked about their emotions, thoughts, situation, etc. is something I would like to adapt into my life too.&amp;rdquo; So, basically these are all from the epistles but whatevs.
+From Youth camp, Romans 7:21-25. Models a response to our own sinful nature.</description>
+    </item>
+    
+    <item>
+      <title>You should not force yourself to do schoolwork when you feel bleh.</title>
+      <link>http://michaelacheong.com/schoolwork-when-bleh/</link>
+      <pubDate>Wed, 01 Jun 2022 11:25:17 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/schoolwork-when-bleh/</guid>
+      <description>A short guide to handling your education when life is falling apart around you.</description>
+    </item>
+    
+    <item>
+      <title>Graphic design</title>
+      <link>http://michaelacheong.com/graphic-design/</link>
+      <pubDate>Tue, 31 May 2022 18:37:34 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/graphic-design/</guid>
+      <description>is my passion.</description>
+    </item>
+    
+    <item>
       <title>Complex Analysis</title>
       <link>http://michaelacheong.com/complex-analysis/</link>
       <pubDate>Mon, 30 May 2022 16:01:37 +1000</pubDate>
       
       <guid>http://michaelacheong.com/complex-analysis/</guid>
-      <description>I have an exam coming up, so going to try and make this page into a big fat guide to complex analysis.
-Basic formulas (sin(z) = \frac{e^{z} + e^{-z}}{2i})
-Another test Cauchy integral formula extension
-$$ f(z)^{(n)} = stuff$$</description>
+      <description>I have an exam coming up, so going to try and make this page into a big fat guide to complex analysis. NEVERMIND I can&amp;rsquo;t get mathjax to work yet lol.</description>
     </item>
     
     <item>
@@ -183,7 +218,7 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts https:
       <pubDate>Mon, 23 May 2022 16:44:01 +1000</pubDate>
       
       <guid>http://michaelacheong.com/to-write/</guid>
-      <description>Lots and lots of collecting all of my God-related thoughts that are randomly scribbled on paper which, while nice, are not easy to look back on sometimes How I came to understand God&amp;rsquo;s grace The Gospel for beginners The Bible for beginners Quiet times?? Fonts, typography, favourite fonts Mathematics, subjects I&amp;rsquo;m taking, transfer statistics knowledge onto digital garden maybe?? High school, reflections, why it sucked (i.e. having mental health but as a high achiever) Music, instruments Crochet, yarn and hook stuff Anything from Notion that I sort of don&amp;rsquo;t want in Notion anymore (I am a bit sick of Notion) A rant about Notion Anki setup The difficultiy I have in sticking to systems Bullet journalling (Ryder Carroll basics) Stationery How I feel about receiving flowers as gifts K-Pop?</description>
+      <description>Lots and lots of collecting all of my God-related thoughts that are randomly scribbled on paper which, while nice, are not easy to look back on sometimes How I came to understand God&amp;rsquo;s grace The Gospel for beginners The Bible for beginners Quiet times?? Fonts, typography, favourite fonts Mathematics, subjects I&amp;rsquo;m taking, transfer statistics knowledge onto digital garden maybe?? High school, reflections, why it sucked (i.e. having mental health but as a high achiever kinda sucked) Music, instruments Crochet, yarn and hook stuff Anything from Notion that I sort of don&amp;rsquo;t want in Notion anymore (I am a bit sick of Notion) A rant about Notion Anki setup The difficultiy I have in sticking to systems Bullet journalling (Ryder Carroll basics) Stationery How I feel about receiving flowers as gifts K-Pop?</description>
     </item>
     
     <item>

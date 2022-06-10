@@ -10,22 +10,67 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Mon, 30 May 2022 16:01:37 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jun 2022 09:31:18 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>mathematics</title>
-      <link>http://michaelacheong.com/tags/mathematics/</link>
-      <pubDate>Mon, 30 May 2022 16:01:37 +1000</pubDate>
+      <title>prayer</title>
+      <link>http://michaelacheong.com/tags/prayer/</link>
+      <pubDate>Fri, 10 Jun 2022 09:31:18 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/tags/mathematics/</guid>
+      <guid>http://michaelacheong.com/tags/prayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bible</title>
+      <link>http://michaelacheong.com/tags/bible/</link>
+      <pubDate>Fri, 10 Jun 2022 09:26:13 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/bible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>http://michaelacheong.com/tags/education/</link>
+      <pubDate>Wed, 01 Jun 2022 11:25:17 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mental-health</title>
       <link>http://michaelacheong.com/tags/mental-health/</link>
-      <pubDate>Mon, 30 May 2022 10:04:28 +1000</pubDate>
+      <pubDate>Wed, 01 Jun 2022 11:25:17 +1000</pubDate>
       
       <guid>http://michaelacheong.com/tags/mental-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>productivity</title>
+      <link>http://michaelacheong.com/tags/productivity/</link>
+      <pubDate>Wed, 01 Jun 2022 11:25:17 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reference</title>
+      <link>http://michaelacheong.com/tags/reference/</link>
+      <pubDate>Tue, 31 May 2022 18:37:34 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/reference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mathematics</title>
+      <link>http://michaelacheong.com/tags/mathematics/</link>
+      <pubDate>Mon, 30 May 2022 16:01:37 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/mathematics/</guid>
       <description></description>
     </item>
     
@@ -80,15 +125,6 @@
       <pubDate>Sat, 28 May 2022 09:32:44 +1000</pubDate>
       
       <guid>http://michaelacheong.com/tags/1-corinthians/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bible</title>
-      <link>http://michaelacheong.com/tags/bible/</link>
-      <pubDate>Sat, 28 May 2022 09:32:44 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/tags/bible/</guid>
       <description></description>
     </item>
     
