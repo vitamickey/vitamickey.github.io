@@ -10,7 +10,64 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Thu, 16 Jun 2022 20:59:13 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jul 2022 21:52:33 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using my Pixel for photo storage</title>
+      <link>http://michaelacheong.com/using-my-pixel-for-photo-storage/</link>
+      <pubDate>Sat, 16 Jul 2022 21:52:33 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/using-my-pixel-for-photo-storage/</guid>
+      <description>because google pixels offer unlimited storage saver for photos</description>
+    </item>
+    
+    <item>
+      <title>Phone migration</title>
+      <link>http://michaelacheong.com/phone-migration/</link>
+      <pubDate>Sat, 16 Jul 2022 21:50:36 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/phone-migration/</guid>
+      <description>Android birds moving south during the winter to the warm embrace of an eye phone</description>
+    </item>
+    
+    <item>
+      <title>LaTeX</title>
+      <link>http://michaelacheong.com/latex/</link>
+      <pubDate>Sat, 16 Jul 2022 21:28:46 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/latex/</guid>
+      <description>Nerd mode: engaged</description>
+    </item>
+    
+    <item>
+      <title>Computer migration</title>
+      <link>http://michaelacheong.com/computer-migration/</link>
+      <pubDate>Sat, 16 Jul 2022 21:00:08 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/computer-migration/</guid>
+      <description>Current specs: Laptop: Dell Inspiron 13-5378 CPU: Intel i5-7200U @ 2.50GHz RAM: 4GB HDD: 500GB SSD, installed by a friend but this originally had 128GB iirc OS: Windows 10 Home
+Incoming: Laptop: Lenovo Thinkpad X1 Carbon Gen 7 14&amp;quot; CPU: Intel i7-8565U 1.80Ghz RAM: 16GB HDD: 500GB SSD OS: Windows 10 Home
+&amp;ndash; SYSTEM BENEFITS according to seller &amp;ndash; Lenovo claims a 18.3 hour battery life; I have experienced closer to 10 hours with constant use of Remote Desktop Connection.</description>
+    </item>
+    
+    <item>
+      <title>Email management</title>
+      <link>http://michaelacheong.com/email-mgmt/</link>
+      <pubDate>Fri, 15 Jul 2022 10:33:23 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/email-mgmt/</guid>
+      <description>Because emails are AAA</description>
+    </item>
+    
+    <item>
+      <title>Second brain</title>
+      <link>http://michaelacheong.com/second-brain/</link>
+      <pubDate>Sat, 09 Jul 2022 21:30:24 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/second-brain/</guid>
+      <description>How to Organise your Life - Building a Second Brain by Ali Adbaal
+ Capture: note-taking systems.  Google Keep Bullet journal   Organise: &amp;ldquo;Where will I use this information?&amp;rdquo; Distill: progressive summarisation, like highlighting on steroids? Express: show your work  this productivity system changed everything // how to build a second brain by Mariana&amp;rsquo;s Corner</description>
+    </item>
+    
     <item>
       <title>Notion</title>
       <link>http://michaelacheong.com/notion/</link>
@@ -58,6 +115,17 @@ After some finicking, I now have my Hugo site version control being managed in G
       
       <guid>http://michaelacheong.com/hugo/</guid>
       <description>What I use to make my site.</description>
+    </item>
+    
+    <item>
+      <title>Digital gardens</title>
+      <link>http://michaelacheong.com/digital-garden/</link>
+      <pubDate>Mon, 23 May 2022 15:04:46 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/digital-garden/</guid>
+      <description>A digital garden is a place for thoughts, knowledge and ideas to grow.
+Reminds me of a second brain, PKM (personal knowledge management system), life wiki, Zettelkasten, all those bigs words. But there is something distinctly cute uwu about the notion of a digital garden.
+The main reference for what a digital garden is comes from Maggie Appleton. I will not follow the original ethos to the T, but it&amp;rsquo;s a very nice read nonetheless.</description>
     </item>
     
   </channel>

@@ -10,7 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Sat, 09 Jul 2022 22:00:51 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jul 2022 22:10:57 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to my digital garden</title>
       <link>http://michaelacheong.com/welcome/</link>
@@ -18,6 +18,117 @@
       
       <guid>http://michaelacheong.com/welcome/</guid>
       <description>Start here.</description>
+    </item>
+    
+    <item>
+      <title>Productivity pitfalls</title>
+      <link>http://michaelacheong.com/productivity-pitfalls/</link>
+      <pubDate>Sat, 16 Jul 2022 22:10:57 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/productivity-pitfalls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slow productivity</title>
+      <link>http://michaelacheong.com/slow-productivity/</link>
+      <pubDate>Sat, 16 Jul 2022 22:10:08 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/slow-productivity/</guid>
+      <description>why everything I knew about productivity is wrong… &amp;amp; what’s the way forward by Rowena Tsai at https://www.youtube.com/watch?v=2b8lMgigARM
+Productivity YouTube is worse than you think. by Elizabeth Filips at https://www.youtube.com/watch?v=5jUbukComgU</description>
+    </item>
+    
+    <item>
+      <title>Using my Pixel for photo storage</title>
+      <link>http://michaelacheong.com/using-my-pixel-for-photo-storage/</link>
+      <pubDate>Sat, 16 Jul 2022 21:52:33 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/using-my-pixel-for-photo-storage/</guid>
+      <description>because google pixels offer unlimited storage saver for photos</description>
+    </item>
+    
+    <item>
+      <title>Phone migration</title>
+      <link>http://michaelacheong.com/phone-migration/</link>
+      <pubDate>Sat, 16 Jul 2022 21:50:36 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/phone-migration/</guid>
+      <description>Android birds moving south during the winter to the warm embrace of an eye phone</description>
+    </item>
+    
+    <item>
+      <title>LaTeX</title>
+      <link>http://michaelacheong.com/latex/</link>
+      <pubDate>Sat, 16 Jul 2022 21:28:46 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/latex/</guid>
+      <description>Nerd mode: engaged</description>
+    </item>
+    
+    <item>
+      <title>Computer migration</title>
+      <link>http://michaelacheong.com/computer-migration/</link>
+      <pubDate>Sat, 16 Jul 2022 21:00:08 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/computer-migration/</guid>
+      <description>Current specs: Laptop: Dell Inspiron 13-5378 CPU: Intel i5-7200U @ 2.50GHz RAM: 4GB HDD: 500GB SSD, installed by a friend but this originally had 128GB iirc OS: Windows 10 Home
+Incoming: Laptop: Lenovo Thinkpad X1 Carbon Gen 7 14&amp;quot; CPU: Intel i7-8565U 1.80Ghz RAM: 16GB HDD: 500GB SSD OS: Windows 10 Home
+&amp;ndash; SYSTEM BENEFITS according to seller &amp;ndash; Lenovo claims a 18.3 hour battery life; I have experienced closer to 10 hours with constant use of Remote Desktop Connection.</description>
+    </item>
+    
+    <item>
+      <title>Productivity system</title>
+      <link>http://michaelacheong.com/productivity-system/</link>
+      <pubDate>Fri, 15 Jul 2022 10:53:43 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/productivity-system/</guid>
+      <description>How I sort of keep my life together</description>
+    </item>
+    
+    <item>
+      <title>Email management</title>
+      <link>http://michaelacheong.com/email-mgmt/</link>
+      <pubDate>Fri, 15 Jul 2022 10:33:23 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/email-mgmt/</guid>
+      <description>Because emails are AAA</description>
+    </item>
+    
+    <item>
+      <title>Uni sem prep</title>
+      <link>http://michaelacheong.com/uni-sem-prep/</link>
+      <pubDate>Wed, 13 Jul 2022 23:44:39 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/uni-sem-prep/</guid>
+      <description>What I do before each uni sem</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t make a liar of God</title>
+      <link>http://michaelacheong.com/dont-make-a-liar-of-god/</link>
+      <pubDate>Wed, 13 Jul 2022 22:59:25 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/dont-make-a-liar-of-god/</guid>
+      <description>If you continue sinning when you proclaim to have faith, you make God a liar. And you make yourself a liar too, but that kind of pales in comparison to making God a liar.</description>
+    </item>
+    
+    <item>
+      <title>Places to shop for...</title>
+      <link>http://michaelacheong.com/places-to-shop-for/</link>
+      <pubDate>Wed, 13 Jul 2022 18:26:24 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/places-to-shop-for/</guid>
+      <description>Where to buy different things</description>
+    </item>
+    
+    <item>
+      <title>Creating list</title>
+      <link>http://michaelacheong.com/to-create/</link>
+      <pubDate>Wed, 13 Jul 2022 18:26:13 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/to-create/</guid>
+      <description>Things I would like to make or work on? Projects list, with an arts focus.</description>
     </item>
     
     <item>
@@ -159,7 +270,7 @@ Strawberry jam Sterilising jars Wash jars and lids with warm soapy water Dry wit
       <pubDate>Sat, 09 Jul 2022 19:48:39 +1000</pubDate>
       
       <guid>http://michaelacheong.com/shopping-list/</guid>
-      <description>Secondhand GARAGE SALES  2000s stuff (like Hi-5, Wiggles, Dora, Winnie the Pooh, winx, bratz, HSM, Disney Channel merch etc.) camera stuff/storage (SD cards, batteries, actual cams, USBs, hard drives, film)  CLOTHING  maxi skirts pants (in particular, nice high-waisted ones) longer shorts (gone are the days of short shorts) blouses (like short sleeve 2000&amp;rsquo;s business woman vibes sort of, also parisian fashion vibes) a scarf if it’s beautiful  OTHER  first edition tatbilb grandma couch pattern stuff milk glass amber pyrex coasters  </description>
+      <description>What I may buy.</description>
     </item>
     
     <item>
@@ -168,10 +279,7 @@ Strawberry jam Sterilising jars Wash jars and lids with warm soapy water Dry wit
       <pubDate>Thu, 07 Jul 2022 11:47:21 +1000</pubDate>
       
       <guid>http://michaelacheong.com/personal-style/</guid>
-      <description>Personal style is key to buying clothes that will stand the test of time.
-There are various ways people pin down their personal style (in both clothing and makeup), some being rigorous categorisation systems and other being general ideas and concepts. Personal style imo is a mix of:
-Knowing what works That is, using systems with a basis in some kind of theory.
-Colour theory Seasonal colour analysis Enter: seasonal colour analysis.</description>
+      <description>Fashion for passion.</description>
     </item>
     
     <item>
@@ -244,11 +352,12 @@ Phase 1: Goosebumps Phase 2: Weaknesses and doubt Phase 3: Break-up You need you
       
       <guid>http://michaelacheong.com/art/</guid>
       <description>I used to not see the big deal about art. But art is nice.
-Pretty thing that make me go &amp;ldquo;ooo&amp;rdquo; My pinterest board on art.
+Pretty thing that make me go &amp;ldquo;ooo&amp;rdquo; My pinterest board on art at pinterest.com.au.
 bookmark by ali beaudette Link: Working as of 2022-06-21, archived 2022-01-24
-Candace Hicks art Link: Working as of 2022-07-02
+  Picture of collection: bookmark by ali beaudette
+  Candace Hicks art Link: Working as of 2022-07-02
 Notes for String Theory Link: Working as of 2022-07-02, archived 2022-07-02
-   These are cool           Books Link: Working as of 2022-07-02, archived 2022-03-19</description>
+   These are cool                 Books Link: Working as of 2022-07-02, archived 2022-03-19</description>
     </item>
     
     <item>
@@ -376,8 +485,7 @@ Little children, let us not love in word or talk but in deed and in truth.</desc
       <pubDate>Fri, 17 Jun 2022 10:49:30 +1000</pubDate>
       
       <guid>http://michaelacheong.com/62-1-john/</guid>
-      <description>Notes:
- Hold all things loosely Love  </description>
+      <description>The 62nd book of the Bible.</description>
     </item>
     
     <item>
@@ -386,8 +494,7 @@ Little children, let us not love in word or talk but in deed and in truth.</desc
       <pubDate>Fri, 17 Jun 2022 10:43:05 +1000</pubDate>
       
       <guid>http://michaelacheong.com/47-2-corinthians/</guid>
-      <description>Notes:
- Suffering produces faith  2 Corinthians 1:8-11     </description>
+      <description>The 47th book of the Bible.</description>
     </item>
     
     <item>
@@ -396,8 +503,7 @@ Little children, let us not love in word or talk but in deed and in truth.</desc
       <pubDate>Fri, 17 Jun 2022 10:43:00 +1000</pubDate>
       
       <guid>http://michaelacheong.com/46-1-corinthians/</guid>
-      <description>Notes:
- All things are lawful&amp;hellip;  1 Corinthians 6:12 1 Corinthians 10:23   It is better to marry than to burn with passion  1 Corinthians 7:8–9   The Bible provides models for articulating responses to our situations  1 Corinthians 15:10   Hold all things loosely  1 Corinthians 6:12   We pray out loud to build up others  1 Corinthians 14    </description>
+      <description>The 46th book of the Bible.</description>
     </item>
     
     <item>
@@ -682,14 +788,14 @@ A girl from my Youth group wrote this out on a card for me in nice hand-letterin
     </item>
     
     <item>
-      <title>Digital garden</title>
+      <title>Digital gardens</title>
       <link>http://michaelacheong.com/digital-garden/</link>
       <pubDate>Mon, 23 May 2022 15:04:46 +1000</pubDate>
       
       <guid>http://michaelacheong.com/digital-garden/</guid>
       <description>A digital garden is a place for thoughts, knowledge and ideas to grow.
-The main reference for what a digital garden is comes from Maggie Appleton. I will not follow the original ethos to the T, but it&amp;rsquo;s a very nice read nonetheless.
-For me, the main pull towards maintaining a digital garden is that it&amp;rsquo;s not as intensive as a blog. As outlined in Maggie&amp;rsquo;s writing, a blog requires you to do all of this background research before eventually deciding to release a perfectly manicured opinion to the internet, exerting your intellectual authority onto all who pass through your site.</description>
+Reminds me of a second brain, PKM (personal knowledge management system), life wiki, Zettelkasten, all those bigs words. But there is something distinctly cute uwu about the notion of a digital garden.
+The main reference for what a digital garden is comes from Maggie Appleton. I will not follow the original ethos to the T, but it&amp;rsquo;s a very nice read nonetheless.</description>
     </item>
     
     <item>

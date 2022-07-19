@@ -9,6 +9,52 @@
       <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-au</language><atom:link href="http://michaelacheong.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-au</language>
+    <lastBuildDate>Wed, 13 Jul 2022 22:59:25 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>connect-group</title>
+      <link>http://michaelacheong.com/series/connect-group/</link>
+      <pubDate>Wed, 13 Jul 2022 22:59:25 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/series/connect-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sermon-notes</title>
+      <link>http://michaelacheong.com/series/sermon-notes/</link>
+      <pubDate>Wed, 13 Jul 2022 22:59:25 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/series/sermon-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book-of-bible-overview</title>
+      <link>http://michaelacheong.com/series/book-of-bible-overview/</link>
+      <pubDate>Fri, 17 Jun 2022 10:49:30 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/series/book-of-bible-overview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youth-notes</title>
+      <link>http://michaelacheong.com/series/youth-notes/</link>
+      <pubDate>Sat, 28 May 2022 09:33:07 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/series/youth-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qt-notes</title>
+      <link>http://michaelacheong.com/series/qt-notes/</link>
+      <pubDate>Sat, 28 May 2022 09:32:44 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/series/qt-notes/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
