@@ -10,13 +10,49 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Sat, 09 Jul 2022 22:00:51 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jul 2022 22:10:57 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>productivity</title>
+      <link>http://michaelacheong.com/tags/productivity/</link>
+      <pubDate>Sat, 16 Jul 2022 22:10:57 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>http://michaelacheong.com/tags/technology/</link>
+      <pubDate>Sat, 16 Jul 2022 21:52:33 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mathematics</title>
+      <link>http://michaelacheong.com/tags/mathematics/</link>
+      <pubDate>Sat, 16 Jul 2022 21:28:46 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/mathematics/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>untagged</title>
       <link>http://michaelacheong.com/tags/untagged/</link>
-      <pubDate>Sat, 09 Jul 2022 22:00:51 +1000</pubDate>
+      <pubDate>Wed, 13 Jul 2022 22:59:25 +1000</pubDate>
       
       <guid>http://michaelacheong.com/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>consumerism</title>
+      <link>http://michaelacheong.com/tags/consumerism/</link>
+      <pubDate>Wed, 13 Jul 2022 18:26:24 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/consumerism/</guid>
       <description></description>
     </item>
     
@@ -39,11 +75,11 @@
     </item>
     
     <item>
-      <title>productivity</title>
-      <link>http://michaelacheong.com/tags/productivity/</link>
+      <title>learning</title>
+      <link>http://michaelacheong.com/tags/learning/</link>
       <pubDate>Sat, 09 Jul 2022 21:30:24 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/tags/productivity/</guid>
+      <guid>http://michaelacheong.com/tags/learning/</guid>
       <description></description>
     </item>
     
@@ -80,15 +116,6 @@
       <pubDate>Sat, 09 Jul 2022 20:42:23 +1000</pubDate>
       
       <guid>http://michaelacheong.com/tags/fashion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>consumerism</title>
-      <link>http://michaelacheong.com/tags/consumerism/</link>
-      <pubDate>Sat, 09 Jul 2022 19:48:39 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/tags/consumerism/</guid>
       <description></description>
     </item>
     
@@ -156,15 +183,6 @@
     </item>
     
     <item>
-      <title>learning</title>
-      <link>http://michaelacheong.com/tags/learning/</link>
-      <pubDate>Sat, 18 Jun 2022 22:20:34 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/tags/learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>mental-health</title>
       <link>http://michaelacheong.com/tags/mental-health/</link>
       <pubDate>Sat, 18 Jun 2022 20:33:01 +1000</pubDate>
@@ -201,15 +219,6 @@
     </item>
     
     <item>
-      <title>technology</title>
-      <link>http://michaelacheong.com/tags/technology/</link>
-      <pubDate>Thu, 16 Jun 2022 20:59:13 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/tags/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>discipline</title>
       <link>http://michaelacheong.com/tags/discipline/</link>
       <pubDate>Thu, 16 Jun 2022 08:38:44 +1000</pubDate>
@@ -242,15 +251,6 @@
       <pubDate>Fri, 10 Jun 2022 09:31:18 +1000</pubDate>
       
       <guid>http://michaelacheong.com/tags/prayer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mathematics</title>
-      <link>http://michaelacheong.com/tags/mathematics/</link>
-      <pubDate>Mon, 30 May 2022 16:01:37 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/tags/mathematics/</guid>
       <description></description>
     </item>
     
@@ -413,15 +413,6 @@
       <pubDate>Mon, 23 May 2022 15:05:04 +1000</pubDate>
       
       <guid>http://michaelacheong.com/tags/identity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>digital-garden</title>
-      <link>http://michaelacheong.com/tags/digital-garden/</link>
-      <pubDate>Mon, 23 May 2022 15:04:46 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/tags/digital-garden/</guid>
       <description></description>
     </item>
     

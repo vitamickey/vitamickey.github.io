@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Sat, 18 Jun 2022 22:20:34 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jul 2022 21:30:24 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second brain</title>
+      <link>http://michaelacheong.com/second-brain/</link>
+      <pubDate>Sat, 09 Jul 2022 21:30:24 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/second-brain/</guid>
+      <description>How to Organise your Life - Building a Second Brain by Ali Adbaal
+ Capture: note-taking systems.  Google Keep Bullet journal   Organise: &amp;ldquo;Where will I use this information?&amp;rdquo; Distill: progressive summarisation, like highlighting on steroids? Express: show your work  this productivity system changed everything // how to build a second brain by Mariana&amp;rsquo;s Corner</description>
+    </item>
+    
     <item>
       <title>Tutoring</title>
       <link>http://michaelacheong.com/tutoring/</link>
@@ -25,32 +35,14 @@ What Makes a Successful Tutor?
     </item>
     
     <item>
-      <title>Refold</title>
-      <link>http://michaelacheong.com/refold/</link>
-      <pubDate>Fri, 17 Jun 2022 16:13:49 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/refold/</guid>
-      <description>A language-learning roadmap.</description>
-    </item>
-    
-    <item>
-      <title>You should not force yourself to do schoolwork when you feel bleh.</title>
-      <link>http://michaelacheong.com/schoolwork-when-bleh/</link>
-      <pubDate>Wed, 01 Jun 2022 11:25:17 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/schoolwork-when-bleh/</guid>
-      <description>A short guide to handling your education when life is falling apart around you.</description>
-    </item>
-    
-    <item>
-      <title>Digital garden</title>
+      <title>Digital gardens</title>
       <link>http://michaelacheong.com/digital-garden/</link>
       <pubDate>Mon, 23 May 2022 15:04:46 +1000</pubDate>
       
       <guid>http://michaelacheong.com/digital-garden/</guid>
       <description>A digital garden is a place for thoughts, knowledge and ideas to grow.
-The main reference for what a digital garden is comes from Maggie Appleton. I will not follow the original ethos to the T, but it&amp;rsquo;s a very nice read nonetheless.
-For me, the main pull towards maintaining a digital garden is that it&amp;rsquo;s not as intensive as a blog. As outlined in Maggie&amp;rsquo;s writing, a blog requires you to do all of this background research before eventually deciding to release a perfectly manicured opinion to the internet, exerting your intellectual authority onto all who pass through your site.</description>
+Reminds me of a second brain, PKM (personal knowledge management system), life wiki, Zettelkasten, all those bigs words. But there is something distinctly cute uwu about the notion of a digital garden.
+The main reference for what a digital garden is comes from Maggie Appleton. I will not follow the original ethos to the T, but it&amp;rsquo;s a very nice read nonetheless.</description>
     </item>
     
   </channel>

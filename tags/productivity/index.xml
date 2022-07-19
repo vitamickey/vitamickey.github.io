@@ -10,7 +10,53 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Sat, 09 Jul 2022 21:30:24 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jul 2022 22:10:57 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Productivity pitfalls</title>
+      <link>http://michaelacheong.com/productivity-pitfalls/</link>
+      <pubDate>Sat, 16 Jul 2022 22:10:57 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/productivity-pitfalls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slow productivity</title>
+      <link>http://michaelacheong.com/slow-productivity/</link>
+      <pubDate>Sat, 16 Jul 2022 22:10:08 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/slow-productivity/</guid>
+      <description>why everything I knew about productivity is wrong… &amp;amp; what’s the way forward by Rowena Tsai at https://www.youtube.com/watch?v=2b8lMgigARM
+Productivity YouTube is worse than you think. by Elizabeth Filips at https://www.youtube.com/watch?v=5jUbukComgU</description>
+    </item>
+    
+    <item>
+      <title>Productivity system</title>
+      <link>http://michaelacheong.com/productivity-system/</link>
+      <pubDate>Fri, 15 Jul 2022 10:53:43 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/productivity-system/</guid>
+      <description>How I sort of keep my life together</description>
+    </item>
+    
+    <item>
+      <title>Email management</title>
+      <link>http://michaelacheong.com/email-mgmt/</link>
+      <pubDate>Fri, 15 Jul 2022 10:33:23 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/email-mgmt/</guid>
+      <description>Because emails are AAA</description>
+    </item>
+    
+    <item>
+      <title>Uni sem prep</title>
+      <link>http://michaelacheong.com/uni-sem-prep/</link>
+      <pubDate>Wed, 13 Jul 2022 23:44:39 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/uni-sem-prep/</guid>
+      <description>What I do before each uni sem</description>
+    </item>
+    
     <item>
       <title>Second brain</title>
       <link>http://michaelacheong.com/second-brain/</link>
@@ -74,6 +120,17 @@ Now, I follow the Ryder Caroll method, and not the pretty artsy method. Not that
       
       <guid>http://michaelacheong.com/schoolwork-when-bleh/</guid>
       <description>A short guide to handling your education when life is falling apart around you.</description>
+    </item>
+    
+    <item>
+      <title>Digital gardens</title>
+      <link>http://michaelacheong.com/digital-garden/</link>
+      <pubDate>Mon, 23 May 2022 15:04:46 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/digital-garden/</guid>
+      <description>A digital garden is a place for thoughts, knowledge and ideas to grow.
+Reminds me of a second brain, PKM (personal knowledge management system), life wiki, Zettelkasten, all those bigs words. But there is something distinctly cute uwu about the notion of a digital garden.
+The main reference for what a digital garden is comes from Maggie Appleton. I will not follow the original ethos to the T, but it&amp;rsquo;s a very nice read nonetheless.</description>
     </item>
     
   </channel>
