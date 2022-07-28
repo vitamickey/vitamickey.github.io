@@ -10,11 +10,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Wed, 13 Jul 2022 22:59:25 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jul 2022 22:25:47 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>connect-group</title>
       <link>http://michaelacheong.com/series/connect-group/</link>
-      <pubDate>Wed, 13 Jul 2022 22:59:25 +1000</pubDate>
+      <pubDate>Wed, 20 Jul 2022 22:25:47 +1000</pubDate>
       
       <guid>http://michaelacheong.com/series/connect-group/</guid>
       <description></description>
@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>intro-to-bible-mtc</title>
+      <link>http://michaelacheong.com/series/intro-to-bible-mtc/</link>
+      <pubDate>Sat, 09 Jul 2022 21:37:56 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/series/intro-to-bible-mtc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>book-of-bible-overview</title>
       <link>http://michaelacheong.com/series/book-of-bible-overview/</link>
       <pubDate>Fri, 17 Jun 2022 10:49:30 +1000</pubDate>
@@ -39,20 +48,29 @@
     </item>
     
     <item>
+      <title>qt-notes</title>
+      <link>http://michaelacheong.com/series/qt-notes/</link>
+      <pubDate>Fri, 10 Jun 2022 09:26:13 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/series/qt-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal-faith</title>
+      <link>http://michaelacheong.com/series/personal-faith/</link>
+      <pubDate>Sat, 28 May 2022 09:38:06 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/series/personal-faith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>youth-notes</title>
       <link>http://michaelacheong.com/series/youth-notes/</link>
       <pubDate>Sat, 28 May 2022 09:33:07 +1000</pubDate>
       
       <guid>http://michaelacheong.com/series/youth-notes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>qt-notes</title>
-      <link>http://michaelacheong.com/series/qt-notes/</link>
-      <pubDate>Sat, 28 May 2022 09:32:44 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/series/qt-notes/</guid>
       <description></description>
     </item>
     

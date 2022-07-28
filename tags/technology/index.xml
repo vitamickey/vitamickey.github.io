@@ -10,7 +10,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Sat, 16 Jul 2022 21:52:33 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jul 2022 10:48:52 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obsidian</title>
+      <link>http://michaelacheong.com/obsidian/</link>
+      <pubDate>Sat, 23 Jul 2022 10:48:52 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/obsidian/</guid>
+      <description>.md</description>
+    </item>
+    
+    <item>
+      <title>File management</title>
+      <link>http://michaelacheong.com/file-mgmt/</link>
+      <pubDate>Fri, 22 Jul 2022 17:10:32 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/file-mgmt/</guid>
+      <description>bc idk how to store my files in a neat way</description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>http://michaelacheong.com/r/</link>
+      <pubDate>Fri, 22 Jul 2022 16:58:18 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/r/</guid>
+      <description>A statistical programming language</description>
+    </item>
+    
     <item>
       <title>Using my Pixel for photo storage</title>
       <link>http://michaelacheong.com/using-my-pixel-for-photo-storage/</link>
@@ -65,7 +92,7 @@ Incoming: Laptop: Lenovo Thinkpad X1 Carbon Gen 7 14&amp;quot; CPU: Intel i7-856
       
       <guid>http://michaelacheong.com/second-brain/</guid>
       <description>How to Organise your Life - Building a Second Brain by Ali Adbaal
- Capture: note-taking systems.  Google Keep Bullet journal   Organise: &amp;ldquo;Where will I use this information?&amp;rdquo; Distill: progressive summarisation, like highlighting on steroids? Express: show your work  this productivity system changed everything // how to build a second brain by Mariana&amp;rsquo;s Corner</description>
+Capture: note-taking systems. Google Keep Bullet journal Organise: &amp;ldquo;Where will I use this information?&amp;rdquo; Distill: progressive summarisation, like highlighting on steroids? Express: show your work this productivity system changed everything // how to build a second brain by Mariana&amp;rsquo;s Corner</description>
     </item>
     
     <item>
@@ -84,7 +111,7 @@ Incoming: Laptop: Lenovo Thinkpad X1 Carbon Gen 7 14&amp;quot; CPU: Intel i7-856
       
       <guid>http://michaelacheong.com/vscode/</guid>
       <description>I think you call this a stack, where you talk about applications you use and their setup. So, I am gonna write a university stack, or a general productivity stack, but this is my VSCode stack, which in essence is a list of extensions I use and my setup.
- Colour Theme: Rouge  I like navy and the soft pink is really nice. -I also have used Horizon Bright by jolaleye if I ever want to use a light theme (so, not super often, but enough to say I like it as a theme).</description>
+Colour Theme: Rouge I like navy and the soft pink is really nice. -I also have used Horizon Bright by jolaleye if I ever want to use a light theme (so, not super often, but enough to say I like it as a theme).</description>
     </item>
     
     <item>

@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Thu, 16 Jun 2022 20:59:13 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/personal-knowledge-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jul 2022 10:48:52 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/personal-knowledge-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obsidian</title>
+      <link>http://michaelacheong.com/obsidian/</link>
+      <pubDate>Sat, 23 Jul 2022 10:48:52 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/obsidian/</guid>
+      <description>.md</description>
+    </item>
+    
     <item>
       <title>Notion</title>
       <link>http://michaelacheong.com/notion/</link>
@@ -18,6 +27,17 @@
       
       <guid>http://michaelacheong.com/notion/</guid>
       <description>.so</description>
+    </item>
+    
+    <item>
+      <title>Digital gardens</title>
+      <link>http://michaelacheong.com/digital-garden/</link>
+      <pubDate>Mon, 23 May 2022 15:04:46 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/digital-garden/</guid>
+      <description>A digital garden is a place for thoughts, knowledge and ideas to grow.
+Reminds me of a second brain, PKM (personal knowledge management system), life wiki, Zettelkasten, all those bigs words. But there is something distinctly cute uwu about the notion of a digital garden.
+The main reference for what a digital garden is comes from Maggie Appleton. I will not follow the original ethos to the T, but it&amp;rsquo;s a very nice read nonetheless.</description>
     </item>
     
   </channel>
