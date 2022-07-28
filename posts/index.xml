@@ -10,7 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Sat, 16 Jul 2022 22:10:57 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jul 2022 09:50:55 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to my digital garden</title>
       <link>http://michaelacheong.com/welcome/</link>
@@ -21,12 +21,133 @@
     </item>
     
     <item>
+      <title>Auslan</title>
+      <link>http://michaelacheong.com/auslan/</link>
+      <pubDate>Mon, 25 Jul 2022 09:50:55 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/auslan/</guid>
+      <description>Australian Sign Language</description>
+    </item>
+    
+    <item>
+      <title>Statistical learning</title>
+      <link>http://michaelacheong.com/statistical-learning/</link>
+      <pubDate>Mon, 25 Jul 2022 09:50:07 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/statistical-learning/</guid>
+      <description>1. Measure theory and probability theory (1) Sets and sigma-algebras Measurability and integrals Lp spaces and convergence theorems Product spaces and independence 2. Optimization theory (2-3) Convexity Derivatives and critical points Iterative methods for optimization M-estimators and optimization of random functions 3. Density estimation (4) Maximum likelihood estimation Finite mixture models and the EM algorithm Kernel density estimators Goodness of fit tests and misspecification 4. Regression analysis (5-6) Proper conditioning Conditional density functions Least squares estimators Regularization and constrained regression Conditional density estimation Finite mixture of experts models and</description>
+    </item>
+    
+    <item>
+      <title>Discrete Mathematics II</title>
+      <link>http://michaelacheong.com/discrete-maths-ii/</link>
+      <pubDate>Mon, 25 Jul 2022 09:49:47 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/discrete-maths-ii/</guid>
+      <description>I Basic Counting (pg. 5) 1 Selections (pg. 5) 1.1-1.4 Basic counting formulas Given a set of \(n\) objects, the number of ways of selecting \(r\) objects can be found according to the table below.
+No repetition With repetition Order matters (Ordered) \(\frac{n!}{(n-r)!}\) \(n^r\) Order does not matter (Unordered) \(\binom{n}{r} = \frac{n!}{(n-r)!r!}\) \(\binom{n+r-1}{r} = \binom{n+r-1}{n-1}\) 1.4 Intuition for unordered selections with repetition The bucket representation??
+1.5 2 Combinatorial Identities (pg. 9) Upcoming II Inclusion-Exclusion and Related Techniques (pg.</description>
+    </item>
+    
+    <item>
+      <title>Phonology</title>
+      <link>http://michaelacheong.com/phonology/</link>
+      <pubDate>Sun, 24 Jul 2022 15:25:53 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/phonology/</guid>
+      <description>General Tips1 Learn the IPA ASAP Associate a keyword with IPAs that are harder Remember the internal logic of common IPA charts (looks like a head turned left) Use a blank IPA chart Common transcription errors in vowels and stress Finding stress: say word in sing-song like someone&amp;rsquo;s name, and syllable with highest pitch is primary stress IPA Chart Vowels Clickable IPA Charts
+Interactive Sagittal Section
+Consonants 1. Speech Organs 2.</description>
+    </item>
+    
+    <item>
+      <title>Obsidian</title>
+      <link>http://michaelacheong.com/obsidian/</link>
+      <pubDate>Sat, 23 Jul 2022 10:48:52 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/obsidian/</guid>
+      <description>.md</description>
+    </item>
+    
+    <item>
+      <title>File management</title>
+      <link>http://michaelacheong.com/file-mgmt/</link>
+      <pubDate>Fri, 22 Jul 2022 17:10:32 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/file-mgmt/</guid>
+      <description>bc idk how to store my files in a neat way</description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>http://michaelacheong.com/r/</link>
+      <pubDate>Fri, 22 Jul 2022 16:58:18 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/r/</guid>
+      <description>A statistical programming language</description>
+    </item>
+    
+    <item>
+      <title>Emotional systems</title>
+      <link>http://michaelacheong.com/emotional-systems/</link>
+      <pubDate>Thu, 21 Jul 2022 21:34:53 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/emotional-systems/</guid>
+      <description>Ways the brain regulates our emotions</description>
+    </item>
+    
+    <item>
+      <title>CAPE</title>
+      <link>http://michaelacheong.com/cape/</link>
+      <pubDate>Thu, 21 Jul 2022 21:09:16 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/cape/</guid>
+      <description>Curiosity, Acceptance, Playfulness, Empathy</description>
+    </item>
+    
+    <item>
+      <title>Untitled</title>
+      <link>http://michaelacheong.com/digital-minimalism/</link>
+      <pubDate>Thu, 21 Jul 2022 19:11:36 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/digital-minimalism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watch list</title>
+      <link>http://michaelacheong.com/watch-list/</link>
+      <pubDate>Thu, 21 Jul 2022 19:08:00 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/watch-list/</guid>
+      <description>Current services ABC iView Silverpoint Netflix Disney+ HSMTMTS (Jul 27?) SBS On Demand Services I don&amp;rsquo;t have Amazon prime The Summer I Turned Pretty (I read the books so… it’s only fair) Don&amp;rsquo;t Make Me Go Paper Girls Binge Harry Potter is on there lol There must&amp;rsquo;ve been something else&amp;hellip; Apple TV+ CODA Ted Lasso Cha Cha Real Smooth (idk if I will actually watch, but the premise looks interesting) The Shrink Next Door?</description>
+    </item>
+    
+    <item>
+      <title>Unidash</title>
+      <link>http://michaelacheong.com/unidash/</link>
+      <pubDate>Wed, 20 Jul 2022 22:40:10 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/unidash/</guid>
+      <description> LING MATH STAT ECP main assessment main assessment main assessment </description>
+    </item>
+    
+    <item>
+      <title>Women in ministry</title>
+      <link>http://michaelacheong.com/women-in-ministry/</link>
+      <pubDate>Wed, 20 Jul 2022 22:25:47 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/women-in-ministry/</guid>
+      <description>bc it&amp;#39;s kinda controversial</description>
+    </item>
+    
+    <item>
       <title>Productivity pitfalls</title>
       <link>http://michaelacheong.com/productivity-pitfalls/</link>
       <pubDate>Sat, 16 Jul 2022 22:10:57 +1000</pubDate>
       
       <guid>http://michaelacheong.com/productivity-pitfalls/</guid>
-      <description></description>
+      <description>Things that make me go :( in the discourse about productivity:</description>
     </item>
     
     <item>
@@ -152,8 +273,8 @@ Lunch/arvo tea party https://www.kidspot.com.au/kitchen/galleries/20-favourite-p
       <pubDate>Sat, 09 Jul 2022 21:58:53 +1000</pubDate>
       
       <guid>http://michaelacheong.com/picking-worship-songs/</guid>
-      <description> Greatness of God Gravity of sin Grandure of Grace Response  Eg. Setlist for 22/01/09 5:30
- Goodness of God (G), Hosanna (D) From The Inside Out (G) Living Hope (G) This Life I Live (C)  </description>
+      <description> Greatness of God Gravity of sin Grandure of Grace Response Eg. Setlist for 22/01/09 5:30
+Goodness of God (G), Hosanna (D) From The Inside Out (G) Living Hope (G) This Life I Live (C) </description>
     </item>
     
     <item>
@@ -162,7 +283,10 @@ Lunch/arvo tea party https://www.kidspot.com.au/kitchen/galleries/20-favourite-p
       <pubDate>Sat, 09 Jul 2022 21:37:56 +1000</pubDate>
       
       <guid>http://michaelacheong.com/introduction-to-the-bible-mtc/</guid>
-      <description>A course by Moore Theological College, but I&amp;rsquo;m going through a version with my mentor.</description>
+      <description>A course by Moore Theological College, but I&amp;rsquo;m going through a version with my mentor.
+Study 1: The Book of Books Before you begin&amp;hellip;
+Favourite book of the Bible? I really like James because it feels like a slap in the face every time I read it. It&amp;rsquo;s just, so much good instruction about living life for Christ.
+1. What is the Bible? library of books 39 OT 27 NT time 2.</description>
     </item>
     
     <item>
@@ -172,7 +296,7 @@ Lunch/arvo tea party https://www.kidspot.com.au/kitchen/galleries/20-favourite-p
       
       <guid>http://michaelacheong.com/second-brain/</guid>
       <description>How to Organise your Life - Building a Second Brain by Ali Adbaal
- Capture: note-taking systems.  Google Keep Bullet journal   Organise: &amp;ldquo;Where will I use this information?&amp;rdquo; Distill: progressive summarisation, like highlighting on steroids? Express: show your work  this productivity system changed everything // how to build a second brain by Mariana&amp;rsquo;s Corner</description>
+Capture: note-taking systems. Google Keep Bullet journal Organise: &amp;ldquo;Where will I use this information?&amp;rdquo; Distill: progressive summarisation, like highlighting on steroids? Express: show your work this productivity system changed everything // how to build a second brain by Mariana&amp;rsquo;s Corner</description>
     </item>
     
     <item>
@@ -181,7 +305,7 @@ Lunch/arvo tea party https://www.kidspot.com.au/kitchen/galleries/20-favourite-p
       <pubDate>Sat, 09 Jul 2022 21:10:17 +1000</pubDate>
       
       <guid>http://michaelacheong.com/food/</guid>
-      <description>Fighting food waste  Rice with protein and veggies Noodles with protein and veggies SOUP Frittata/omelette  https://www.bonappetit.com/recipe/use-it-up-frittata   Stir fry Fried rice  https://www.lovefoodhatewaste.com/recipes
+      <description>Fighting food waste Rice with protein and veggies Noodles with protein and veggies SOUP Frittata/omelette https://www.bonappetit.com/recipe/use-it-up-frittata Stir fry Fried rice https://www.lovefoodhatewaste.com/recipes
 https://www.eatforhealth.gov.au/food-essentials/how-much-do-we-need-each-day/recommended-number-serves-adults https://www.eatforhealth.gov.au/food-essentials/how-much-do-we-need-each-day/serve-sizes
 https://www.nytimes.com/wirecutter/blog/keep-your-produce-fresh/
 https://www.lovefoodhatewaste.nsw.gov.au/sites/default/files/2020-09/0648%20DL%20Seasonal%20Food%202020%20V4%20230920.pdf
@@ -190,7 +314,7 @@ https://www.lovefoodhatewaste.com/what-to-do
 https://www.livingsmartqld.com.au/love-your-leftovers/
 https://www.lovefoodhatewaste.nsw.gov.au/at-home/reduce-your-food-waste
 Notes:
- Recipes  </description>
+Recipes </description>
     </item>
     
     <item>
@@ -211,7 +335,7 @@ I think I’ve already done this. But I’m gonna try and lovingly reconcile thi
       
       <guid>http://michaelacheong.com/personal-lexicon/</guid>
       <description>Fun words and things I might say and where they come from if I feel like adding that
- gesamtkunstwerk  BDG pokerap   kino  Ryan??   Juicy beef Sneezing is not normal, I never sneeze   </description>
+gesamtkunstwerk BDG pokerap kino Ryan?? Juicy beef Sneezing is not normal, I never sneeze ephemeral came up in a Tick Tick Boom! featurette, Andrew Garfield on Jonathan Larsson&amp;rsquo;s outlook on life? Also, came up in Miraculous Ladybug. Systemic problems require long-term, systemic solutions </description>
     </item>
     
     <item>
@@ -221,7 +345,7 @@ I think I’ve already done this. But I’m gonna try and lovingly reconcile thi
       
       <guid>http://michaelacheong.com/my-anthropocene/</guid>
       <description>I want to write reviews much like mr John Green himself. This is a list of topics I could potentially write about
- top-hat octopi carbonated drinks hi5 alien headband acoustic guitars rainbow lorikeets mushrooms swimming pools 75cm-high desks car dealerships lemon lime and bitters panoramas pandemic (current) reusable face masks Dear sister Wiggles World The Bayeaux Tapestry zigzag twisties buses Club Penguin rose gold illness anonymity Shrek 4   </description>
+top-hat octopi carbonated drinks hi5 alien headband acoustic guitars rainbow lorikeets mushrooms swimming pools 75cm-high desks car dealerships lemon lime and bitters panoramas pandemic (current) reusable face masks Dear sister Wiggles World The Bayeaux Tapestry zigzag twisties buses Club Penguin rose gold illness anonymity Shrek 4 </description>
     </item>
     
     <item>
@@ -260,7 +384,7 @@ https://goodonyou.eco/fast-fashion-factories-trap-women/</description>
 https://www.bbcgoodfood.com/recipes/collection/student-recipes
 https://www.bonappetit.com/gallery/cheap-recipes
 https://www.bonappetit.com/recipe/steamed-vegetables-with-rice-and-miso-ginger-dressing
-That I want to try  Maccas cajun sauce  https://my.whisk.com/recipes/1016205acdcfb9d656947a701d9bf84c07886eae779 https://www.moribyan.com/mcdonalds-chicken-nuggets-and-cajun-sauce-bts-meal/   Snickerdoodles (maybe in mrs fields style)  https://butternutbakeryblog.com/maple-snickerdoodle-cookies/   Others on Pinterest?  That I&amp;rsquo;ve tried Dairy-free brownies https://makeitdairyfree.com/the-best-vegan-brownies/
+That I want to try Maccas cajun sauce https://my.whisk.com/recipes/1016205acdcfb9d656947a701d9bf84c07886eae779 https://www.moribyan.com/mcdonalds-chicken-nuggets-and-cajun-sauce-bts-meal/ Snickerdoodles (maybe in mrs fields style) https://butternutbakeryblog.com/maple-snickerdoodle-cookies/ Others on social media Instagram saves Pinterest Facebook That I&amp;rsquo;ve tried Dairy-free brownies https://makeitdairyfree.com/the-best-vegan-brownies/
 Strawberry jam Sterilising jars Wash jars and lids with warm soapy water Dry with clean towel Jars go in preheated oven, not touching, at 180C for 10min Jars w/o metal can be put wet in microwave on high heat for 45sec Lids boiled in a pan of water for 10min</description>
     </item>
     
@@ -289,7 +413,7 @@ Strawberry jam Sterilising jars Wash jars and lids with warm soapy water Dry wit
       
       <guid>http://michaelacheong.com/decluttering/</guid>
       <description>6 things you should get rid of by Jenny Mustard https://youtu.be/i0mmVVVpAAg Things you don’t need, don&amp;rsquo;t love.
- Maybe one day Just in case &amp;lsquo;So-so&amp;rsquo; clothes &amp;lsquo;For now&amp;rsquo; (that we will use until we find or can afford the better version) &amp;lsquo;I should&amp;rsquo; (tools for improvement that make you feel bad about yourself) &amp;lsquo;If only&amp;rsquo; (we quit our jobs, but a nice house,…)  Process/System Principles  No need to store up treasures on earth No need to be anxious about clothing Someone may benefit from your possessions more than you would[^1] Do everything for God&amp;rsquo;s glory  If you had to give an account to God for every item you own, what would God think?</description>
+Maybe one day Just in case &amp;lsquo;So-so&amp;rsquo; clothes &amp;lsquo;For now&amp;rsquo; (that we will use until we find or can afford the better version) &amp;lsquo;I should&amp;rsquo; (tools for improvement that make you feel bad about yourself) &amp;lsquo;If only&amp;rsquo; (we quit our jobs, but a nice house,…) Process/System Principles No need to store up treasures on earth No need to be anxious about clothing Someone may benefit from your possessions more than you would1 Do everything for God&amp;rsquo;s glory If you had to give an account to God for every item you own, what would God think?</description>
     </item>
     
     <item>
@@ -300,7 +424,7 @@ Strawberry jam Sterilising jars Wash jars and lids with warm soapy water Dry wit
       <guid>http://michaelacheong.com/sickness/</guid>
       <description>I get sick often, and when I get sick, I get sick.
 I lost touch with God a lot. It sucked.
-How I could spend my time instead next time  GET CREATIVE  crochet draw paint work on website? work on some kind of low mental energy project  FIND A PROJECT   clean up my pinterest clean up my instagram saves (I kinda did this with covid)    How I honestly spent my time with COVID (2022-06-29 to 2022-07-05)  YouTube (this is just a taste of what I have been watching this week)  Tiny house videos  Living Big in a Tiny House Never Too Small   Food  Imamu&amp;rsquo;s room KWOOWK About to Eat Lisa Nguyen Jeanelleeats   Christian stuff a little bit (some dating videos) Decluttering?</description>
+How I could spend my time instead next time GET CREATIVE crochet draw paint work on website? work on some kind of low mental energy project FIND A PROJECT clean up my pinterest clean up my instagram saves (I kinda did this with covid) How I honestly spent my time with COVID (2022-06-29 to 2022-07-05) YouTube (this is just a taste of what I have been watching this week) Tiny house videos Living Big in a Tiny House Never Too Small Food Imamu&amp;rsquo;s room KWOOWK About to Eat Lisa Nguyen Jeanelleeats Christian stuff a little bit (some dating videos) Decluttering?</description>
     </item>
     
     <item>
@@ -333,7 +457,7 @@ Phase 1: Goosebumps Phase 2: Weaknesses and doubt Phase 3: Break-up You need you
       
       <guid>http://michaelacheong.com/pursue-clarity-in-dating/</guid>
       <description>Questions to ask:
- What have you learned about each other lately — stories, habits, character traits? How have you each grown in your relationship with Jesus since you started dating? Are you both committed to abstaining from any form of sexual immorality? What flags, if any, have others raised about your relationship? What obstacles are keeping the two of you from getting married? Are you each being driven by your own desires, or by God’s desires for you?</description>
+What have you learned about each other lately — stories, habits, character traits? How have you each grown in your relationship with Jesus since you started dating? Are you both committed to abstaining from any form of sexual immorality? What flags, if any, have others raised about your relationship? What obstacles are keeping the two of you from getting married? Are you each being driven by your own desires, or by God’s desires for you?</description>
     </item>
     
     <item>
@@ -354,10 +478,10 @@ Phase 1: Goosebumps Phase 2: Weaknesses and doubt Phase 3: Break-up You need you
       <description>I used to not see the big deal about art. But art is nice.
 Pretty thing that make me go &amp;ldquo;ooo&amp;rdquo; My pinterest board on art at pinterest.com.au.
 bookmark by ali beaudette Link: Working as of 2022-06-21, archived 2022-01-24
-  Picture of collection: bookmark by ali beaudette
-  Candace Hicks art Link: Working as of 2022-07-02
+Picture of collection: bookmark by ali beaudette
+Candace Hicks art Link: Working as of 2022-07-02
 Notes for String Theory Link: Working as of 2022-07-02, archived 2022-07-02
-   These are cool                 Books Link: Working as of 2022-07-02, archived 2022-03-19</description>
+These are cool Books Link: Working as of 2022-07-02, archived 2022-03-19</description>
     </item>
     
     <item>
@@ -407,14 +531,13 @@ What Makes a Successful Tutor?
       
       <guid>http://michaelacheong.com/getting-things-done/</guid>
       <description>When you have a foolproof system to track the things you need to do, your brain stops constantly reminding you, freeing you from stress and allowing you to better focus.
-  Write everything out
-  Make it actionable
+Write everything out
+Make it actionable
 physical/visible
-  Park it where it belongs
-  Review frequently
-  Just do it
-rinse and repeat
-  </description>
+Park it where it belongs
+Review frequently
+Just do it
+rinse and repeat</description>
     </item>
     
     <item>
@@ -425,7 +548,7 @@ rinse and repeat
       <guid>http://michaelacheong.com/trauma-informed-care/</guid>
       <description>Trauma-informed care is based on the understanding that:
 a significant number of people living with mental health conditions have experienced trauma in their lives trauma may be a factor for people in distress the impact of trauma may be lifelong trauma can impact the person, their emotions and relationships with others.1
- Churchy stuff  4 Focus-Areas for Creating a Trauma-Informed Ministry Trauma-Informed Youth Ministry Preaching Tool Intro - Safer Spaces Toolkit     What is trauma-informed care?</description>
+Churchy stuff 4 Focus-Areas for Creating a Trauma-Informed Ministry Trauma-Informed Youth Ministry Preaching Tool Intro - Safer Spaces Toolkit What is trauma-informed care?</description>
     </item>
     
     <item>
@@ -435,7 +558,7 @@ a significant number of people living with mental health conditions have experie
       
       <guid>http://michaelacheong.com/vietnamese/</guid>
       <description>Goals and motivations (general language learning) I don&amp;rsquo;t know where these question prompts were from but I think they were from How to LEARN A LANGUAGE on your own | study tips 📚 by The Bliss Bean.
- Why do I want to learn Vietnamese?  To be able to converse with my family in Vietnamese and just to know what should be my mother tongue.   What will you do when you’re able to speak Vietnamese comfortably?</description>
+Why do I want to learn Vietnamese? To be able to converse with my family in Vietnamese and just to know what should be my mother tongue. What will you do when you’re able to speak Vietnamese comfortably?</description>
     </item>
     
     <item>
@@ -464,7 +587,8 @@ Now, I follow the Ryder Caroll method, and not the pretty artsy method. Not that
       <pubDate>Fri, 17 Jun 2022 11:49:10 +1000</pubDate>
       
       <guid>http://michaelacheong.com/financial-literacy/</guid>
-      <description>OH MAN I have put off doing my tax returns for years now because I don&amp;rsquo;t make a taxable income AND because my identification wasn&amp;rsquo;t working it took me like two years to link my myGov to the ATO. I laugh at myself.</description>
+      <description>OH MAN I have put off doing my tax returns for years now because I don&amp;rsquo;t make a taxable income AND because my identification wasn&amp;rsquo;t working it took me like two years to link my myGov to the ATO. I laugh at myself.
+Doing my taxes for the first time So, did my first one. I figured out that my scholarship is not taxable income. So that&amp;rsquo;s good.</description>
     </item>
     
     <item>
@@ -481,28 +605,28 @@ Little children, let us not love in word or talk but in deed and in truth.</desc
     
     <item>
       <title>1 John</title>
-      <link>http://michaelacheong.com/62-1-john/</link>
+      <link>http://michaelacheong.com/1-john/</link>
       <pubDate>Fri, 17 Jun 2022 10:49:30 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/62-1-john/</guid>
+      <guid>http://michaelacheong.com/1-john/</guid>
       <description>The 62nd book of the Bible.</description>
     </item>
     
     <item>
       <title>2 Corinthians</title>
-      <link>http://michaelacheong.com/47-2-corinthians/</link>
+      <link>http://michaelacheong.com/2-corinthians/</link>
       <pubDate>Fri, 17 Jun 2022 10:43:05 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/47-2-corinthians/</guid>
+      <guid>http://michaelacheong.com/2-corinthians/</guid>
       <description>The 47th book of the Bible.</description>
     </item>
     
     <item>
       <title>1 Corinthians</title>
-      <link>http://michaelacheong.com/46-1-corinthians/</link>
+      <link>http://michaelacheong.com/1-corinthians/</link>
       <pubDate>Fri, 17 Jun 2022 10:43:00 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/46-1-corinthians/</guid>
+      <guid>http://michaelacheong.com/1-corinthians/</guid>
       <description>The 46th book of the Bible.</description>
     </item>
     
@@ -657,7 +781,7 @@ To participate in the Trauma Olympics is to partake in the competition of &amp;l
       
       <guid>http://michaelacheong.com/vscode/</guid>
       <description>I think you call this a stack, where you talk about applications you use and their setup. So, I am gonna write a university stack, or a general productivity stack, but this is my VSCode stack, which in essence is a list of extensions I use and my setup.
- Colour Theme: Rouge  I like navy and the soft pink is really nice. -I also have used Horizon Bright by jolaleye if I ever want to use a light theme (so, not super often, but enough to say I like it as a theme).</description>
+Colour Theme: Rouge I like navy and the soft pink is really nice. -I also have used Horizon Bright by jolaleye if I ever want to use a light theme (so, not super often, but enough to say I like it as a theme).</description>
     </item>
     
     <item>
@@ -677,7 +801,7 @@ I thoroughly enjoyed all of my experiences to do with OzCLO during high school.<
       
       <guid>http://michaelacheong.com/linguistics/</guid>
       <description>I think linguistics is really cool. There is an entire story behind how I got interested in linguistics, which I would like to write up at some point.
- OzCLO QTE Wycliffe Talking to a ling prof from Griffith Naomi&amp;rsquo;s parents Graeme&amp;rsquo;s wife&amp;rsquo;s parents  For now, this is going to be a sort of quick guide based on my linguistics intro subject at uni, but I will only be trying to revise the topics below so these may not be super comprehensive.</description>
+OzCLO QTE Wycliffe Talking to a ling prof from Griffith Naomi&amp;rsquo;s parents Graeme&amp;rsquo;s wife&amp;rsquo;s parents For now, this is going to be a sort of quick guide based on my linguistics intro subject at uni, but I will only be trying to revise the topics below so these may not be super comprehensive.</description>
     </item>
     
     <item>
@@ -714,8 +838,8 @@ I thoroughly enjoyed all of my experiences to do with OzCLO during high school.<
       
       <guid>http://michaelacheong.com/better-to-marry/</guid>
       <description>This was just an interesting verse from my bible reading today.
- To the unmarried and the widows I say that it is good for them to remain single, as I am. But if they cannot exercise self-control, they should marry. For it is better to marry than to burn with passion. (1 Corinthians 7:8–9)
- Going through 1 Corinthians myself for the first time has been a very interesting journey.</description>
+To the unmarried and the widows I say that it is good for them to remain single, as I am. But if they cannot exercise self-control, they should marry. For it is better to marry than to burn with passion. (1 Corinthians 7:8–9)
+Going through 1 Corinthians myself for the first time has been a very interesting journey. Onwards we go.</description>
     </item>
     
     <item>
@@ -725,7 +849,7 @@ I thoroughly enjoyed all of my experiences to do with OzCLO during high school.<
       
       <guid>http://michaelacheong.com/hold-loosely/</guid>
       <description>On Sunday, we went through 1 John 2:12-17, however, 1 John 2:15–17 is a bit more relevant to this thought.
- Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him. For all that is in the world—the desires of the flesh and the desires of the eyes and pride of life—is not from the Father but is from the world.</description>
+Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him. For all that is in the world—the desires of the flesh and the desires of the eyes and pride of life—is not from the Father but is from the world.</description>
     </item>
     
     <item>
@@ -773,7 +897,7 @@ After some finicking, I now have my Hugo site version control being managed in G
       <pubDate>Mon, 23 May 2022 15:05:04 +1000</pubDate>
       
       <guid>http://michaelacheong.com/who-is-michaela/</guid>
-      <description>Origins of the name Michaela  Michaela n. who is like God  Feminine form of Michael (from Hebrew).
+      <description>Origins of the name Michaela Michaela n. who is like God Feminine form of Michael (from Hebrew).
 https://en.wikipedia.org/wiki/Michaela
 A girl from my Youth group wrote this out on a card for me in nice hand-lettering and gave it to me when I got baptised in March of 2021. I honestly hadn&amp;rsquo;t thought about the meaning of my name until then, though I knew that I had been named Michaela based on the biblical angel Michael.</description>
     </item>
