@@ -10,14 +10,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Mon, 25 Jul 2022 09:50:55 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Jul 2022 11:25:09 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to my digital garden</title>
-      <link>http://michaelacheong.com/welcome/</link>
-      <pubDate>Wed, 25 May 2022 08:53:38 +1000</pubDate>
+      <title>Students struggle with large amounts of reading</title>
+      <link>http://michaelacheong.com/students-struggle-with-reading/</link>
+      <pubDate>Wed, 03 Aug 2022 16:08:53 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/welcome/</guid>
-      <description>Start here.</description>
+      <guid>http://michaelacheong.com/students-struggle-with-reading/</guid>
+      <description>Common issues with large amounts of reading1 Ineffective strats for large reading loads Understanding Application Higher mental/cognitive effort -&amp;gt; self-perceived inadequacy/poorer learning Opposite is true Learning snowballs More prior knowledge -&amp;gt; faster learning Less prior -&amp;gt; slower learning, constant overwhelm These problems can be eleviated by implementing Strategies for higher-order learning
+Read about it: Tackling the problem of students’ failure to hit the books by Justin Sung https://lens.monash.edu/2022/07/28/1384921?slug=read-about-it-tackling-the-problem-of-students-failure-to-hit-the-books&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    
+    <item>
+      <title>Study masterlist</title>
+      <link>http://michaelacheong.com/study-masterlist/</link>
+      <pubDate>Wed, 03 Aug 2022 16:08:25 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/study-masterlist/</guid>
+      <description>a l&amp;#39;a Studyblr in 2015</description>
+    </item>
+    
+    <item>
+      <title>Strategies for higher-order learning</title>
+      <link>http://michaelacheong.com/strategies-for-higher-order-learning/</link>
+      <pubDate>Sat, 30 Jul 2022 22:04:39 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/strategies-for-higher-order-learning/</guid>
+      <description>All from Monash Uni. 1
+Comparing ideas against each other Identifying relationships Prioritising and making judgements on the nature and importance of the relationships Considering the purpose of information and how it can be applied Focusing on creating clear and explicit networks of information rather than simply understanding isolated concepts. Additionally Maintain self-awareness Self-check as you go for appl of strategies Increase self-awareness Learn about meta learning Learn about own behaviours and thought patterns Read about it: Tackling the problem of students’ failure to hit the books by Justin Sung https://lens.</description>
+    </item>
+    
+    <item>
+      <title>Untitled</title>
+      <link>http://michaelacheong.com/statement-of-faith/</link>
+      <pubDate>Thu, 28 Jul 2022 16:03:48 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/statement-of-faith/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -45,8 +74,7 @@
       
       <guid>http://michaelacheong.com/discrete-maths-ii/</guid>
       <description>I Basic Counting (pg. 5) 1 Selections (pg. 5) 1.1-1.4 Basic counting formulas Given a set of \(n\) objects, the number of ways of selecting \(r\) objects can be found according to the table below.
-No repetition With repetition Order matters (Ordered) \(\frac{n!}{(n-r)!}\) \(n^r\) Order does not matter (Unordered) \(\binom{n}{r} = \frac{n!}{(n-r)!r!}\) \(\binom{n+r-1}{r} = \binom{n+r-1}{n-1}\) 1.4 Intuition for unordered selections with repetition The bucket representation??
-1.5 2 Combinatorial Identities (pg. 9) Upcoming II Inclusion-Exclusion and Related Techniques (pg.</description>
+No repetition With repetition Order matters (Ordered) \(\frac{n!}{(n-r)!}\) \(n^r\) Order does not matter (Unordered) \(\binom{n}{r} = \frac{n!}{(n-r)!r!}\) \(\binom{n+r-1}{r} = \binom{n+r-1}{n-1}\) 1.4 Intuition for unordered selections with repetition This is the balls and buckets representation. If we wish to select \(r\) objects from an \(n\)-set, we essentially want to count the number of ways we can split up the \(n\) objects (i.</description>
     </item>
     
     <item>
@@ -120,7 +148,7 @@ Consonants 1. Speech Organs 2.</description>
       <pubDate>Thu, 21 Jul 2022 19:08:00 +1000</pubDate>
       
       <guid>http://michaelacheong.com/watch-list/</guid>
-      <description>Current services ABC iView Silverpoint Netflix Disney+ HSMTMTS (Jul 27?) SBS On Demand Services I don&amp;rsquo;t have Amazon prime The Summer I Turned Pretty (I read the books so… it’s only fair) Don&amp;rsquo;t Make Me Go Paper Girls Binge Harry Potter is on there lol There must&amp;rsquo;ve been something else&amp;hellip; Apple TV+ CODA Ted Lasso Cha Cha Real Smooth (idk if I will actually watch, but the premise looks interesting) The Shrink Next Door?</description>
+      <description>Current services ABC iView Silverpoint Netflix Disney+ HSMTMTS (Jul 27) SBS On Demand Shoplifters Services I don&amp;rsquo;t have Amazon prime The Summer I Turned Pretty (I read the books so… it’s only fair) Don&amp;rsquo;t Make Me Go Paper Girls Binge Harry Potter is on there lol The Fallout About Time Apple TV+ CODA Ted Lasso Cha Cha Real Smooth (idk if I will actually watch, but the premise looks interesting) The Shrink Next Door?</description>
     </item>
     
     <item>
@@ -193,9 +221,9 @@ Productivity YouTube is worse than you think. by Elizabeth Filips at https://www
       <pubDate>Sat, 16 Jul 2022 21:00:08 +1000</pubDate>
       
       <guid>http://michaelacheong.com/computer-migration/</guid>
-      <description>Current specs: Laptop: Dell Inspiron 13-5378 CPU: Intel i5-7200U @ 2.50GHz RAM: 4GB HDD: 500GB SSD, installed by a friend but this originally had 128GB iirc OS: Windows 10 Home
-Incoming: Laptop: Lenovo Thinkpad X1 Carbon Gen 7 14&amp;quot; CPU: Intel i7-8565U 1.80Ghz RAM: 16GB HDD: 500GB SSD OS: Windows 10 Home
-&amp;ndash; SYSTEM BENEFITS according to seller &amp;ndash; Lenovo claims a 18.3 hour battery life; I have experienced closer to 10 hours with constant use of Remote Desktop Connection.</description>
+      <description>Current specs:
+Laptop: Dell Inspiron 13-5378 CPU: Intel i5-7200U @ 2.50GHz RAM: 4GB HDD: 500GB SSD, installed by a friend but this originally had 128GB iirc OS: Windows 10 Home Incoming:
+Laptop: Lenovo Thinkpad X1 Carbon Gen 7 14&amp;quot; CPU: Intel i7-8565U 1.80Ghz RAM: 16GB HDD: 500GB SSD OS: Windows 10 Home SYSTEM BENEFITS according to seller Lenovo claims a 18.3 hour battery life; I have experienced closer to 10 hours with constant use of Remote Desktop Connection.</description>
     </item>
     
     <item>
@@ -284,9 +312,8 @@ Goodness of God (G), Hosanna (D) From The Inside Out (G) Living Hope (G) This Li
       
       <guid>http://michaelacheong.com/introduction-to-the-bible-mtc/</guid>
       <description>A course by Moore Theological College, but I&amp;rsquo;m going through a version with my mentor.
-Study 1: The Book of Books Before you begin&amp;hellip;
-Favourite book of the Bible? I really like James because it feels like a slap in the face every time I read it. It&amp;rsquo;s just, so much good instruction about living life for Christ.
-1. What is the Bible? library of books 39 OT 27 NT time 2.</description>
+Study 1: The Book of Books Before you begin&amp;hellip; Favourite book of the Bible? I really like James because it feels like a slap in the face every time I read it. It&amp;rsquo;s just, so much good instruction about living life for Christ.
+1. What is the Bible? library of books 39 OT 27 NT time: 1600 years from Moses (15th Century BC) to 1st Century common themes unity 2.</description>
     </item>
     
     <item>
@@ -605,28 +632,28 @@ Little children, let us not love in word or talk but in deed and in truth.</desc
     
     <item>
       <title>1 John</title>
-      <link>http://michaelacheong.com/1-john/</link>
+      <link>http://michaelacheong.com/62-1-john/</link>
       <pubDate>Fri, 17 Jun 2022 10:49:30 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/1-john/</guid>
+      <guid>http://michaelacheong.com/62-1-john/</guid>
       <description>The 62nd book of the Bible.</description>
     </item>
     
     <item>
       <title>2 Corinthians</title>
-      <link>http://michaelacheong.com/2-corinthians/</link>
+      <link>http://michaelacheong.com/47-2-corinthians/</link>
       <pubDate>Fri, 17 Jun 2022 10:43:05 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/2-corinthians/</guid>
+      <guid>http://michaelacheong.com/47-2-corinthians/</guid>
       <description>The 47th book of the Bible.</description>
     </item>
     
     <item>
-      <title>1 Corinthians</title>
-      <link>http://michaelacheong.com/1-corinthians/</link>
+      <title>1 Corinthians landing</title>
+      <link>http://michaelacheong.com/46-1-corinthians/</link>
       <pubDate>Fri, 17 Jun 2022 10:43:00 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/1-corinthians/</guid>
+      <guid>http://michaelacheong.com/46-1-corinthians/</guid>
       <description>The 46th book of the Bible.</description>
     </item>
     
@@ -659,7 +686,7 @@ Suffering makes us learn to rely on God I have gone through a lot.</description>
       <guid>http://michaelacheong.com/read-bible-daily/</guid>
       <description>Some key reasons:
 If I have time to eat, I have time to read. John Piper things to commit to in your 20&amp;rsquo;s
-I am fickle. Coffe &amp;amp; Bible Time video - I need to read daily because I have a pretty bad memory.</description>
+I am fickle. Coffee &amp;amp; Bible Time video - I need to read daily because I have a pretty bad memory.</description>
     </item>
     
     <item>
@@ -797,11 +824,20 @@ I thoroughly enjoyed all of my experiences to do with OzCLO during high school.<
     <item>
       <title>Linguistics</title>
       <link>http://michaelacheong.com/linguistics/</link>
-      <pubDate>Wed, 25 May 2022 10:49:08 +1000</pubDate>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
       
       <guid>http://michaelacheong.com/linguistics/</guid>
       <description>I think linguistics is really cool. There is an entire story behind how I got interested in linguistics, which I would like to write up at some point.
 OzCLO QTE Wycliffe Talking to a ling prof from Griffith Naomi&amp;rsquo;s parents Graeme&amp;rsquo;s wife&amp;rsquo;s parents For now, this is going to be a sort of quick guide based on my linguistics intro subject at uni, but I will only be trying to revise the topics below so these may not be super comprehensive.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my digital garden</title>
+      <link>http://michaelacheong.com/welcome/</link>
+      <pubDate>Wed, 25 May 2022 08:53:38 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/welcome/</guid>
+      <description>Start here.</description>
     </item>
     
     <item>
@@ -859,7 +895,8 @@ Do not love the world or the things in the world. If anyone loves the world, the
       
       <guid>http://michaelacheong.com/css/</guid>
       <description>I only slightly want to claw my eyes out. May I please just have pretty fonts?
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts https://discourse.gohugo.io/t/how-to-load-assets-from-the-static-folder-in-a-css-file/21005 Need to fix theme-vars.css with my actual desired fonts lol</description>
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts https://discourse.gohugo.io/t/how-to-load-assets-from-the-static-folder-in-a-css-file/21005 Need to fix theme-vars.css with my actual desired fonts lol
+Best practices Line spacing http://www.unit-conversion.info/texttools/add-line-break-by-length/ Typography https://www.editorx.com/shaping-design/article/font-size Functional text https://pimpmytype.com/functional-text/ </description>
     </item>
     
     <item>
@@ -886,9 +923,7 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts https:
       <pubDate>Mon, 23 May 2022 15:34:05 +1000</pubDate>
       
       <guid>http://michaelacheong.com/github/</guid>
-      <description>I am an absolute GitHub noob, but like, I&amp;rsquo;m trying my best.
-When I created this website, I didn&amp;rsquo;t realise I should have created the hugo new site in a cloned repository that was already on my computer, so, I am using the second answer of this stack overflow question to do it. https://stackoverflow.com/questions/3311774/how-to-convert-existing-non-empty-directory-into-a-git-working-directory-and-pus
-After some finicking, I now have my Hugo site version control being managed in Git. I think.</description>
+      <description>And also git. Version control, and stuff...</description>
     </item>
     
     <item>
@@ -897,9 +932,10 @@ After some finicking, I now have my Hugo site version control being managed in G
       <pubDate>Mon, 23 May 2022 15:05:04 +1000</pubDate>
       
       <guid>http://michaelacheong.com/who-is-michaela/</guid>
-      <description>Origins of the name Michaela Michaela n. who is like God Feminine form of Michael (from Hebrew).
+      <description>Briefly I am a Christian. I study mathematics and statistics, and have an interest in linguistics. I also work as a tutor, primarily in maths for high-school students.
+Origins of the name Michaela Michaela n. who is like God Feminine form of Michael (from Hebrew).
 https://en.wikipedia.org/wiki/Michaela
-A girl from my Youth group wrote this out on a card for me in nice hand-lettering and gave it to me when I got baptised in March of 2021. I honestly hadn&amp;rsquo;t thought about the meaning of my name until then, though I knew that I had been named Michaela based on the biblical angel Michael.</description>
+A girl from my Youth group wrote this out on a card for me in nice hand-lettering and gave it to me when I got baptised in March of 2021.</description>
     </item>
     
     <item>
