@@ -10,17 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Mon, 23 May 2022 21:54:05 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CSS</title>
-      <link>http://michaelacheong.com/css/</link>
-      <pubDate>Mon, 23 May 2022 21:54:05 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/css/</guid>
-      <description>I only slightly want to claw my eyes out. May I please just have pretty fonts?
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts https://discourse.gohugo.io/t/how-to-load-assets-from-the-static-folder-in-a-css-file/21005 Need to fix theme-vars.css with my actual desired fonts lol</description>
-    </item>
-    
+    <lastBuildDate>Mon, 23 May 2022 15:04:53 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
       <link>http://michaelacheong.com/hugo/</link>

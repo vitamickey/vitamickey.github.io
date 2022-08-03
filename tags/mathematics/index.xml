@@ -18,8 +18,7 @@
       
       <guid>http://michaelacheong.com/discrete-maths-ii/</guid>
       <description>I Basic Counting (pg. 5) 1 Selections (pg. 5) 1.1-1.4 Basic counting formulas Given a set of \(n\) objects, the number of ways of selecting \(r\) objects can be found according to the table below.
-No repetition With repetition Order matters (Ordered) \(\frac{n!}{(n-r)!}\) \(n^r\) Order does not matter (Unordered) \(\binom{n}{r} = \frac{n!}{(n-r)!r!}\) \(\binom{n+r-1}{r} = \binom{n+r-1}{n-1}\) 1.4 Intuition for unordered selections with repetition The bucket representation??
-1.5 2 Combinatorial Identities (pg. 9) Upcoming II Inclusion-Exclusion and Related Techniques (pg.</description>
+No repetition With repetition Order matters (Ordered) \(\frac{n!}{(n-r)!}\) \(n^r\) Order does not matter (Unordered) \(\binom{n}{r} = \frac{n!}{(n-r)!r!}\) \(\binom{n+r-1}{r} = \binom{n+r-1}{n-1}\) 1.4 Intuition for unordered selections with repetition This is the balls and buckets representation. If we wish to select \(r\) objects from an \(n\)-set, we essentially want to count the number of ways we can split up the \(n\) objects (i.</description>
     </item>
     
     <item>
