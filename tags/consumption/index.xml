@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>consumption on Michaela</title>
+    <title>consumption on Museum of Michaela</title>
     <link>http://michaelacheong.com/tags/consumption/</link>
-    <description>Recent content in consumption on Michaela</description>
+    <description>Recent content in consumption on Museum of Michaela</description>
     <image>
       <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Sat, 09 Jul 2022 21:10:17 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/consumption/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jul 2022 19:11:36 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/consumption/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Minimalism</title>
+      <link>http://michaelacheong.com/digital-minimalism/</link>
+      <pubDate>Thu, 21 Jul 2022 19:11:36 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/digital-minimalism/</guid>
+      <description>I should do it again.</description>
+    </item>
+    
     <item>
       <title>Food</title>
       <link>http://michaelacheong.com/food/</link>
@@ -30,7 +39,7 @@ Recipes </description>
     </item>
     
     <item>
-      <title>Recipes</title>
+      <title>Recipes MOC</title>
       <link>http://michaelacheong.com/recipes/</link>
       <pubDate>Sat, 09 Jul 2022 20:37:27 +1000</pubDate>
       
@@ -39,8 +48,7 @@ Recipes </description>
 https://www.bbcgoodfood.com/recipes/collection/student-recipes
 https://www.bonappetit.com/gallery/cheap-recipes
 https://www.bonappetit.com/recipe/steamed-vegetables-with-rice-and-miso-ginger-dressing
-That I want to try Maccas cajun sauce https://my.whisk.com/recipes/1016205acdcfb9d656947a701d9bf84c07886eae779 https://www.moribyan.com/mcdonalds-chicken-nuggets-and-cajun-sauce-bts-meal/ Snickerdoodles (maybe in mrs fields style) https://butternutbakeryblog.com/maple-snickerdoodle-cookies/ Others on social media Instagram saves Pinterest Facebook That I&amp;rsquo;ve tried Dairy-free brownies https://makeitdairyfree.com/the-best-vegan-brownies/
-Strawberry jam Sterilising jars Wash jars and lids with warm soapy water Dry with clean towel Jars go in preheated oven, not touching, at 180C for 10min Jars w/o metal can be put wet in microwave on high heat for 45sec Lids boiled in a pan of water for 10min</description>
+That I want to try Maccas cajun sauce https://my.whisk.com/recipes/1016205acdcfb9d656947a701d9bf84c07886eae779 https://www.moribyan.com/mcdonalds-chicken-nuggets-and-cajun-sauce-bts-meal/ Snickerdoodles (maybe in mrs fields style) https://butternutbakeryblog.com/maple-snickerdoodle-cookies/ Sticky date!!! https://www.recipetineats.com/sticky-toffee-pudding/ Others on social media Instagram saves Pinterest Facebook That I&amp;rsquo;ve tried [[Dairy-free brownies]] [[Strawberry jam]] [[Jin doy (jian dui) (sesame balls red bean)]] [[Claire Saffitz choc chip cookie]] [[Banana pancakes]] [[Roasted veggies]] [[Eggplant with garlic sauce]] [[PICKLES]] [[Simple Korean Cucumber Salad (Oi Muchim 오이무침)]] [[Mulberry jam]] [[Almond butter]] Family recipes My mum&amp;rsquo;s cooking channel: https://www.</description>
     </item>
     
   </channel>

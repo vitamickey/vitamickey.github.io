@@ -1,16 +1,373 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Michaela</title>
+    <title>Museum of Michaela</title>
     <link>http://michaelacheong.com/</link>
-    <description>Recent content on Michaela</description>
+    <description>Recent content on Museum of Michaela</description>
     <image>
       <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Wed, 03 Aug 2022 16:08:53 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://michaelacheong.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Almond butter</title>
+      <link>http://michaelacheong.com/almond-butter/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/almond-butter/</guid>
+      <description>Related:
+Recipes References:
+https://detoxinista.com/how-to-make-homemade-almond-butter/ https://www.notenoughcinnamon.com/make-almond-butter/ https://cookieandkate.com/homemade-almond-butter-recipe/ Ingredients
+508g of almonds, $11.20 (from Coles at $22/kg) CAN GET IT CHEAPER SOMEWHERE ELSE Approx 3.5cups?? General cost of almond butter
+$5.70/250g jar (Coles, Woolies) $4.70??/240g jar (Aldi) Seems worth it to make your own, if not for time spent
+Procedure
+Roast almonds Preheat oven to 180C Roast for 10min, tossing halfway through Process almonds High-powered food processor </description>
+    </item>
+    
+    <item>
+      <title>Memoir writing</title>
+      <link>http://michaelacheong.com/memoir-writing/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/memoir-writing/</guid>
+      <description>Related:
+Writing https://selfpublishingschool.lpages.co/lm-thank-you-organic-sps-vip-eg-webinar/
+https://self-publishingschool.com/how-to-write-a-memoir/
+https://youtu.be/lqaRbnR8xUY</description>
+    </item>
+    
+    <item>
+      <title>Mulberry jam</title>
+      <link>http://michaelacheong.com/mulberry-jam/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/mulberry-jam/</guid>
+      <description>Variations From Claire K https://www.clairekcreations.com/mulberry-jam/
+Claire&amp;rsquo;s Ingredients 500g fresh-picked, firm, ripe mulberries 500g sugar juice of 1/2 lemon Claire&amp;rsquo;s Instructions Pull all the stems of the fruits and put them into a large saucepan. Heat it over medium heat and crush the berries to squish out the juice. Bring it to a boil then add the sugar and lemon juice. Reduce the heat and stir the mixture until the sugar dissolves.</description>
+    </item>
+    
+    <item>
+      <title>Windows OS</title>
+      <link>http://michaelacheong.com/windows-os/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/windows-os/</guid>
+      <description>Whilst trying to list out my files in my movie drive
+https://www.minitool.com/news/how-to-open-drive-in-cmd.html
+To open D:/&amp;gt;, type command
+D: https://www.get-itsolutions.com/how-to-list-files-in-cmd-command-prompt-windows-10/#:~:text=How%20to%20create%20a%20text%20file%20listing%20of,as%20the%20main%20folder%2C%20enter%20the%20following%20command
+To list folders, open directory in command line and type
+dir &amp;gt; listoffiles.txt or for subfolders included
+dir /s &amp;gt;listoffiles.txt or give full path name
+dir &amp;gt;D:\listmyfiles.txt or give list of only a certain file type, like PDFs
+dir /s *.pdf &amp;gt;listpdf.txt </description>
+    </item>
+    
+    <item>
+      <title>Banana pancakes</title>
+      <link>http://michaelacheong.com/banana-pancakes/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/banana-pancakes/</guid>
+      <description>Related:
+Recipes https://www.taste.com.au/recipes/3-ingredient-banana-pancakes/6ozkpd8g
+1 small ripe banana 1 medium egg 2 tbsp wholemeal self-raising flour oil spray </description>
+    </item>
+    
+    <item>
+      <title>Claire Saffitz choc chip cookie</title>
+      <link>http://michaelacheong.com/claire-saffitz-choc-chip-cookie/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/claire-saffitz-choc-chip-cookie/</guid>
+      <description>Related:
+Recipes https://www.youtube.com/watch?v=kPauR6tP_cg
+2 sticks unsalted butter (227g) 2 tbsp heavy cream (28g) 2 cups plain flour (all-purpose) (260g) 2 teaspoons diamond crystal kosher salt (6g) 1 tsp bicarbonate soda (baking soda) (6g) 3/4 cup packed dark brown sugar (150g) 3/4 cup caster sugar (granulated) (150g) 2 large eggs (100g), cold from fridge 1 tbsp vanilla extract (TABLE) 142g dark chocolate disks, half coarsely chopped 142g milk chocolate disks, half coarse oh chopped </description>
+    </item>
+    
+    <item>
+      <title>Dairy-free brownies</title>
+      <link>http://michaelacheong.com/dairy-free-brownies/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/dairy-free-brownies/</guid>
+      <description>Related:
+Recipes https://makeitdairyfree.com/the-best-vegan-brownies/</description>
+    </item>
+    
+    <item>
+      <title>Eggplant with garlic sauce</title>
+      <link>http://michaelacheong.com/eggplant-with-garlic-sauce/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/eggplant-with-garlic-sauce/</guid>
+      <description>Related:
+Recipes Ingredients mostly of https://pickledplum.com/eggplant-garlic-sauce/
++mushroom, -chilli, +chilli flakes. one FAT western eggplant was more than enough. still have the seedy flesh from the middle. tried new fancy cooking wines and vinegars uwu. house smells nice.
+I didn’t have any chilli unfortunately but did chuck in some gratuitous chilli flakes at the eleventh hour
+Technique (sort of) from https://www.madewithlau.com/recipes/eggplant-with-garlic-sauce
+underestimated food prep time. my cooking skills are still very basic.</description>
+    </item>
+    
+    <item>
+      <title>Jin doy (jian dui) (sesame balls red bean)</title>
+      <link>http://michaelacheong.com/jin-doy-jian-dui-sesame-balls-red-bean/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/jin-doy-jian-dui-sesame-balls-red-bean/</guid>
+      <description>Related:
+Recipes tried in 2022 Rice flour (green writing) Red bean paste Toasted sesame seeds Sesame oil https://cookingwithdog.com/recipe/sesame-balls-goma-dango/ Oh! I think Aunty Elsa gave me tips the year I made the cha guo! (N.B. sweet cha guo with red bean seems to be a Hakka recipe https://bymargk.blogspot.com/2018/04/sweet-hakka-cha-guo-with-red-bean.html)
+Here’s what she wrote to me&amp;hellip;
+Hi Julia I never made those but it&amp;rsquo;s same dough as Jin doys. Just have to use pink colouring roll into balls and fill with Do SAR (red bean sweet paste from a tin) or.</description>
+    </item>
+    
+    <item>
+      <title>PICKLES</title>
+      <link>http://michaelacheong.com/pickles/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/pickles/</guid>
+      <description>Related:
+Recipes https://lenaskitchenblog.com/vietnamese-quick-pickled-carrots-and-daikon/
+1 cup unseasoned rice vinegar ½ cup white vinegar 2 cups water ¼ cup sugar needs more sugar [[2022-09-09]] 2 ½ tbsp kosher salt WAY TOO MUCH SALT [[2022-09-08]] 3 medium carrots peeled and julienned 1 daikon peeled and julienned (about 8” inches long) </description>
+    </item>
+    
+    <item>
+      <title>Roasted veggies</title>
+      <link>http://michaelacheong.com/roasted-veggies/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/roasted-veggies/</guid>
+      <description>Related:
+Recipes Eggplant [[2022-08-09]]
+https://www.recipetineats.com/roasted-eggplant/
+I did 200°C for 20min, flip, and then 10min. Canola oil and salt, on aluminium. Eggplant chunks surprisingly large going into the oven. Those bad boys SHRINK. Also, I put zucchini, which def needed to be smaller slices (lower moisture content?? but generally tougher flesh).
+Sweet potato and eggplant [[2022-09-13]]
+https://twokooksinthekitchen.com/roasted-sweet-potatoes-peppers-eggplant-apples/
+sweet potato should be smaller maybe? nowhere near as brown as eggplant. 20 + 10min at 220C ish</description>
+    </item>
+    
+    <item>
+      <title>Simple Korean Cucumber Salad (Oi Muchim 오이무침)</title>
+      <link>http://michaelacheong.com/simple-korean-cucumber-salad-oi-muchim/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/simple-korean-cucumber-salad-oi-muchim/</guid>
+      <description>Related:
+Recipes https://kimchimari.com/korean-cucumber-salad/
+very nice!! I still can&amp;rsquo;t find gochugaru and I&amp;rsquo;m crying.
+did the slinky from https://www.youtube.com/shorts/TNxgK3cebeU but abandoned it because it was a pretty bad slinky and also bad for storage and difficult to eat</description>
+    </item>
+    
+    <item>
+      <title>Strawberry jam</title>
+      <link>http://michaelacheong.com/strawberry-jam/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/strawberry-jam/</guid>
+      <description>Related:
+Recipes
+Sterilising jars
+Wash jars and lids with warm soapy water
+Dry with clean towel
+Jars go in preheated oven, not touching, at 180C for 10min
+Jars w/o metal can be put wet in microwave on high heat for 45sec
+Lids boiled in a pan of water for 10min
+https://www.female.com.au/strawberry-jam-csr.htm
+https://www.cookingwithnanaling.com/simple-strawberry-jam-recipe/
+https://www.tfrecipes.com/csr-strawberry-jam/
+My actual procedure I followed? For 500g setting sugar, and a bit more than that of strawberries</description>
+    </item>
+    
+    <item>
+      <title>Linguistic curiosities</title>
+      <link>http://michaelacheong.com/linguistic-curiosities/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/linguistic-curiosities/</guid>
+      <description>things people say as a result of linguistic phenomena “anythink” “aks” “pronounciation” </description>
+    </item>
+    
+    <item>
+      <title>International Phonetic Alphabet (IPA)</title>
+      <link>http://michaelacheong.com/international-phonetic-alphabet-ipa/</link>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/international-phonetic-alphabet-ipa/</guid>
+      <description>Fonts
+https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;amp;id=IPAhome#2339eb7c
+Charis SIL Google Font now using it on website! and on Obsidian Doulos SIL like Times New Roman Not a Google Font :( Gentium Plus Google Font no bold or bold italic https://www.nickdanis.com/2020/03/07/typing-ipa-symbols/
+Keyboards available
+https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;amp;id=UniIPAKeyboard#2c8bacba
+Keyman
+https://help.keyman.com/products/windows/current-version/start/tutorial
+Documentation - how to type everything
+https://help.keyman.com/keyboard/sil_ipa/1.8.4/sil_ipa</description>
+    </item>
+    
+    <item>
+      <title>Listen to our Sydney Writers&#39; Festival panel, &#39;What If My Mum Reads This?&#39;</title>
+      <link>http://michaelacheong.com/what-if-my-mum-reads-this/</link>
+      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/what-if-my-mum-reads-this/</guid>
+      <description>up:: [[The New Writer&amp;rsquo;s Room]]
+Cat writes so others feel less alone similar to my goal you can be considerate of others&amp;rsquo; wishes, but your story is your story Not strictly therapeutic but certainly can help organise thoughts </description>
+    </item>
+    
+    <item>
+      <title>Lifelong learning</title>
+      <link>http://michaelacheong.com/lifelong-learning/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/lifelong-learning/</guid>
+      <description>1,700 Free Online Courses from Top Universities</description>
+    </item>
+    
+    <item>
+      <title>Pornography, masturbation and sexual sin</title>
+      <link>http://michaelacheong.com/pornography-masturbation-and-sexual-sin/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/pornography-masturbation-and-sexual-sin/</guid>
+      <description>Hate your sin. Despise it. This is war.
+Battle verses Watch and pray that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak.”
+Matthew 26:41 - ESV
+Have mercy on me, O God, according to your steadfast love; according to your abundant mercy blot out my transgressions. Wash me thoroughly from my iniquity, and cleanse me from my sin!
+For I know my transgressions, and my sin is ever before me.</description>
+    </item>
+    
+    <item>
+      <title>SBS Emerging Writers Competition</title>
+      <link>http://michaelacheong.com/sbs-emerging-writers-competition/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/sbs-emerging-writers-competition/</guid>
+      <description>Related:
+Writing The New Writer&amp;rsquo;s Room [Emergence] </description>
+    </item>
+    
+    <item>
+      <title>Christos Tsiolkas: The act of writing itself teaches you how to write</title>
+      <link>http://michaelacheong.com/christos-tsiolkas-the-act-of-writing-itself/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/christos-tsiolkas-the-act-of-writing-itself/</guid>
+      <description>The New Writer&amp;rsquo;s Room
+even if you&amp;rsquo;re not going to be a writer, you may still have a voice and a story to share!!! don&amp;rsquo;t censor the first draft. don&amp;rsquo;t think about anyone. that brings authenticity </description>
+    </item>
+    
+    <item>
+      <title>The New Writer&#39;s Room</title>
+      <link>http://michaelacheong.com/the-new-writers-room/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/the-new-writers-room/</guid>
+      <description>Related:
+Writing Prep for SBS Emerging Writers Competition
+Episodes
+Christos Tsiolkas - The act of writing itself teaches you how to write [Alice Pung - &amp;lsquo;My published output is a small fraction of what I write&amp;rsquo;] [The New Writer&amp;rsquo;s Room - Being published and the writer-editor relationship] Listen to our Sydney Writers&amp;rsquo; Festival panel, &amp;lsquo;What If My Mum Reads This&amp;rsquo; Atomic</description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>http://michaelacheong.com/writing/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/writing/</guid>
+      <description>SBS Emerging Writers Competition Theme: [[Emergence]]
+[[The New Writer&amp;rsquo;s Room]]
+[[Michaela&amp;rsquo;s Anthropocene Reviewed]]
+[[Write as if everyone you know is dead]] [[Write as if you&amp;rsquo;re already dead]] [[Write to one person]] As in, keep your audience specific From SBS, but also mentioned in this [[Answer in Progress]] video: https://www.youtube.com/watch?v=tdeKDC_TY0o (From Jennette mccurdy drew Barrymore interview?)
+www.writerscollegeblog.com/best-writing-tip-write-as-if-everyone-you-know-is-dead/
+/medium.com/the-mission/write-as-if-youre-already-dead-80ec740558e5
+www.theatlantic.com/entertainment/archive/2013/01/actually-dont-write-like-youre-dead/266934/</description>
+    </item>
+    
+    <item>
+      <title>How to type Vietnamese using Telex</title>
+      <link>http://michaelacheong.com/how-to-type-vietnamese-using-telex/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/how-to-type-vietnamese-using-telex/</guid>
+      <description>Key Letters1 Letter group â, ê, ô, đ ư, ơ and ă Telex letter + letter letter + w Example aa aw Output â ă The 5 diacritics1 Diacritics acute ´ grave ` hook ̉ tilde ~ dot . Telex (letter +) s f r x j Example as af ar ax aj Output á à ả ã ạ Other notes1 And there you go! Congratulation on having learned how to type Vietnamese.</description>
+    </item>
+    
+    <item>
+      <title>Total Depravity</title>
+      <link>http://michaelacheong.com/total-depravity/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/total-depravity/</guid>
+      <description>The T of TULIP (Calvinism)</description>
+    </item>
+    
+    <item>
+      <title>Unconditional Election</title>
+      <link>http://michaelacheong.com/unconditional-election/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/unconditional-election/</guid>
+      <description>The U of TULIP (Calvinism)</description>
+    </item>
+    
+    <item>
+      <title>Bipolar disorder</title>
+      <link>http://michaelacheong.com/bipolar-disorder/</link>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/bipolar-disorder/</guid>
+      <description>What is it Mood disorder Chronic condition causing intense mood changes Who does it affect? 1 in 50 Aussies Onset: teens/young adults Women &amp;gt; men Characterised by Periods of extreme moods Manic (hypomanic) episodes Extreme euphoria, high Can be high-functioning Hypomania is &amp;rsquo;less than mania&#39; Depressive episodes Hopelessness, low energy Can last weeks or months Symptoms (direct quote1) During a manic phase, symptoms may include: feeling high, extremely happy or irritable inflated self-esteem or grandiose ideas increased energy, activity and creativity, along with a reduced need to sleep an increase in task-focused behaviours (such as staying up all night to get things done) racing thoughts and speech (may be expressed as frequently talking over people) jumping from topic to topic being very easily distracted by any stimuli (such as noises or other people) impulsive or risky behaviours with spending, business or sexual activity unrealistic plans, delusions or hallucinations During a depressive phase, symptoms may include: low mood lack of motivation a loss of interest in usual leisure activities or hobbies changes in sleep patterns difficulty concentrating withdrawing from social contact and activities feelings of worthlessness or guilt, which may include suicidal thoughts Types Bipolar I long-lasting periods of extreme mood (either mania or depression) can include psychosis Bipolar II less-extreme highs (hypomania) episodes last for a few hours/days Cyclothymic disorder less severe, still impacts daily function Substance-induced bipolar disorder Causes Here it will be made clear why I have an irrational fear about developing bipolar disorder.</description>
+    </item>
+    
+    <item>
+      <title>How to learn Vietnamese</title>
+      <link>http://michaelacheong.com/how-to-learn-vietnamese/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/how-to-learn-vietnamese/</guid>
+      <description>Related:
+Vietnamese language Further reading https://flexiclasses.com/best-way-learn-vietnamese/ HOW TO LEARN VIETNAMESE – 10 QUICK TIPS
+Decide on the dialect to learn at the beginning Focus on tones Learn the vowels Get a good teacher to correct your pronunciation Listen a lot to improve your pronunciation Don’t be afraid to make mistakes. Just speak Know that it can be frustrating and do not give up Avoid going to expat dominated areas of Vietnam where English is widely spoken Speak slowly, there is no rush Make Vietnamese friends</description>
+    </item>
+    
+    <item>
+      <title>Learning languages motivation</title>
+      <link>http://michaelacheong.com/learning-languages-motivation/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/learning-languages-motivation/</guid>
+      <description>Related:
+Vietnamese language Goals and motivations (general language learning) I don&amp;rsquo;t know where these question prompts were from but I think they were from How to LEARN A LANGUAGE on your own | study tips 📚 by The Bliss Bean.
+Why do I want to learn Vietnamese? To be able to converse with my family in Vietnamese and just to know what should be my mother tongue. What will you do when you’re able to speak Vietnamese comfortably?</description>
+    </item>
+    
+    <item>
+      <title>Obsidian System 2022</title>
+      <link>http://michaelacheong.com/obsidian-system-and-structure-2022/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/obsidian-system-and-structure-2022/</guid>
+      <description>Structure 00 Meta 01 Inbox 02 Journal 03 Templates 10 God 20 World 30 Learning 40 Language
+Eg.
+The Self
+000 Knowledge Management
+100 Personal Management
+200 Philosophy &amp;amp; Psychology; Spirituality &amp;amp; Religion
+Others
+300 Social Sciences
+400 Communications &amp;amp; Rhetoric; Language &amp;amp; Linguistics
+Others + Self
+500 Natural Sciences
+600 Applied Sciences
+700 Art &amp;amp; Recreation
+800 Literature
+History of Others &amp;amp; Self
+900 History &amp;amp; Biography &amp;amp; Geography</description>
+    </item>
+    
     <item>
       <title>Students struggle with large amounts of reading</title>
       <link>http://michaelacheong.com/students-struggle-with-reading/</link>
@@ -31,6 +388,15 @@ Read about it: Tackling the problem of students’ failure to hit the books by J
     </item>
     
     <item>
+      <title>Calvinism</title>
+      <link>http://michaelacheong.com/calvinism/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/calvinism/</guid>
+      <description>Spicy flowers</description>
+    </item>
+    
+    <item>
       <title>Strategies for higher-order learning</title>
       <link>http://michaelacheong.com/strategies-for-higher-order-learning/</link>
       <pubDate>Sat, 30 Jul 2022 22:04:39 +1000</pubDate>
@@ -41,12 +407,14 @@ Comparing ideas against each other Identifying relationships Prioritising and ma
     </item>
     
     <item>
-      <title>Untitled</title>
+      <title>Statement of Faith</title>
       <link>http://michaelacheong.com/statement-of-faith/</link>
       <pubDate>Thu, 28 Jul 2022 16:03:48 +1000</pubDate>
       
       <guid>http://michaelacheong.com/statement-of-faith/</guid>
-      <description></description>
+      <description>I am a Christian. What does that mean?
+What I believe, basically wip.
+There is one God, the one who created that thing you may know as the Bible. Our world was created by God, as have each and everyone one of us. But humanity has fumbled pretty hard. Instead of listening to God, we decided, as Gabriella Montez in High School Musical 2 once said, that we gotta go our own way.</description>
     </item>
     
     <item>
@@ -75,6 +443,17 @@ Comparing ideas against each other Identifying relationships Prioritising and ma
       <guid>http://michaelacheong.com/discrete-maths-ii/</guid>
       <description>I Basic Counting (pg. 5) 1 Selections (pg. 5) 1.1-1.4 Basic counting formulas Given a set of \(n\) objects, the number of ways of selecting \(r\) objects can be found according to the table below.
 No repetition With repetition Order matters (Ordered) \(\frac{n!}{(n-r)!}\) \(n^r\) Order does not matter (Unordered) \(\binom{n}{r} = \frac{n!}{(n-r)!r!}\) \(\binom{n+r-1}{r} = \binom{n+r-1}{n-1}\) 1.4 Intuition for unordered selections with repetition This is the balls and buckets representation. If we wish to select \(r\) objects from an \(n\)-set, we essentially want to count the number of ways we can split up the \(n\) objects (i.</description>
+    </item>
+    
+    <item>
+      <title>LING1005 The Sound Patterns of Language</title>
+      <link>http://michaelacheong.com/sound-patterns-of-language/</link>
+      <pubDate>Sun, 24 Jul 2022 15:25:53 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/sound-patterns-of-language/</guid>
+      <description>General Tips1 Learn the IPA ASAP Associate a keyword with IPAs that are harder Remember the internal logic of common IPA charts (looks like a head turned left) Use a blank IPA chart Common transcription errors in vowels and stress Finding stress: say word in sing-song like someone&amp;rsquo;s name, and syllable with highest pitch is primary stress IPA Chart Vowels Clickable IPA Charts
+Interactive Sagittal Section
+Consonants 1. Speech Organs 2.</description>
     </item>
     
     <item>
@@ -134,12 +513,12 @@ Consonants 1. Speech Organs 2.</description>
     </item>
     
     <item>
-      <title>Untitled</title>
+      <title>Digital Minimalism</title>
       <link>http://michaelacheong.com/digital-minimalism/</link>
       <pubDate>Thu, 21 Jul 2022 19:11:36 +1000</pubDate>
       
       <guid>http://michaelacheong.com/digital-minimalism/</guid>
-      <description></description>
+      <description>I should do it again.</description>
     </item>
     
     <item>
@@ -148,7 +527,7 @@ Consonants 1. Speech Organs 2.</description>
       <pubDate>Thu, 21 Jul 2022 19:08:00 +1000</pubDate>
       
       <guid>http://michaelacheong.com/watch-list/</guid>
-      <description>Current services ABC iView Silverpoint Netflix Disney+ HSMTMTS (Jul 27) SBS On Demand Shoplifters Services I don&amp;rsquo;t have Amazon prime The Summer I Turned Pretty (I read the books so… it’s only fair) Don&amp;rsquo;t Make Me Go Paper Girls Binge Harry Potter is on there lol The Fallout About Time Apple TV+ CODA Ted Lasso Cha Cha Real Smooth (idk if I will actually watch, but the premise looks interesting) The Shrink Next Door?</description>
+      <description>Current services ABC iView Silverpoint Netflix Disney+ HSMTMTS (Jul 27) Services I don&amp;rsquo;t have Amazon prime The Summer I Turned Pretty (I read the books so… it’s only fair) Don&amp;rsquo;t Make Me Go Paper Girls But i&amp;rsquo;m letting go nicki Binge Harry Potter is on there lol The Fallout About Time Apple TV+ CODA Ted Lasso Cha Cha Real Smooth (idk if I will actually watch, but the premise looks interesting) The Shrink Next Door?</description>
     </item>
     
     <item>
@@ -254,11 +633,11 @@ Laptop: Lenovo Thinkpad X1 Carbon Gen 7 14&amp;quot; CPU: Intel i7-8565U 1.80Ghz
     </item>
     
     <item>
-      <title>Don&#39;t make a liar of God</title>
-      <link>http://michaelacheong.com/dont-make-a-liar-of-god/</link>
+      <title>Continuing in sin makes a liar of God for those of faith</title>
+      <link>http://michaelacheong.com/continuing-in-sin/</link>
       <pubDate>Wed, 13 Jul 2022 22:59:25 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/dont-make-a-liar-of-god/</guid>
+      <guid>http://michaelacheong.com/continuing-in-sin/</guid>
       <description>If you continue sinning when you proclaim to have faith, you make God a liar. And you make yourself a liar too, but that kind of pales in comparison to making God a liar.</description>
     </item>
     
@@ -402,7 +781,7 @@ https://goodonyou.eco/fast-fashion-factories-trap-women/</description>
     </item>
     
     <item>
-      <title>Recipes</title>
+      <title>Recipes MOC</title>
       <link>http://michaelacheong.com/recipes/</link>
       <pubDate>Sat, 09 Jul 2022 20:37:27 +1000</pubDate>
       
@@ -411,8 +790,7 @@ https://goodonyou.eco/fast-fashion-factories-trap-women/</description>
 https://www.bbcgoodfood.com/recipes/collection/student-recipes
 https://www.bonappetit.com/gallery/cheap-recipes
 https://www.bonappetit.com/recipe/steamed-vegetables-with-rice-and-miso-ginger-dressing
-That I want to try Maccas cajun sauce https://my.whisk.com/recipes/1016205acdcfb9d656947a701d9bf84c07886eae779 https://www.moribyan.com/mcdonalds-chicken-nuggets-and-cajun-sauce-bts-meal/ Snickerdoodles (maybe in mrs fields style) https://butternutbakeryblog.com/maple-snickerdoodle-cookies/ Others on social media Instagram saves Pinterest Facebook That I&amp;rsquo;ve tried Dairy-free brownies https://makeitdairyfree.com/the-best-vegan-brownies/
-Strawberry jam Sterilising jars Wash jars and lids with warm soapy water Dry with clean towel Jars go in preheated oven, not touching, at 180C for 10min Jars w/o metal can be put wet in microwave on high heat for 45sec Lids boiled in a pan of water for 10min</description>
+That I want to try Maccas cajun sauce https://my.whisk.com/recipes/1016205acdcfb9d656947a701d9bf84c07886eae779 https://www.moribyan.com/mcdonalds-chicken-nuggets-and-cajun-sauce-bts-meal/ Snickerdoodles (maybe in mrs fields style) https://butternutbakeryblog.com/maple-snickerdoodle-cookies/ Sticky date!!! https://www.recipetineats.com/sticky-toffee-pudding/ Others on social media Instagram saves Pinterest Facebook That I&amp;rsquo;ve tried [[Dairy-free brownies]] [[Strawberry jam]] [[Jin doy (jian dui) (sesame balls red bean)]] [[Claire Saffitz choc chip cookie]] [[Banana pancakes]] [[Roasted veggies]] [[Eggplant with garlic sauce]] [[PICKLES]] [[Simple Korean Cucumber Salad (Oi Muchim 오이무침)]] [[Mulberry jam]] [[Almond butter]] Family recipes My mum&amp;rsquo;s cooking channel: https://www.</description>
     </item>
     
     <item>
@@ -431,16 +809,6 @@ Strawberry jam Sterilising jars Wash jars and lids with warm soapy water Dry wit
       
       <guid>http://michaelacheong.com/personal-style/</guid>
       <description>Fashion for passion.</description>
-    </item>
-    
-    <item>
-      <title>Decluttering</title>
-      <link>http://michaelacheong.com/decluttering/</link>
-      <pubDate>Thu, 07 Jul 2022 10:49:13 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/decluttering/</guid>
-      <description>6 things you should get rid of by Jenny Mustard https://youtu.be/i0mmVVVpAAg Things you don’t need, don&amp;rsquo;t love.
-Maybe one day Just in case &amp;lsquo;So-so&amp;rsquo; clothes &amp;lsquo;For now&amp;rsquo; (that we will use until we find or can afford the better version) &amp;lsquo;I should&amp;rsquo; (tools for improvement that make you feel bad about yourself) &amp;lsquo;If only&amp;rsquo; (we quit our jobs, but a nice house,…) Process/System Principles No need to store up treasures on earth No need to be anxious about clothing Someone may benefit from your possessions more than you would1 Do everything for God&amp;rsquo;s glory If you had to give an account to God for every item you own, what would God think?</description>
     </item>
     
     <item>
@@ -502,13 +870,12 @@ What have you learned about each other lately — stories, habits, character tra
       <pubDate>Tue, 21 Jun 2022 09:23:28 +1000</pubDate>
       
       <guid>http://michaelacheong.com/art/</guid>
-      <description>I used to not see the big deal about art. But art is nice.
+      <description>OH GOSH I gotta edit these all bc everything is in Hugo shortcode lol. Cannot be viewed in Obsidian at all.
+I used to not see the big deal about art. But art is nice.
 Pretty thing that make me go &amp;ldquo;ooo&amp;rdquo; My pinterest board on art at pinterest.com.au.
 bookmark by ali beaudette Link: Working as of 2022-06-21, archived 2022-01-24
 Picture of collection: bookmark by ali beaudette
-Candace Hicks art Link: Working as of 2022-07-02
-Notes for String Theory Link: Working as of 2022-07-02, archived 2022-07-02
-These are cool Books Link: Working as of 2022-07-02, archived 2022-03-19</description>
+Candace Hicks art Link: Working as of 2022-07-02</description>
     </item>
     
     <item>
@@ -579,22 +946,20 @@ Churchy stuff 4 Focus-Areas for Creating a Trauma-Informed Ministry Trauma-Infor
     </item>
     
     <item>
-      <title>Vietnamese</title>
-      <link>http://michaelacheong.com/vietnamese/</link>
+      <title>Vietnamese language</title>
+      <link>http://michaelacheong.com/vietnamese-language/</link>
       <pubDate>Fri, 17 Jun 2022 16:13:54 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/vietnamese/</guid>
-      <description>Goals and motivations (general language learning) I don&amp;rsquo;t know where these question prompts were from but I think they were from How to LEARN A LANGUAGE on your own | study tips 📚 by The Bliss Bean.
-Why do I want to learn Vietnamese? To be able to converse with my family in Vietnamese and just to know what should be my mother tongue. What will you do when you’re able to speak Vietnamese comfortably?</description>
-    </item>
-    
-    <item>
-      <title>Refold</title>
-      <link>http://michaelacheong.com/refold/</link>
-      <pubDate>Fri, 17 Jun 2022 16:13:49 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/refold/</guid>
-      <description>A language-learning roadmap.</description>
+      <guid>http://michaelacheong.com/vietnamese-language/</guid>
+      <description>The main language of Vietnam. Not referring to the nationality.
+Related:
+Vietnam Learning languages motivation How to learn Vietnamese Refold Vietnamese How to type Vietnamese using Telex System Alphabet and pronunciation https://howtovietnamese.com/vietnamese-alphabet-pronunciation#lesson_1
+Viet language IPA
+https://www.vietnam-tour.biz/vietnamese-alphabet-pronunciation/#:~:text=The%20Northern%20Vietnamese%20has%206%20tones%20and%20the,%C3%AA%2C%20i%2C%20o%2C%20%C3%B4%2C%20%C6%A1%2C%20u%2C%20%C6%B0%2C%20y
+Other HowToVietnamese
+https://howtovietnamese.com/vietnamese-essential-phrases-beginners#lesson_1 https://howtovietnamese.com/vietnamese-basic-grammar-beginners#lesson_1 https://howtovietnamese.com/vietnamese-numbers-money#lesson_1 https://howtovietnamese.com/vietnamese-northern-southern-words/ 200 most common Vietnamese words | Learn Southern Vietnamese with a Saigonese For Free
+Listening Beginner | LEARN VIETNAMESE WITH SVFF
+Southern Vietnamese Bible Translations https://find.bible/countries/VN/ https://find.bible/languages/vie/ Found by comparing word for &amp;ldquo;bowl&amp;rdquo; in Numbers 7 (northern: &amp;lsquo;bát&amp;rsquo;, southern: &amp;lsquo;chén&amp;rsquo;) BPT VIE1925 VIE2010 Non-list BD2011 KTHD switches between: NVB Listening to accent on audio bible Possible southern NVB Northern KTHD </description>
     </item>
     
     <item>
@@ -828,7 +1193,7 @@ I thoroughly enjoyed all of my experiences to do with OzCLO during high school.<
       
       <guid>http://michaelacheong.com/linguistics/</guid>
       <description>I think linguistics is really cool. There is an entire story behind how I got interested in linguistics, which I would like to write up at some point.
-OzCLO QTE Wycliffe Talking to a ling prof from Griffith Naomi&amp;rsquo;s parents Graeme&amp;rsquo;s wife&amp;rsquo;s parents For now, this is going to be a sort of quick guide based on my linguistics intro subject at uni, but I will only be trying to revise the topics below so these may not be super comprehensive.</description>
+OzCLO QTE Wycliffe Talking to a ling prof from Griffith Naomi&amp;rsquo;s parents Graeme&amp;rsquo;s wife&amp;rsquo;s parents For now, this is ʕgoing to be a sort of quick guide based on my linguistics intro subject at uni, but I will only be trying to revise the topics below so these may not be super comprehensive.</description>
     </item>
     
     <item>
@@ -948,7 +1313,7 @@ A girl from my Youth group wrote this out on a card for me in nice hand-letterin
     </item>
     
     <item>
-      <title>Digital gardens</title>
+      <title>Digital garden</title>
       <link>http://michaelacheong.com/digital-garden/</link>
       <pubDate>Mon, 23 May 2022 15:04:46 +1000</pubDate>
       
@@ -965,6 +1330,34 @@ The main reference for what a digital garden is comes from Maggie Appleton. I wi
       
       <guid>http://michaelacheong.com/so-it-began/</guid>
       <description>I was trying to figure out how to make this website and what exactly it would hold and communicate to the rest of the billions of people with an internet connection. Not that I expect an audience, but once things are out in the world, they stay there. A blog seemed limiting, and I got caught up in a lot of websites recommending I choose a niche and stick to it.</description>
+    </item>
+    
+    <item>
+      <title>Refold</title>
+      <link>http://michaelacheong.com/refold/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/refold/</guid>
+      <description>A language-learning roadmap.</description>
+    </item>
+    
+    <item>
+      <title>Refold Vietnamese</title>
+      <link>http://michaelacheong.com/refold-vietnamese/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/refold-vietnamese/</guid>
+      <description>A language-learning roadmap for learning Vietnamese</description>
+    </item>
+    
+    <item>
+      <title>Decluttering</title>
+      <link>http://michaelacheong.com/decluttering/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/decluttering/</guid>
+      <description>6 things you should get rid of by Jenny Mustard https://youtu.be/i0mmVVVpAAg Things you don’t need, don&amp;rsquo;t love.
+Maybe one day Just in case &amp;lsquo;So-so&amp;rsquo; clothes &amp;lsquo;For now&amp;rsquo; (that we will use until we find or can afford the better version) &amp;lsquo;I should&amp;rsquo; (tools for improvement that make you feel bad about yourself) &amp;lsquo;If only&amp;rsquo; (we quit our jobs, but a nice house,…) Process/System Principles No need to store up treasures on earth [[Hold all things loosely]] No need to be anxious about clothing Someone may benefit from your possessions more than you would1 Do everything for God&amp;rsquo;s glory If you had to give an account to God for every item you own, what would God think?</description>
     </item>
     
     <item>
