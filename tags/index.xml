@@ -1,31 +1,148 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Michaela</title>
+    <title>Tags on Museum of Michaela</title>
     <link>http://michaelacheong.com/tags/</link>
-    <description>Recent content in Tags on Michaela</description>
+    <description>Recent content in Tags on Museum of Michaela</description>
     <image>
       <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Wed, 03 Aug 2022 16:08:53 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>education</title>
-      <link>http://michaelacheong.com/tags/education/</link>
-      <pubDate>Wed, 03 Aug 2022 16:08:53 +1000</pubDate>
+      <title>recipes</title>
+      <link>http://michaelacheong.com/tags/recipes/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://michaelacheong.com/tags/education/</guid>
+      <guid>http://michaelacheong.com/tags/recipes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>http://michaelacheong.com/tags/writing/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recipe</title>
+      <link>http://michaelacheong.com/tags/recipe/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/recipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>http://michaelacheong.com/tags/technology/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jin doy</title>
+      <link>http://michaelacheong.com/tags/jin-doy/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/jin-doy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>receipe</title>
+      <link>http://michaelacheong.com/tags/receipe/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/receipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linguistics</title>
+      <link>http://michaelacheong.com/tags/linguistics/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/linguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language</title>
+      <link>http://michaelacheong.com/tags/language/</link>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>faith</title>
+      <link>http://michaelacheong.com/tags/faith/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/faith/</guid>
       <description></description>
     </item>
     
     <item>
       <title>learning</title>
       <link>http://michaelacheong.com/tags/learning/</link>
-      <pubDate>Wed, 03 Aug 2022 16:08:53 +1000</pubDate>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>http://michaelacheong.com/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcast</title>
+      <link>http://michaelacheong.com/tags/podcast/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theology</title>
+      <link>http://michaelacheong.com/tags/theology/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/theology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mental-health</title>
+      <link>http://michaelacheong.com/tags/mental-health/</link>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/mental-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>http://michaelacheong.com/tags/education/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meta</title>
+      <link>http://michaelacheong.com/tags/meta/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/meta/</guid>
       <description></description>
     </item>
     
@@ -66,15 +183,6 @@
     </item>
     
     <item>
-      <title>linguistics</title>
-      <link>http://michaelacheong.com/tags/linguistics/</link>
-      <pubDate>Sun, 24 Jul 2022 15:25:53 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/tags/linguistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>personal-knowledge-management</title>
       <link>http://michaelacheong.com/tags/personal-knowledge-management/</link>
       <pubDate>Sat, 23 Jul 2022 10:48:52 +1000</pubDate>
@@ -84,20 +192,20 @@
     </item>
     
     <item>
-      <title>technology</title>
-      <link>http://michaelacheong.com/tags/technology/</link>
-      <pubDate>Sat, 23 Jul 2022 10:48:52 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/tags/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>psychology</title>
       <link>http://michaelacheong.com/tags/psychology/</link>
       <pubDate>Thu, 21 Jul 2022 21:34:53 +1000</pubDate>
       
       <guid>http://michaelacheong.com/tags/psychology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>consumption</title>
+      <link>http://michaelacheong.com/tags/consumption/</link>
+      <pubDate>Thu, 21 Jul 2022 19:11:36 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/consumption/</guid>
       <description></description>
     </item>
     
@@ -147,24 +255,6 @@
     </item>
     
     <item>
-      <title>theology</title>
-      <link>http://michaelacheong.com/tags/theology/</link>
-      <pubDate>Sat, 09 Jul 2022 21:37:56 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/tags/theology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>consumption</title>
-      <link>http://michaelacheong.com/tags/consumption/</link>
-      <pubDate>Sat, 09 Jul 2022 21:10:17 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/tags/consumption/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>bible</title>
       <link>http://michaelacheong.com/tags/bible/</link>
       <pubDate>Sat, 09 Jul 2022 21:03:42 +1000</pubDate>
@@ -174,38 +264,11 @@
     </item>
     
     <item>
-      <title>faith</title>
-      <link>http://michaelacheong.com/tags/faith/</link>
-      <pubDate>Sat, 09 Jul 2022 20:45:51 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/tags/faith/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>fashion</title>
       <link>http://michaelacheong.com/tags/fashion/</link>
       <pubDate>Sat, 09 Jul 2022 20:42:23 +1000</pubDate>
       
       <guid>http://michaelacheong.com/tags/fashion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>life</title>
-      <link>http://michaelacheong.com/tags/life/</link>
-      <pubDate>Thu, 07 Jul 2022 10:49:13 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/tags/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>possessions</title>
-      <link>http://michaelacheong.com/tags/possessions/</link>
-      <pubDate>Thu, 07 Jul 2022 10:49:13 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/tags/possessions/</guid>
       <description></description>
     </item>
     
@@ -237,20 +300,11 @@
     </item>
     
     <item>
-      <title>mental-health</title>
-      <link>http://michaelacheong.com/tags/mental-health/</link>
-      <pubDate>Sat, 18 Jun 2022 20:33:01 +1000</pubDate>
+      <title>life</title>
+      <link>http://michaelacheong.com/tags/life/</link>
+      <pubDate>Fri, 17 Jun 2022 11:49:10 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/tags/mental-health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language</title>
-      <link>http://michaelacheong.com/tags/language/</link>
-      <pubDate>Fri, 17 Jun 2022 16:13:54 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/tags/language/</guid>
+      <guid>http://michaelacheong.com/tags/life/</guid>
       <description></description>
     </item>
     
@@ -336,15 +390,6 @@
     </item>
     
     <item>
-      <title>meta</title>
-      <link>http://michaelacheong.com/tags/meta/</link>
-      <pubDate>Wed, 25 May 2022 08:53:38 +1000</pubDate>
-      
-      <guid>http://michaelacheong.com/tags/meta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>philosophy</title>
       <link>http://michaelacheong.com/tags/philosophy/</link>
       <pubDate>Tue, 24 May 2022 12:07:21 +1000</pubDate>
@@ -368,6 +413,15 @@
       <pubDate>Tue, 24 May 2022 09:25:28 +1000</pubDate>
       
       <guid>http://michaelacheong.com/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>possessions</title>
+      <link>http://michaelacheong.com/tags/possessions/</link>
+      <pubDate>Tue, 24 May 2022 09:23:39 +1000</pubDate>
+      
+      <guid>http://michaelacheong.com/tags/possessions/</guid>
       <description></description>
     </item>
     

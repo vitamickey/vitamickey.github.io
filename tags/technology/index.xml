@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>technology on Michaela</title>
+    <title>technology on Museum of Michaela</title>
     <link>http://michaelacheong.com/tags/technology/</link>
-    <description>Recent content in technology on Michaela</description>
+    <description>Recent content in technology on Museum of Michaela</description>
     <image>
       <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Sat, 23 Jul 2022 10:48:52 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows OS</title>
+      <link>http://michaelacheong.com/windows-os/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/windows-os/</guid>
+      <description>Whilst trying to list out my files in my movie drive
+https://www.minitool.com/news/how-to-open-drive-in-cmd.html
+To open D:/&amp;gt;, type command
+D: https://www.get-itsolutions.com/how-to-list-files-in-cmd-command-prompt-windows-10/#:~:text=How%20to%20create%20a%20text%20file%20listing%20of,as%20the%20main%20folder%2C%20enter%20the%20following%20command
+To list folders, open directory in command line and type
+dir &amp;gt; listoffiles.txt or for subfolders included
+dir /s &amp;gt;listoffiles.txt or give full path name
+dir &amp;gt;D:\listmyfiles.txt or give list of only a certain file type, like PDFs
+dir /s *.pdf &amp;gt;listpdf.txt </description>
+    </item>
+    
     <item>
       <title>Obsidian</title>
       <link>http://michaelacheong.com/obsidian/</link>
@@ -144,7 +161,7 @@ Best practices Line spacing http://www.unit-conversion.info/texttools/add-line-b
     </item>
     
     <item>
-      <title>Digital gardens</title>
+      <title>Digital garden</title>
       <link>http://michaelacheong.com/digital-garden/</link>
       <pubDate>Mon, 23 May 2022 15:04:46 +1000</pubDate>
       

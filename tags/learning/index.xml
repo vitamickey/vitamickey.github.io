@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>learning on Michaela</title>
+    <title>learning on Museum of Michaela</title>
     <link>http://michaelacheong.com/tags/learning/</link>
-    <description>Recent content in learning on Michaela</description>
+    <description>Recent content in learning on Museum of Michaela</description>
     <image>
       <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Wed, 03 Aug 2022 16:08:53 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lifelong learning</title>
+      <link>http://michaelacheong.com/lifelong-learning/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelacheong.com/lifelong-learning/</guid>
+      <description>1,700 Free Online Courses from Top Universities</description>
+    </item>
+    
     <item>
       <title>Students struggle with large amounts of reading</title>
       <link>http://michaelacheong.com/students-struggle-with-reading/</link>
@@ -55,7 +64,7 @@ What Makes a Successful Tutor?
     </item>
     
     <item>
-      <title>Digital gardens</title>
+      <title>Digital garden</title>
       <link>http://michaelacheong.com/digital-garden/</link>
       <pubDate>Mon, 23 May 2022 15:04:46 +1000</pubDate>
       
