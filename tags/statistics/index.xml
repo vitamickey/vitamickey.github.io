@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>statistics on Museum of Michaela</title>
-    <link>http://michaelacheong.com/tags/statistics/</link>
-    <description>Recent content in statistics on Museum of Michaela</description>
+    <title>statistics on Momentos from Michaela</title>
+    <link>https://michaelacheong.com/tags/statistics/</link>
+    <description>Recent content in statistics on Momentos from Michaela</description>
     <image>
-      <title>Museum of Michaela</title>
-      <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Momentos from Michaela</title>
+      <url>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Mon, 25 Jul 2022 09:50:07 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jul 2022 09:50:07 +1000</lastBuildDate><atom:link href="https://michaelacheong.com/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Statistical learning</title>
-      <link>http://michaelacheong.com/statistical-learning/</link>
+      <link>https://michaelacheong.com/statistical-learning/</link>
       <pubDate>Mon, 25 Jul 2022 09:50:07 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/statistical-learning/</guid>
+      <guid>https://michaelacheong.com/statistical-learning/</guid>
       <description>1. Measure theory and probability theory (1) Sets and sigma-algebras Measurability and integrals Lp spaces and convergence theorems Product spaces and independence 2. Optimization theory (2-3) Convexity Derivatives and critical points Iterative methods for optimization M-estimators and optimization of random functions 3. Density estimation (4) Maximum likelihood estimation Finite mixture models and the EM algorithm Kernel density estimators Goodness of fit tests and misspecification 4. Regression analysis (5-6) Proper conditioning Conditional density functions Least squares estimators Regularization and constrained regression Conditional density estimation Finite mixture of experts models and</description>
     </item>
     
     <item>
       <title>R</title>
-      <link>http://michaelacheong.com/r/</link>
+      <link>https://michaelacheong.com/r/</link>
       <pubDate>Fri, 22 Jul 2022 16:58:18 +1000</pubDate>
       
-      <guid>http://michaelacheong.com/r/</guid>
+      <guid>https://michaelacheong.com/r/</guid>
       <description>A statistical programming language</description>
     </item>
     
