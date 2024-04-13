@@ -1,61 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>learning on Momentos from Michaela</title>
+    <title>Learning on Michaela Cheong</title>
     <link>https://michaelacheong.com/tags/learning/</link>
-    <description>Recent content in learning on Momentos from Michaela</description>
+    <description>Recent content in Learning on Michaela Cheong</description>
     <image>
-      <title>Momentos from Michaela</title>
+      <title>Michaela Cheong</title>
       <url>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://michaelacheong.com/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://michaelacheong.com/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lifelong learning</title>
       <link>https://michaelacheong.com/lifelong-learning/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://michaelacheong.com/lifelong-learning/</guid>
       <description>1,700 Free Online Courses from Top Universities</description>
     </item>
-    
     <item>
       <title>Students struggle with large amounts of reading</title>
       <link>https://michaelacheong.com/students-struggle-with-reading/</link>
       <pubDate>Wed, 03 Aug 2022 16:08:53 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/students-struggle-with-reading/</guid>
       <description>Common issues with large amounts of reading1 Ineffective strats for large reading loads Understanding Application Higher mental/cognitive effort -&amp;gt; self-perceived inadequacy/poorer learning Opposite is true Learning snowballs More prior knowledge -&amp;gt; faster learning Less prior -&amp;gt; slower learning, constant overwhelm These problems can be eleviated by implementing Strategies for higher-order learning
 Read about it: Tackling the problem of students’ failure to hit the books by Justin Sung https://lens.monash.edu/2022/07/28/1384921?slug=read-about-it-tackling-the-problem-of-students-failure-to-hit-the-books&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
-    
     <item>
       <title>Strategies for higher-order learning</title>
       <link>https://michaelacheong.com/strategies-for-higher-order-learning/</link>
       <pubDate>Sat, 30 Jul 2022 22:04:39 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/strategies-for-higher-order-learning/</guid>
       <description>All from Monash Uni. 1
 Comparing ideas against each other Identifying relationships Prioritising and making judgements on the nature and importance of the relationships Considering the purpose of information and how it can be applied Focusing on creating clear and explicit networks of information rather than simply understanding isolated concepts. Additionally Maintain self-awareness Self-check as you go for appl of strategies Increase self-awareness Learn about meta learning Learn about own behaviours and thought patterns Read about it: Tackling the problem of students’ failure to hit the books by Justin Sung https://lens.</description>
     </item>
-    
     <item>
       <title>Second brain</title>
       <link>https://michaelacheong.com/second-brain/</link>
       <pubDate>Sat, 09 Jul 2022 21:30:24 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/second-brain/</guid>
       <description>How to Organise your Life - Building a Second Brain by Ali Adbaal
 Capture: note-taking systems. Google Keep Bullet journal Organise: &amp;ldquo;Where will I use this information?&amp;rdquo; Distill: progressive summarisation, like highlighting on steroids? Express: show your work this productivity system changed everything // how to build a second brain by Mariana&amp;rsquo;s Corner</description>
     </item>
-    
     <item>
       <title>Tutoring</title>
       <link>https://michaelacheong.com/tutoring/</link>
       <pubDate>Sat, 18 Jun 2022 22:20:34 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/tutoring/</guid>
       <description>Tips for tutors: 12 teaching strategies for effective learning - Tutorhub Blog
 What Makes a Successful Tutor?
@@ -63,17 +55,14 @@ What Makes a Successful Tutor?
 15 Quick Tutor Tips | Academic Success Center | Iowa State University
 10 Golden Rules for Being a Good Tutor</description>
     </item>
-    
     <item>
       <title>Digital garden</title>
       <link>https://michaelacheong.com/digital-garden/</link>
       <pubDate>Mon, 23 May 2022 15:04:46 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/digital-garden/</guid>
       <description>A digital garden is a place for thoughts, knowledge and ideas to grow.
 Reminds me of a second brain, PKM (personal knowledge management system), life wiki, Zettelkasten, all those bigs words. But there is something distinctly cute uwu about the notion of a digital garden.
 The main reference for what a digital garden is comes from Maggie Appleton. I will not follow the original ethos to the T, but it&amp;rsquo;s a very nice read nonetheless.</description>
     </item>
-    
   </channel>
 </rss>

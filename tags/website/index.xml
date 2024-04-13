@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>website on Momentos from Michaela</title>
+    <title>Website on Michaela Cheong</title>
     <link>https://michaelacheong.com/tags/website/</link>
-    <description>Recent content in website on Momentos from Michaela</description>
+    <description>Recent content in Website on Michaela Cheong</description>
     <image>
-      <title>Momentos from Michaela</title>
+      <title>Michaela Cheong</title>
       <url>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Mon, 23 May 2022 15:04:53 +1000</lastBuildDate><atom:link href="https://michaelacheong.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://michaelacheong.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
       <link>https://michaelacheong.com/hugo/</link>
       <pubDate>Mon, 23 May 2022 15:04:53 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/hugo/</guid>
       <description>What I use to make my site.</description>
     </item>
-    
   </channel>
 </rss>

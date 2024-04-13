@@ -1,34 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>connect-group on Momentos from Michaela</title>
+    <title>Connect-Group on Michaela Cheong</title>
     <link>https://michaelacheong.com/series/connect-group/</link>
-    <description>Recent content in connect-group on Momentos from Michaela</description>
+    <description>Recent content in Connect-Group on Michaela Cheong</description>
     <image>
-      <title>Momentos from Michaela</title>
+      <title>Michaela Cheong</title>
       <url>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Wed, 20 Jul 2022 22:25:47 +1000</lastBuildDate><atom:link href="https://michaelacheong.com/series/connect-group/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://michaelacheong.com/series/connect-group/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Women in ministry</title>
       <link>https://michaelacheong.com/women-in-ministry/</link>
       <pubDate>Wed, 20 Jul 2022 22:25:47 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/women-in-ministry/</guid>
       <description>bc it&amp;#39;s kinda controversial</description>
     </item>
-    
     <item>
       <title>Continuing in sin makes a liar of God for those of faith</title>
       <link>https://michaelacheong.com/continuing-in-sin/</link>
       <pubDate>Wed, 13 Jul 2022 22:59:25 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/continuing-in-sin/</guid>
       <description>If you continue sinning when you proclaim to have faith, you make God a liar. And you make yourself a liar too, but that kind of pales in comparison to making God a liar.</description>
     </item>
-    
   </channel>
 </rss>

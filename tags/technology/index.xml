@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>technology on Momentos from Michaela</title>
+    <title>Technology on Michaela Cheong</title>
     <link>https://michaelacheong.com/tags/technology/</link>
-    <description>Recent content in technology on Momentos from Michaela</description>
+    <description>Recent content in Technology on Michaela Cheong</description>
     <image>
-      <title>Momentos from Michaela</title>
+      <title>Michaela Cheong</title>
       <url>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Wed, 21 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://michaelacheong.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://michaelacheong.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windows OS</title>
       <link>https://michaelacheong.com/windows-os/</link>
       <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://michaelacheong.com/windows-os/</guid>
       <description>Whilst trying to list out my files in my movie drive
 https://www.minitool.com/news/how-to-open-drive-in-cmd.html
@@ -28,149 +28,118 @@ dir /s &amp;gt;listoffiles.txt or give full path name
 dir &amp;gt;D:\listmyfiles.txt or give list of only a certain file type, like PDFs
 dir /s *.pdf &amp;gt;listpdf.txt </description>
     </item>
-    
     <item>
       <title>Obsidian</title>
       <link>https://michaelacheong.com/obsidian/</link>
       <pubDate>Sat, 23 Jul 2022 10:48:52 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/obsidian/</guid>
       <description>.md</description>
     </item>
-    
     <item>
       <title>File management</title>
       <link>https://michaelacheong.com/file-mgmt/</link>
       <pubDate>Fri, 22 Jul 2022 17:10:32 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/file-mgmt/</guid>
       <description>bc idk how to store my files in a neat way</description>
     </item>
-    
     <item>
       <title>R</title>
       <link>https://michaelacheong.com/r/</link>
       <pubDate>Fri, 22 Jul 2022 16:58:18 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/r/</guid>
       <description>A statistical programming language</description>
     </item>
-    
     <item>
       <title>Using my Pixel for photo storage</title>
       <link>https://michaelacheong.com/using-my-pixel-for-photo-storage/</link>
       <pubDate>Sat, 16 Jul 2022 21:52:33 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/using-my-pixel-for-photo-storage/</guid>
       <description>because google pixels offer unlimited storage saver for photos</description>
     </item>
-    
     <item>
       <title>Phone migration</title>
       <link>https://michaelacheong.com/phone-migration/</link>
       <pubDate>Sat, 16 Jul 2022 21:50:36 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/phone-migration/</guid>
       <description>Android birds moving south during the winter to the warm embrace of an eye phone</description>
     </item>
-    
     <item>
       <title>LaTeX</title>
       <link>https://michaelacheong.com/latex/</link>
       <pubDate>Sat, 16 Jul 2022 21:28:46 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/latex/</guid>
       <description>Nerd mode: engaged</description>
     </item>
-    
     <item>
       <title>Computer migration</title>
       <link>https://michaelacheong.com/computer-migration/</link>
       <pubDate>Sat, 16 Jul 2022 21:00:08 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/computer-migration/</guid>
       <description>Current specs:
 Laptop: Dell Inspiron 13-5378 CPU: Intel i5-7200U @ 2.50GHz RAM: 4GB HDD: 500GB SSD, installed by a friend but this originally had 128GB iirc OS: Windows 10 Home Incoming:
 Laptop: Lenovo Thinkpad X1 Carbon Gen 7 14&amp;quot; CPU: Intel i7-8565U 1.80Ghz RAM: 16GB HDD: 500GB SSD OS: Windows 10 Home SYSTEM BENEFITS according to seller Lenovo claims a 18.3 hour battery life; I have experienced closer to 10 hours with constant use of Remote Desktop Connection.</description>
     </item>
-    
     <item>
       <title>Email management</title>
       <link>https://michaelacheong.com/email-mgmt/</link>
       <pubDate>Fri, 15 Jul 2022 10:33:23 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/email-mgmt/</guid>
       <description>Because emails are AAA</description>
     </item>
-    
     <item>
       <title>Second brain</title>
       <link>https://michaelacheong.com/second-brain/</link>
       <pubDate>Sat, 09 Jul 2022 21:30:24 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/second-brain/</guid>
       <description>How to Organise your Life - Building a Second Brain by Ali Adbaal
 Capture: note-taking systems. Google Keep Bullet journal Organise: &amp;ldquo;Where will I use this information?&amp;rdquo; Distill: progressive summarisation, like highlighting on steroids? Express: show your work this productivity system changed everything // how to build a second brain by Mariana&amp;rsquo;s Corner</description>
     </item>
-    
     <item>
       <title>Notion</title>
       <link>https://michaelacheong.com/notion/</link>
       <pubDate>Thu, 16 Jun 2022 20:59:13 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/notion/</guid>
       <description>.so</description>
     </item>
-    
     <item>
       <title>VSCode</title>
       <link>https://michaelacheong.com/vscode/</link>
       <pubDate>Thu, 26 May 2022 09:26:13 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/vscode/</guid>
       <description>I think you call this a stack, where you talk about applications you use and their setup. So, I am gonna write a university stack, or a general productivity stack, but this is my VSCode stack, which in essence is a list of extensions I use and my setup.
 Colour Theme: Rouge I like navy and the soft pink is really nice. -I also have used Horizon Bright by jolaleye if I ever want to use a light theme (so, not super often, but enough to say I like it as a theme).</description>
     </item>
-    
     <item>
       <title>CSS</title>
       <link>https://michaelacheong.com/css/</link>
       <pubDate>Mon, 23 May 2022 21:54:05 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/css/</guid>
       <description>I only slightly want to claw my eyes out. May I please just have pretty fonts?
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts https://discourse.gohugo.io/t/how-to-load-assets-from-the-static-folder-in-a-css-file/21005 Need to fix theme-vars.css with my actual desired fonts lol
 Best practices Line spacing http://www.unit-conversion.info/texttools/add-line-break-by-length/ Typography https://www.editorx.com/shaping-design/article/font-size Functional text https://pimpmytype.com/functional-text/ </description>
     </item>
-    
     <item>
       <title>GitHub</title>
       <link>https://michaelacheong.com/github/</link>
       <pubDate>Mon, 23 May 2022 15:34:05 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/github/</guid>
       <description>And also git. Version control, and stuff...</description>
     </item>
-    
     <item>
       <title>Hugo</title>
       <link>https://michaelacheong.com/hugo/</link>
       <pubDate>Mon, 23 May 2022 15:04:53 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/hugo/</guid>
       <description>What I use to make my site.</description>
     </item>
-    
     <item>
       <title>Digital garden</title>
       <link>https://michaelacheong.com/digital-garden/</link>
       <pubDate>Mon, 23 May 2022 15:04:46 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/digital-garden/</guid>
       <description>A digital garden is a place for thoughts, knowledge and ideas to grow.
 Reminds me of a second brain, PKM (personal knowledge management system), life wiki, Zettelkasten, all those bigs words. But there is something distinctly cute uwu about the notion of a digital garden.
 The main reference for what a digital garden is comes from Maggie Appleton. I will not follow the original ethos to the T, but it&amp;rsquo;s a very nice read nonetheless.</description>
     </item>
-    
   </channel>
 </rss>

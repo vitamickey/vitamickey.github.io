@@ -1,45 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>mathematics on Momentos from Michaela</title>
+    <title>Mathematics on Michaela Cheong</title>
     <link>https://michaelacheong.com/tags/mathematics/</link>
-    <description>Recent content in mathematics on Momentos from Michaela</description>
+    <description>Recent content in Mathematics on Michaela Cheong</description>
     <image>
-      <title>Momentos from Michaela</title>
+      <title>Michaela Cheong</title>
       <url>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Mon, 25 Jul 2022 09:49:47 +1000</lastBuildDate><atom:link href="https://michaelacheong.com/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jul 2022 21:49:47 +1000</lastBuildDate>
+    <atom:link href="https://michaelacheong.com/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discrete Mathematics II</title>
       <link>https://michaelacheong.com/discrete-maths-ii/</link>
       <pubDate>Mon, 25 Jul 2022 09:49:47 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/discrete-maths-ii/</guid>
       <description>I Basic Counting (pg. 5) 1 Selections (pg. 5) 1.1-1.4 Basic counting formulas Given a set of \(n\) objects, the number of ways of selecting \(r\) objects can be found according to the table below.
 No repetition With repetition Order matters (Ordered) \(\frac{n!}{(n-r)!}\) \(n^r\) Order does not matter (Unordered) \(\binom{n}{r} = \frac{n!}{(n-r)!r!}\) \(\binom{n+r-1}{r} = \binom{n+r-1}{n-1}\) 1.4 Intuition for unordered selections with repetition This is the balls and buckets representation. If we wish to select \(r\) objects from an \(n\)-set, we essentially want to count the number of ways we can split up the \(n\) objects (i.</description>
     </item>
-    
     <item>
       <title>LaTeX</title>
       <link>https://michaelacheong.com/latex/</link>
       <pubDate>Sat, 16 Jul 2022 21:28:46 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/latex/</guid>
       <description>Nerd mode: engaged</description>
     </item>
-    
     <item>
       <title>Complex Analysis</title>
       <link>https://michaelacheong.com/complex-analysis/</link>
       <pubDate>Mon, 30 May 2022 16:01:37 +1000</pubDate>
-      
       <guid>https://michaelacheong.com/complex-analysis/</guid>
       <description>I have an exam coming up, so going to try and make this page into a big fat guide to complex analysis. NEVERMIND I can&amp;rsquo;t get mathjax to work yet lol. Update: 11 of June 2022 MATHS WORKS it&amp;rsquo;s officially complex analysis time, my homies. Actually, I could probably write about slightly lower levels of maths first?? idk. At least maths works. \(i^2 = -1\).
 \[\underset{x\to\infty}{\lim} f(x) = \mathbb{BEANS}.\]</description>
     </item>
-    
   </channel>
 </rss>
