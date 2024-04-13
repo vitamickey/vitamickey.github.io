@@ -1,34 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>coding on Momentos from Michaela</title>
-    <link>https://michaelacheong.com/tags/coding/</link>
-    <description>Recent content in coding on Momentos from Michaela</description>
+    <title>Coding on Michaela Cheong</title>
+    <link>http://michaelacheong.com/tags/coding/</link>
+    <description>Recent content in Coding on Michaela Cheong</description>
     <image>
-      <title>Momentos from Michaela</title>
-      <url>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Michaela Cheong</title>
+      <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Mon, 23 May 2022 15:34:05 +1000</lastBuildDate><atom:link href="https://michaelacheong.com/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://michaelacheong.com/tags/coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GitHub</title>
       <link>https://michaelacheong.com/github/</link>
       <pubDate>Mon, 23 May 2022 15:34:05 +1000</pubDate>
-      
-      <guid>https://michaelacheong.com/github/</guid>
+      <guid>http://michaelacheong.com/github/</guid>
       <description>And also git. Version control, and stuff...</description>
     </item>
-    
     <item>
       <title>Hugo</title>
       <link>https://michaelacheong.com/hugo/</link>
       <pubDate>Mon, 23 May 2022 15:04:53 +1000</pubDate>
-      
-      <guid>https://michaelacheong.com/hugo/</guid>
+      <guid>http://michaelacheong.com/hugo/</guid>
       <description>What I use to make my site.</description>
     </item>
-    
   </channel>
 </rss>

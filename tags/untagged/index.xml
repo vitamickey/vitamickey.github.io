@@ -1,59 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>untagged on Momentos from Michaela</title>
-    <link>https://michaelacheong.com/tags/untagged/</link>
-    <description>Recent content in untagged on Momentos from Michaela</description>
+    <title>Untagged on Michaela Cheong</title>
+    <link>http://michaelacheong.com/tags/untagged/</link>
+    <description>Recent content in Untagged on Michaela Cheong</description>
     <image>
-      <title>Momentos from Michaela</title>
-      <url>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Michaela Cheong</title>
+      <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Sat, 30 Jul 2022 11:25:09 +1000</lastBuildDate><atom:link href="https://michaelacheong.com/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://michaelacheong.com/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
       <link>https://michaelacheong.com/posts/</link>
       <pubDate>Sat, 30 Jul 2022 11:25:09 +1000</pubDate>
-      
-      <guid>https://michaelacheong.com/posts/</guid>
+      <guid>http://michaelacheong.com/posts/</guid>
       <description>Everything</description>
     </item>
-    
     <item>
       <title>Auslan</title>
       <link>https://michaelacheong.com/auslan/</link>
       <pubDate>Mon, 25 Jul 2022 09:50:55 +1000</pubDate>
-      
-      <guid>https://michaelacheong.com/auslan/</guid>
+      <guid>http://michaelacheong.com/auslan/</guid>
       <description>Australian Sign Language</description>
     </item>
-    
     <item>
       <title>Continuing in sin makes a liar of God for those of faith</title>
       <link>https://michaelacheong.com/continuing-in-sin/</link>
       <pubDate>Wed, 13 Jul 2022 22:59:25 +1000</pubDate>
-      
-      <guid>https://michaelacheong.com/continuing-in-sin/</guid>
+      <guid>http://michaelacheong.com/continuing-in-sin/</guid>
       <description>If you continue sinning when you proclaim to have faith, you make God a liar. And you make yourself a liar too, but that kind of pales in comparison to making God a liar.</description>
     </item>
-    
     <item>
       <title>Creating list</title>
       <link>https://michaelacheong.com/to-create/</link>
       <pubDate>Wed, 13 Jul 2022 18:26:13 +1000</pubDate>
-      
-      <guid>https://michaelacheong.com/to-create/</guid>
+      <guid>http://michaelacheong.com/to-create/</guid>
       <description>Things I would like to make or work on? Projects list, with an arts focus.</description>
     </item>
-    
     <item>
       <title>21st ideas</title>
       <link>https://michaelacheong.com/21st/</link>
       <pubDate>Sat, 09 Jul 2022 22:00:51 +1000</pubDate>
-      
-      <guid>https://michaelacheong.com/21st/</guid>
+      <guid>http://michaelacheong.com/21st/</guid>
       <description>29 Dec 2021
 Incorporating values: sincerity, verbal affirmation love language, God, relationships, journalling, thrifting, nostalgia/wishing to go back to my childhood :((
 Theme: Childhood
@@ -62,26 +54,21 @@ Butterfly motifs (I was reminded of my love for butterflies when I was looking f
 https://open.spotify.com/playlist/2JuzoWUKJ9YW5FnlgEgoWS?si=p3T75dxLS_Cgz3c_syzYjw
 Lunch/arvo tea party https://www.kidspot.com.au/kitchen/galleries/20-favourite-party-foods-time/2wvwocqw</description>
     </item>
-    
     <item>
       <title>Personal lexicon</title>
       <link>https://michaelacheong.com/personal-lexicon/</link>
       <pubDate>Sat, 09 Jul 2022 20:59:12 +1000</pubDate>
-      
-      <guid>https://michaelacheong.com/personal-lexicon/</guid>
+      <guid>http://michaelacheong.com/personal-lexicon/</guid>
       <description>Fun words and things I might say and where they come from if I feel like adding that
 gesamtkunstwerk BDG pokerap kino Ryan?? Juicy beef Sneezing is not normal, I never sneeze ephemeral came up in a Tick Tick Boom! featurette, Andrew Garfield on Jonathan Larsson&amp;rsquo;s outlook on life? Also, came up in Miraculous Ladybug. Systemic problems require long-term, systemic solutions </description>
     </item>
-    
     <item>
       <title>my anthropocene</title>
       <link>https://michaelacheong.com/my-anthropocene/</link>
       <pubDate>Sat, 09 Jul 2022 20:57:27 +1000</pubDate>
-      
-      <guid>https://michaelacheong.com/my-anthropocene/</guid>
+      <guid>http://michaelacheong.com/my-anthropocene/</guid>
       <description>I want to write reviews much like mr John Green himself. This is a list of topics I could potentially write about
 top-hat octopi carbonated drinks hi5 alien headband acoustic guitars rainbow lorikeets mushrooms swimming pools 75cm-high desks car dealerships lemon lime and bitters panoramas pandemic (current) reusable face masks Dear sister Wiggles World The Bayeaux Tapestry zigzag twisties buses Club Penguin rose gold illness anonymity Shrek 4 </description>
     </item>
-    
   </channel>
 </rss>

@@ -1,32 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>consumption on Momentos from Michaela</title>
-    <link>https://michaelacheong.com/tags/consumption/</link>
-    <description>Recent content in consumption on Momentos from Michaela</description>
+    <title>Consumption on Michaela Cheong</title>
+    <link>http://michaelacheong.com/tags/consumption/</link>
+    <description>Recent content in Consumption on Michaela Cheong</description>
     <image>
-      <title>Momentos from Michaela</title>
-      <url>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Michaela Cheong</title>
+      <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Thu, 21 Jul 2022 19:11:36 +1000</lastBuildDate><atom:link href="https://michaelacheong.com/tags/consumption/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://michaelacheong.com/tags/consumption/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital Minimalism</title>
       <link>https://michaelacheong.com/digital-minimalism/</link>
       <pubDate>Thu, 21 Jul 2022 19:11:36 +1000</pubDate>
-      
-      <guid>https://michaelacheong.com/digital-minimalism/</guid>
+      <guid>http://michaelacheong.com/digital-minimalism/</guid>
       <description>I should do it again.</description>
     </item>
-    
     <item>
       <title>Food</title>
       <link>https://michaelacheong.com/food/</link>
       <pubDate>Sat, 09 Jul 2022 21:10:17 +1000</pubDate>
-      
-      <guid>https://michaelacheong.com/food/</guid>
+      <guid>http://michaelacheong.com/food/</guid>
       <description>Fighting food waste Rice with protein and veggies Noodles with protein and veggies SOUP Frittata/omelette https://www.bonappetit.com/recipe/use-it-up-frittata Stir fry Fried rice https://www.lovefoodhatewaste.com/recipes
 https://www.eatforhealth.gov.au/food-essentials/how-much-do-we-need-each-day/recommended-number-serves-adults https://www.eatforhealth.gov.au/food-essentials/how-much-do-we-need-each-day/serve-sizes
 https://www.nytimes.com/wirecutter/blog/keep-your-produce-fresh/
@@ -38,19 +36,16 @@ https://www.lovefoodhatewaste.nsw.gov.au/at-home/reduce-your-food-waste
 Notes:
 Recipes </description>
     </item>
-    
     <item>
       <title>Recipes MOC</title>
       <link>https://michaelacheong.com/recipes/</link>
       <pubDate>Sat, 09 Jul 2022 20:37:27 +1000</pubDate>
-      
-      <guid>https://michaelacheong.com/recipes/</guid>
+      <guid>http://michaelacheong.com/recipes/</guid>
       <description>Researching Cheap recipes https://www.bestrecipes.com.au/budget/galleries/50-budget-friendly-meals-students-stir-fry-curries-fritters/rvqpmwm4
 https://www.bbcgoodfood.com/recipes/collection/student-recipes
 https://www.bonappetit.com/gallery/cheap-recipes
 https://www.bonappetit.com/recipe/steamed-vegetables-with-rice-and-miso-ginger-dressing
 That I want to try Maccas cajun sauce https://my.whisk.com/recipes/1016205acdcfb9d656947a701d9bf84c07886eae779 https://www.moribyan.com/mcdonalds-chicken-nuggets-and-cajun-sauce-bts-meal/ Snickerdoodles (maybe in mrs fields style) https://butternutbakeryblog.com/maple-snickerdoodle-cookies/ Sticky date!!! https://www.recipetineats.com/sticky-toffee-pudding/ Others on social media Instagram saves Pinterest Facebook That I&amp;rsquo;ve tried [[Dairy-free brownies]] [[Strawberry jam]] [[Jin doy (jian dui) (sesame balls red bean)]] [[Claire Saffitz choc chip cookie]] [[Banana pancakes]] [[Roasted veggies]] [[Eggplant with garlic sauce]] [[PICKLES]] [[Simple Korean Cucumber Salad (Oi Muchim 오이무침)]] [[Mulberry jam]] [[Almond butter]] Family recipes My mum&amp;rsquo;s cooking channel: https://www.</description>
     </item>
-    
   </channel>
 </rss>
