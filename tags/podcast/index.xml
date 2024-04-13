@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>podcast on Museum of Michaela</title>
+    <title>Podcast on Michaela Cheong</title>
     <link>http://michaelacheong.com/tags/podcast/</link>
-    <description>Recent content in podcast on Museum of Michaela</description>
+    <description>Recent content in Podcast on Michaela Cheong</description>
     <image>
-      <title>Museum of Michaela</title>
+      <title>Michaela Cheong</title>
       <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://michaelacheong.com/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The New Writer&#39;s Room</title>
       <link>http://michaelacheong.com/the-new-writers-room/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://michaelacheong.com/the-new-writers-room/</guid>
       <description>Related:
 Writing Prep for SBS Emerging Writers Competition
 Episodes
 Christos Tsiolkas - The act of writing itself teaches you how to write [Alice Pung - &amp;lsquo;My published output is a small fraction of what I write&amp;rsquo;] [The New Writer&amp;rsquo;s Room - Being published and the writer-editor relationship] Listen to our Sydney Writers&amp;rsquo; Festival panel, &amp;lsquo;What If My Mum Reads This&amp;rsquo; Atomic</description>
     </item>
-    
   </channel>
 </rss>

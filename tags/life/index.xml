@@ -1,54 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>life on Museum of Michaela</title>
+    <title>Life on Michaela Cheong</title>
     <link>http://michaelacheong.com/tags/life/</link>
-    <description>Recent content in life on Museum of Michaela</description>
+    <description>Recent content in Life on Michaela Cheong</description>
     <image>
-      <title>Museum of Michaela</title>
+      <title>Michaela Cheong</title>
       <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Fri, 17 Jun 2022 11:49:10 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://michaelacheong.com/tags/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Financial literacy</title>
       <link>http://michaelacheong.com/financial-literacy/</link>
       <pubDate>Fri, 17 Jun 2022 11:49:10 +1000</pubDate>
-      
       <guid>http://michaelacheong.com/financial-literacy/</guid>
       <description>OH MAN I have put off doing my tax returns for years now because I don&amp;rsquo;t make a taxable income AND because my identification wasn&amp;rsquo;t working it took me like two years to link my myGov to the ATO. I laugh at myself.
 Doing my taxes for the first time So, did my first one. I figured out that my scholarship is not taxable income. So that&amp;rsquo;s good.</description>
     </item>
-    
     <item>
       <title>Moving out</title>
       <link>http://michaelacheong.com/moving-out/</link>
       <pubDate>Tue, 24 May 2022 12:07:51 +1000</pubDate>
-      
       <guid>http://michaelacheong.com/moving-out/</guid>
       <description>I am moving out soon.</description>
     </item>
-    
     <item>
       <title>Existential dread</title>
       <link>http://michaelacheong.com/existential-dread/</link>
       <pubDate>Tue, 24 May 2022 12:07:21 +1000</pubDate>
-      
       <guid>http://michaelacheong.com/existential-dread/</guid>
       <description>Sometimes, I get this horrible feeling in my stomach. It&amp;rsquo;s happens in a moment where I sort of realise that I am an actual human on the earth. It&amp;rsquo;s a strange sensation. I feel this pit in my stomach, and the world seems a bit too real for a couple of seconds.</description>
     </item>
-    
     <item>
       <title>Decluttering</title>
       <link>http://michaelacheong.com/decluttering/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://michaelacheong.com/decluttering/</guid>
       <description>6 things you should get rid of by Jenny Mustard https://youtu.be/i0mmVVVpAAg Things you don’t need, don&amp;rsquo;t love.
 Maybe one day Just in case &amp;lsquo;So-so&amp;rsquo; clothes &amp;lsquo;For now&amp;rsquo; (that we will use until we find or can afford the better version) &amp;lsquo;I should&amp;rsquo; (tools for improvement that make you feel bad about yourself) &amp;lsquo;If only&amp;rsquo; (we quit our jobs, but a nice house,…) Process/System Principles No need to store up treasures on earth [[Hold all things loosely]] No need to be anxious about clothing Someone may benefit from your possessions more than you would1 Do everything for God&amp;rsquo;s glory If you had to give an account to God for every item you own, what would God think?</description>
     </item>
-    
   </channel>
 </rss>

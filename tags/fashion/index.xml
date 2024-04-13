@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>fashion on Museum of Michaela</title>
+    <title>Fashion on Michaela Cheong</title>
     <link>http://michaelacheong.com/tags/fashion/</link>
-    <description>Recent content in fashion on Museum of Michaela</description>
+    <description>Recent content in Fashion on Michaela Cheong</description>
     <image>
-      <title>Museum of Michaela</title>
+      <title>Michaela Cheong</title>
       <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Sat, 09 Jul 2022 20:42:23 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/fashion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://michaelacheong.com/tags/fashion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fast fashion</title>
       <link>http://michaelacheong.com/fast-fashion/</link>
       <pubDate>Sat, 09 Jul 2022 20:42:23 +1000</pubDate>
-      
       <guid>http://michaelacheong.com/fast-fashion/</guid>
       <description>The effect of boycotting fast fashion on garment workers Thoughts There is a big debate about what would happen to all the garment workers who earn their living off of fast fashion if we boycotted fast fashion companies. Would they be driven into worse industries riddled with exploitation, such as sex-related trades?
 Reading list http://www.anotherrantingreader.co.uk/2021/06/what-happens-to-garment-workers-if-we.html
@@ -28,33 +28,26 @@ https://www.thefineryreport.com/articles/2019/5/15/if-fast-fashion-disappeared
 https://www.thegoodtrade.com/features/garment-workers-fashion-boycott
 https://goodonyou.eco/fast-fashion-factories-trap-women/</description>
     </item>
-    
     <item>
       <title>Shopping list</title>
       <link>http://michaelacheong.com/shopping-list/</link>
       <pubDate>Sat, 09 Jul 2022 19:48:39 +1000</pubDate>
-      
       <guid>http://michaelacheong.com/shopping-list/</guid>
       <description>What I may buy.</description>
     </item>
-    
     <item>
       <title>Personal style</title>
       <link>http://michaelacheong.com/personal-style/</link>
       <pubDate>Thu, 07 Jul 2022 11:47:21 +1000</pubDate>
-      
       <guid>http://michaelacheong.com/personal-style/</guid>
       <description>Fashion for passion.</description>
     </item>
-    
     <item>
       <title>Ethical fashion</title>
       <link>http://michaelacheong.com/ethical-fashion/</link>
       <pubDate>Thu, 26 May 2022 15:17:46 +1000</pubDate>
-      
       <guid>http://michaelacheong.com/ethical-fashion/</guid>
       <description>A topic as chunky as my Doc Marten soles.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,36 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>discipline on Museum of Michaela</title>
+    <title>Discipline on Michaela Cheong</title>
     <link>http://michaelacheong.com/tags/discipline/</link>
-    <description>Recent content in discipline on Museum of Michaela</description>
+    <description>Recent content in Discipline on Michaela Cheong</description>
     <image>
-      <title>Museum of Michaela</title>
+      <title>Michaela Cheong</title>
       <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Thu, 16 Jun 2022 08:38:44 +1000</lastBuildDate><atom:link href="http://michaelacheong.com/tags/discipline/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jun 2022 08:38:44 +1000</lastBuildDate>
+    <atom:link href="http://michaelacheong.com/tags/discipline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Read the Bible every single day</title>
       <link>http://michaelacheong.com/read-bible-daily/</link>
       <pubDate>Thu, 16 Jun 2022 08:38:44 +1000</pubDate>
-      
       <guid>http://michaelacheong.com/read-bible-daily/</guid>
       <description>Some key reasons:
 If I have time to eat, I have time to read. John Piper things to commit to in your 20&amp;rsquo;s
 I am fickle. Coffee &amp;amp; Bible Time video - I need to read daily because I have a pretty bad memory.</description>
     </item>
-    
     <item>
       <title>Read the Bible in the morning (probably)</title>
       <link>http://michaelacheong.com/read-bible-morning/</link>
       <pubDate>Thu, 16 Jun 2022 08:38:38 +1000</pubDate>
-      
       <guid>http://michaelacheong.com/read-bible-morning/</guid>
       <description>And why other times are not As Good</description>
     </item>
-    
   </channel>
 </rss>
