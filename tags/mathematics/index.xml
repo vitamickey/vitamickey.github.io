@@ -15,7 +15,7 @@
     <atom:link href="http://michaelacheong.com/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discrete Mathematics II</title>
-      <link>http://michaelacheong.com/discrete-maths-ii/</link>
+      <link>https://michaelacheong.com/discrete-maths-ii/</link>
       <pubDate>Mon, 25 Jul 2022 09:49:47 +1000</pubDate>
       <guid>http://michaelacheong.com/discrete-maths-ii/</guid>
       <description>I Basic Counting (pg. 5) 1 Selections (pg. 5) 1.1-1.4 Basic counting formulas Given a set of \(n\) objects, the number of ways of selecting \(r\) objects can be found according to the table below.
@@ -23,14 +23,14 @@ No repetition With repetition Order matters (Ordered) \(\frac{n!}{(n-r)!}\) \(n^
     </item>
     <item>
       <title>LaTeX</title>
-      <link>http://michaelacheong.com/latex/</link>
+      <link>https://michaelacheong.com/latex/</link>
       <pubDate>Sat, 16 Jul 2022 21:28:46 +1000</pubDate>
       <guid>http://michaelacheong.com/latex/</guid>
       <description>Nerd mode: engaged</description>
     </item>
     <item>
       <title>Complex Analysis</title>
-      <link>http://michaelacheong.com/complex-analysis/</link>
+      <link>https://michaelacheong.com/complex-analysis/</link>
       <pubDate>Mon, 30 May 2022 16:01:37 +1000</pubDate>
       <guid>http://michaelacheong.com/complex-analysis/</guid>
       <description>I have an exam coming up, so going to try and make this page into a big fat guide to complex analysis. NEVERMIND I can&amp;rsquo;t get mathjax to work yet lol. Update: 11 of June 2022 MATHS WORKS it&amp;rsquo;s officially complex analysis time, my homies. Actually, I could probably write about slightly lower levels of maths first?? idk. At least maths works. \(i^2 = -1\).

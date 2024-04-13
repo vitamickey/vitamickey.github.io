@@ -15,7 +15,7 @@
     <atom:link href="http://michaelacheong.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windows OS</title>
-      <link>http://michaelacheong.com/windows-os/</link>
+      <link>https://michaelacheong.com/windows-os/</link>
       <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://michaelacheong.com/windows-os/</guid>
       <description>Whilst trying to list out my files in my movie drive
@@ -30,49 +30,49 @@ dir /s *.pdf &amp;gt;listpdf.txt </description>
     </item>
     <item>
       <title>Obsidian</title>
-      <link>http://michaelacheong.com/obsidian/</link>
+      <link>https://michaelacheong.com/obsidian/</link>
       <pubDate>Sat, 23 Jul 2022 10:48:52 +1000</pubDate>
       <guid>http://michaelacheong.com/obsidian/</guid>
       <description>.md</description>
     </item>
     <item>
       <title>File management</title>
-      <link>http://michaelacheong.com/file-mgmt/</link>
+      <link>https://michaelacheong.com/file-mgmt/</link>
       <pubDate>Fri, 22 Jul 2022 17:10:32 +1000</pubDate>
       <guid>http://michaelacheong.com/file-mgmt/</guid>
       <description>bc idk how to store my files in a neat way</description>
     </item>
     <item>
       <title>R</title>
-      <link>http://michaelacheong.com/r/</link>
+      <link>https://michaelacheong.com/r/</link>
       <pubDate>Fri, 22 Jul 2022 16:58:18 +1000</pubDate>
       <guid>http://michaelacheong.com/r/</guid>
       <description>A statistical programming language</description>
     </item>
     <item>
       <title>Using my Pixel for photo storage</title>
-      <link>http://michaelacheong.com/using-my-pixel-for-photo-storage/</link>
+      <link>https://michaelacheong.com/using-my-pixel-for-photo-storage/</link>
       <pubDate>Sat, 16 Jul 2022 21:52:33 +1000</pubDate>
       <guid>http://michaelacheong.com/using-my-pixel-for-photo-storage/</guid>
       <description>because google pixels offer unlimited storage saver for photos</description>
     </item>
     <item>
       <title>Phone migration</title>
-      <link>http://michaelacheong.com/phone-migration/</link>
+      <link>https://michaelacheong.com/phone-migration/</link>
       <pubDate>Sat, 16 Jul 2022 21:50:36 +1000</pubDate>
       <guid>http://michaelacheong.com/phone-migration/</guid>
       <description>Android birds moving south during the winter to the warm embrace of an eye phone</description>
     </item>
     <item>
       <title>LaTeX</title>
-      <link>http://michaelacheong.com/latex/</link>
+      <link>https://michaelacheong.com/latex/</link>
       <pubDate>Sat, 16 Jul 2022 21:28:46 +1000</pubDate>
       <guid>http://michaelacheong.com/latex/</guid>
       <description>Nerd mode: engaged</description>
     </item>
     <item>
       <title>Computer migration</title>
-      <link>http://michaelacheong.com/computer-migration/</link>
+      <link>https://michaelacheong.com/computer-migration/</link>
       <pubDate>Sat, 16 Jul 2022 21:00:08 +1000</pubDate>
       <guid>http://michaelacheong.com/computer-migration/</guid>
       <description>Current specs:
@@ -81,14 +81,14 @@ Laptop: Lenovo Thinkpad X1 Carbon Gen 7 14&amp;quot; CPU: Intel i7-8565U 1.80Ghz
     </item>
     <item>
       <title>Email management</title>
-      <link>http://michaelacheong.com/email-mgmt/</link>
+      <link>https://michaelacheong.com/email-mgmt/</link>
       <pubDate>Fri, 15 Jul 2022 10:33:23 +1000</pubDate>
       <guid>http://michaelacheong.com/email-mgmt/</guid>
       <description>Because emails are AAA</description>
     </item>
     <item>
       <title>Second brain</title>
-      <link>http://michaelacheong.com/second-brain/</link>
+      <link>https://michaelacheong.com/second-brain/</link>
       <pubDate>Sat, 09 Jul 2022 21:30:24 +1000</pubDate>
       <guid>http://michaelacheong.com/second-brain/</guid>
       <description>How to Organise your Life - Building a Second Brain by Ali Adbaal
@@ -96,14 +96,14 @@ Capture: note-taking systems. Google Keep Bullet journal Organise: &amp;ldquo;Wh
     </item>
     <item>
       <title>Notion</title>
-      <link>http://michaelacheong.com/notion/</link>
+      <link>https://michaelacheong.com/notion/</link>
       <pubDate>Thu, 16 Jun 2022 20:59:13 +1000</pubDate>
       <guid>http://michaelacheong.com/notion/</guid>
       <description>.so</description>
     </item>
     <item>
       <title>VSCode</title>
-      <link>http://michaelacheong.com/vscode/</link>
+      <link>https://michaelacheong.com/vscode/</link>
       <pubDate>Thu, 26 May 2022 09:26:13 +1000</pubDate>
       <guid>http://michaelacheong.com/vscode/</guid>
       <description>I think you call this a stack, where you talk about applications you use and their setup. So, I am gonna write a university stack, or a general productivity stack, but this is my VSCode stack, which in essence is a list of extensions I use and my setup.
@@ -111,7 +111,7 @@ Colour Theme: Rouge I like navy and the soft pink is really nice. -I also have u
     </item>
     <item>
       <title>CSS</title>
-      <link>http://michaelacheong.com/css/</link>
+      <link>https://michaelacheong.com/css/</link>
       <pubDate>Mon, 23 May 2022 21:54:05 +1000</pubDate>
       <guid>http://michaelacheong.com/css/</guid>
       <description>I only slightly want to claw my eyes out. May I please just have pretty fonts?
@@ -120,21 +120,21 @@ Best practices Line spacing http://www.unit-conversion.info/texttools/add-line-b
     </item>
     <item>
       <title>GitHub</title>
-      <link>http://michaelacheong.com/github/</link>
+      <link>https://michaelacheong.com/github/</link>
       <pubDate>Mon, 23 May 2022 15:34:05 +1000</pubDate>
       <guid>http://michaelacheong.com/github/</guid>
       <description>And also git. Version control, and stuff...</description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://michaelacheong.com/hugo/</link>
+      <link>https://michaelacheong.com/hugo/</link>
       <pubDate>Mon, 23 May 2022 15:04:53 +1000</pubDate>
       <guid>http://michaelacheong.com/hugo/</guid>
       <description>What I use to make my site.</description>
     </item>
     <item>
       <title>Digital garden</title>
-      <link>http://michaelacheong.com/digital-garden/</link>
+      <link>https://michaelacheong.com/digital-garden/</link>
       <pubDate>Mon, 23 May 2022 15:04:46 +1000</pubDate>
       <guid>http://michaelacheong.com/digital-garden/</guid>
       <description>A digital garden is a place for thoughts, knowledge and ideas to grow.
