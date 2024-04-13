@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Linguistics on Michaela Cheong</title>
-    <link>http://michaelacheong.com/tags/linguistics/</link>
+    <link>https://michaelacheong.com/tags/linguistics/</link>
     <description>Recent content in Linguistics on Michaela Cheong</description>
     <image>
       <title>Michaela Cheong</title>
-      <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://michaelacheong.com/tags/linguistics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://michaelacheong.com/tags/linguistics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linguistic curiosities</title>
       <link>https://michaelacheong.com/linguistic-curiosities/</link>
       <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://michaelacheong.com/linguistic-curiosities/</guid>
+      <guid>https://michaelacheong.com/linguistic-curiosities/</guid>
       <description>things people say as a result of linguistic phenomena “anythink” “aks” “pronounciation” </description>
     </item>
     <item>
       <title>International Phonetic Alphabet (IPA)</title>
       <link>https://michaelacheong.com/international-phonetic-alphabet-ipa/</link>
       <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://michaelacheong.com/international-phonetic-alphabet-ipa/</guid>
+      <guid>https://michaelacheong.com/international-phonetic-alphabet-ipa/</guid>
       <description>Fonts
 https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;amp;id=IPAhome#2339eb7c
 Charis SIL Google Font now using it on website! and on Obsidian Doulos SIL like Times New Roman Not a Google Font :( Gentium Plus Google Font no bold or bold italic https://www.nickdanis.com/2020/03/07/typing-ipa-symbols/
@@ -39,7 +39,7 @@ https://help.keyman.com/keyboard/sil_ipa/1.8.4/sil_ipa</description>
       <title>LING1005 The Sound Patterns of Language</title>
       <link>https://michaelacheong.com/sound-patterns-of-language/</link>
       <pubDate>Sun, 24 Jul 2022 15:25:53 +1000</pubDate>
-      <guid>http://michaelacheong.com/sound-patterns-of-language/</guid>
+      <guid>https://michaelacheong.com/sound-patterns-of-language/</guid>
       <description>General Tips1 Learn the IPA ASAP Associate a keyword with IPAs that are harder Remember the internal logic of common IPA charts (looks like a head turned left) Use a blank IPA chart Common transcription errors in vowels and stress Finding stress: say word in sing-song like someone&amp;rsquo;s name, and syllable with highest pitch is primary stress IPA Chart Vowels Clickable IPA Charts
 Interactive Sagittal Section
 Consonants 1. Speech Organs 2.</description>
@@ -48,7 +48,7 @@ Consonants 1. Speech Organs 2.</description>
       <title>Phonology</title>
       <link>https://michaelacheong.com/phonology/</link>
       <pubDate>Sun, 24 Jul 2022 15:25:53 +1000</pubDate>
-      <guid>http://michaelacheong.com/phonology/</guid>
+      <guid>https://michaelacheong.com/phonology/</guid>
       <description>General Tips1 Learn the IPA ASAP Associate a keyword with IPAs that are harder Remember the internal logic of common IPA charts (looks like a head turned left) Use a blank IPA chart Common transcription errors in vowels and stress Finding stress: say word in sing-song like someone&amp;rsquo;s name, and syllable with highest pitch is primary stress IPA Chart Vowels Clickable IPA Charts
 Interactive Sagittal Section
 Consonants 1. Speech Organs 2.</description>
@@ -57,7 +57,7 @@ Consonants 1. Speech Organs 2.</description>
       <title>OzCLO</title>
       <link>https://michaelacheong.com/ozclo/</link>
       <pubDate>Wed, 25 May 2022 10:49:54 +1000</pubDate>
-      <guid>http://michaelacheong.com/ozclo/</guid>
+      <guid>https://michaelacheong.com/ozclo/</guid>
       <description>OzCLO is the Australian Computational Linguistics Olympiad. I participated in it during high school. In Grade 10, my junior team beat out the third best senior team in our state, so they actually didn&amp;rsquo;t participate in the national round. In the regional round, we came first for juniors, and then in my senior year we came first in our state (i.e. in the regional round).
 I thoroughly enjoyed all of my experiences to do with OzCLO during high school.</description>
     </item>
@@ -65,7 +65,7 @@ I thoroughly enjoyed all of my experiences to do with OzCLO during high school.<
       <title>Linguistics</title>
       <link>https://michaelacheong.com/linguistics/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://michaelacheong.com/linguistics/</guid>
+      <guid>https://michaelacheong.com/linguistics/</guid>
       <description>I think linguistics is really cool. There is an entire story behind how I got interested in linguistics, which I would like to write up at some point.
 OzCLO QTE Wycliffe Talking to a ling prof from Griffith Naomi&amp;rsquo;s parents Graeme&amp;rsquo;s wife&amp;rsquo;s parents For now, this is ʕgoing to be a sort of quick guide based on my linguistics intro subject at uni, but I will only be trying to revise the topics below so these may not be super comprehensive.</description>
     </item>

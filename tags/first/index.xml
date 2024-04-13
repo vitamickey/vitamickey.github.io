@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>First on Michaela Cheong</title>
-    <link>http://michaelacheong.com/tags/first/</link>
+    <link>https://michaelacheong.com/tags/first/</link>
     <description>Recent content in First on Michaela Cheong</description>
     <image>
       <title>Michaela Cheong</title>
-      <url>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://michaelacheong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <lastBuildDate>Tue, 24 May 2022 10:16:25 +1000</lastBuildDate>
-    <atom:link href="http://michaelacheong.com/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://michaelacheong.com/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>So, it began</title>
       <link>https://michaelacheong.com/so-it-began/</link>
       <pubDate>Mon, 23 May 2022 15:04:25 +1000</pubDate>
-      <guid>http://michaelacheong.com/so-it-began/</guid>
+      <guid>https://michaelacheong.com/so-it-began/</guid>
       <description>I was trying to figure out how to make this website and what exactly it would hold and communicate to the rest of the billions of people with an internet connection. Not that I expect an audience, but once things are out in the world, they stay there. A blog seemed limiting, and I got caught up in a lot of websites recommending I choose a niche and stick to it.</description>
     </item>
   </channel>
